@@ -8,7 +8,9 @@
     "typecheck": "pnpm -r typecheck",
     "supabase": "supabase",
     "sync:shared": "node scripts/sync-shared.mjs",
-    "test:integration": "pnpm --filter @sinequiz/supabase-tests test"
+    "test:integration": "pnpm --filter @sinequiz/supabase-tests test",
+    "test:deno": "cd supabase/functions && deno test",
+    "test:all": "pnpm test && pnpm typecheck && pnpm test:deno"
   },
   "devDependencies": {
     "supabase": "^2.119.0",
