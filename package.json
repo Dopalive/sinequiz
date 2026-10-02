@@ -1,0 +1,16 @@
+{
+  "name": "sinequiz",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@11.12.0",
+  "scripts": {
+    "test": "pnpm -r --filter @sinequiz/shared test",
+    "typecheck": "pnpm -r typecheck",
+    "supabase": "supabase",
+    "sync:shared": "node scripts/sync-shared.mjs",
+    "test:integration": "pnpm --filter @sinequiz/supabase-tests test"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0"
+  }
+}
