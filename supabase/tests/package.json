@@ -1,0 +1,18 @@
+{
+  "name": "@sinequiz/supabase-tests",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "typecheck": "tsc -p tsconfig.json"
+  },
+  "devDependencies": {
+    "@supabase/supabase-js": "^2.45.0",
+    "@types/node": "^24.19.1",
+    "typescript": "^5.6.0",
+    "vitest": "^3.0.0"
+  },
+  "dependencies": {
+    "@sinequiz/shared": "workspace:*"
+  }
+}
