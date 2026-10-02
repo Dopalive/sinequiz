@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "@supabase/supabase-js": "npm:@supabase/supabase-js@2"
+  },
+  "lint": { "rules": { "exclude": ["no-explicit-any"] } },
+  "test": { "include": ["_shared/**/*.test.ts"] }
+}

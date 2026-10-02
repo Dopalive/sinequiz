@@ -4,7 +4,7 @@
   "type": "module",
   "packageManager": "pnpm@11.12.0",
   "scripts": {
-    "test": "pnpm -r --filter @sinequiz/shared test",
+    "test": "node scripts/sync-shared.mjs --check && pnpm -r --filter @sinequiz/shared test",
     "typecheck": "pnpm -r typecheck",
     "supabase": "supabase",
     "sync:shared": "node scripts/sync-shared.mjs",
