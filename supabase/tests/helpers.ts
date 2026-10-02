@@ -33,8 +33,10 @@ export async function newUser(locale = "en"): Promise<{ client: SupabaseClient; 
   const { data, error } = await client.auth.signInAnonymously();
   if (error || !data.session || !data.user) throw error ?? new Error("no session");
   if (locale !== "en") {
-    const { error: upErr } = await client.from("profiles").update({ locale }).eq("id", data.user.id);
+    const { data: row, error: upErr } = await client
+      .from("profiles").update({ locale }).eq("id", data.user.id).select("locale").single();
     if (upErr) throw upErr;
+    if (row?.locale !== locale) throw new Error(`profile locale not updated: wanted ${locale}, got ${row?.locale}`);
   }
   return { client, userId: data.user.id, token: data.session.access_token };
 }
