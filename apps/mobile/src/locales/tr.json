@@ -77,7 +77,7 @@
     "no_questions": "Bu yapım için senin dilinde henüz yeterli soru yok.",
     "joker_already_used": "Bu soruda zaten joker kullandın.",
     "title_not_found": "Yapım bulunamadı.",
-    "unauthorized": "Yeniden giriş için uygulamayı yeniden başlat.",
+    "unauthorized": "Yeniden giriş yapılıyor…",
     "bad_request": "Geçersiz istek.",
     "network": "Bağlantı yok. İnternetini kontrol edip tekrar dene.",
     "internal": "Sunucu hatası. Lütfen tekrar dene."

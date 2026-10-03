@@ -31,10 +31,16 @@ src/
   components/       Button, PressableScale, CoinBadge, TitleCard, TimerBar, ChoiceButton, Confetti, Hero, Notice, Screen
   lib/
     supabase.ts     tek client (AsyncStorage ile kalıcı oturum)
-    auth.tsx        anonim bootstrap, profil, bakiye, dil; silinmiş kullanıcıda kendini yeniler
-    api.ts          4 Edge Function için tipli sarmalayıcı; sadece ağ hatasında retry, 401'de oturumu düşürür
+    auth.tsx        anonim bootstrap (tek seferde bir tane), profil, bakiye, dil; kullanıcıyı yalnız kesin
+                    "kullanıcı yok" sinyalinde (PGRST116 / doğrulanmış 401-403) yeniler, diğer hatalarda oturumu korur
+    api.ts          4 Edge Function için tipli sarmalayıcı; sadece ağ hatasında retry; 401'de token'ı yeniler ve
+                    bir kez tekrar dener, yenileme reddedilirse oturumu düşürür
     titles.ts       katalog okumaları (titles + translations + title_question_counts, <10 soru gizli)
-    session.ts      aktif oyunun AsyncStorage aynası (crash sonrası kaldığı sorudan devam)
+    session.ts      aktif oyunun AsyncStorage aynası (crash sonrası kaldığı sorudan devam; tamamı cevaplanıp
+                    bitirilmemiş oyun da "Sonucu gör"e döner). Quiz sayacı duvar saati deadline'ı ile çalışır;
+                    gönderim hatasında "error" fazı sayacı dondurur ve aynı cevabı yeniden gönderen Retry gösterir.
+                    AsyncStorage anahtarları: sinequiz.activeSession.v1, sinequiz.localeAligned.v1 (yerleşen soru dili),
+                    sinequiz.audio.muted.v1
     i18n.ts         i18next; src/locales/{tr,en}.json
     motion.ts       marka hareket kimliği: yay sabitleri, süre paleti, easing, stagger
     audio.tsx       ses katmanı: SFX, ambient döngü, kalıcı sessize alma (expo-audio)

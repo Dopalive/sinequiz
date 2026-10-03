@@ -33,7 +33,9 @@ export default function Home() {
     try {
       const [list, session] = await Promise.all([fetchTitles(locale), loadActiveSession()]);
       setTitles(list);
-      setActive(session && nextOpenIndex(session) < session.questions.length ? session : null);
+      // Any mirror is resumable, a fully answered one too: the quiz screen then only has to call
+      // finish-session, which is where the completion bonus is paid.
+      setActive(session);
     } catch (err) {
       setError(err);
     }
@@ -43,7 +45,7 @@ export default function Home() {
   useFocusEffect(
     useCallback(() => {
       void load();
-      void refreshProfile();
+      void refreshProfile(); // never rejects: a failed focus refresh keeps the last known profile
       // Ambient loop: plays on Home (on web it waits for the first tap/click/key anywhere on the page).
       startAmbient();
     }, [load, refreshProfile, startAmbient]),
@@ -80,7 +82,7 @@ export default function Home() {
             <View style={{ flex: 1 }}>
               <Text style={styles.resumeTitle}>{t("home.resume")}</Text>
               <Text style={styles.resumeSub}>
-                {t("home.resumeHint", { name: active.title_name, n: nextOpenIndex(active) + 1, total: active.questions.length })}
+                {t("home.resumeHint", { name: active.title_name, n: Math.min(nextOpenIndex(active) + 1, active.questions.length), total: active.questions.length })}
               </Text>
             </View>
             <Text style={styles.chevron}>›</Text>

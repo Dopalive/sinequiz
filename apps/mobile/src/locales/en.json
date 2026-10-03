@@ -77,7 +77,7 @@
     "no_questions": "Not enough questions for this title in your language yet.",
     "joker_already_used": "You already used a joker on this question.",
     "title_not_found": "Title not found.",
-    "unauthorized": "Please restart the app to sign in again.",
+    "unauthorized": "Signing you in again…",
     "bad_request": "Invalid request.",
     "network": "No connection. Check your internet and try again.",
     "internal": "Server error. Please try again."

@@ -11,7 +11,7 @@ import { Screen } from "@/components/Screen";
 import { api } from "@/lib/api";
 import { useAuth } from "@/lib/auth";
 import { SPRING, stagger } from "@/lib/motion";
-import { loadActiveSession, nextOpenIndex, saveActiveSession } from "@/lib/session";
+import { loadActiveSession, saveActiveSession } from "@/lib/session";
 import { fetchTitle, type TitleDetail } from "@/lib/titles";
 import { colors, fonts, radius, spacing } from "@/theme";
 
@@ -49,9 +49,10 @@ export default function TitleScreen() {
     setStarting(true);
     setStartError(null);
     try {
-      // A half-played game for any title resumes instead of starting a second one.
+      // A half-played game for any title resumes instead of starting a second one; so does a fully
+      // answered one that never reached finish-session, or its completion bonus would be lost.
       const existing = await loadActiveSession();
-      if (existing && nextOpenIndex(existing) < existing.questions.length) {
+      if (existing) {
         router.replace({ pathname: "/quiz/[sessionId]", params: { sessionId: existing.session_id } });
         return;
       }

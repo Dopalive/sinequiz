@@ -22,7 +22,13 @@ import { colors, difficultyColor, fonts, radius, spacing } from "@/theme";
 
 const QUESTION_SECONDS = 15;
 
-type Phase = "answering" | "submitting" | "feedback" | "finishing";
+/** Whole seconds left until a wall-clock deadline, rounded up so "1" shows until it truly ends. */
+function secondsUntil(deadline: number): number {
+  return Math.max(0, Math.ceil((deadline - Date.now()) / 1000));
+}
+
+/** "error": a submit failed. The clock stays frozen and only Retry (same choice) moves on. */
+type Phase = "answering" | "submitting" | "feedback" | "finishing" | "error";
 
 export default function QuizScreen() {
   const { sessionId } = useLocalSearchParams<{ sessionId: string }>();
@@ -35,6 +41,7 @@ export default function QuizScreen() {
   const [index, setIndex] = useState(0);
   const [phase, setPhase] = useState<Phase>("answering");
   const [secondsLeft, setSecondsLeft] = useState(QUESTION_SECONDS);
+  const [totalSeconds, setTotalSeconds] = useState(QUESTION_SECONDS);
   const [chosen, setChosen] = useState<number | null>(null);
   const [removed, setRemoved] = useState<number[]>([]);
   const [jokerUsed, setJokerUsed] = useState<JokerKind | null>(null);
@@ -43,6 +50,12 @@ export default function QuizScreen() {
   const [confetti, setConfetti] = useState(0);
   const [confirmQuit, setConfirmQuit] = useState(false);
   const submittingRef = useRef(false);
+  // Wall-clock deadline of the open question. The displayed seconds are derived from it on every tick,
+  // so a backgrounded app (timers suspended) comes back to the true remaining time, not a paused one.
+  const deadlineRef = useRef(0);
+  // Latest mirror, read by async handlers instead of the render that started them: a late joker or
+  // answer response must build on what is stored now, not clobber a newer mirror.
+  const sessionRef = useRef<ActiveSession | null>(null);
   const soundedRef = useRef<string | null>(null);
 
   // The quiz is a clean stage: the ambient loop fades out while it has focus (Home/Result bring it back).
@@ -60,6 +73,8 @@ export default function QuizScreen() {
         setSession(null);
         return;
       }
+      sessionRef.current = s;
+      deadlineRef.current = Date.now() + QUESTION_SECONDS * 1000;
       setSession(s);
       setIndex(nextOpenIndex(s));
     })();
@@ -68,8 +83,8 @@ export default function QuizScreen() {
   const question = session && index < session.questions.length ? session.questions[index] : undefined;
   const result: AnsweredQuestion | undefined = question ? session?.answers[question.id] : undefined;
 
-  // Feedback sound, once per question, whichever path closed it (answer, time-out). Skips and crash
-  // replays (result.skipped) stay silent; the joker sound already covered a skip.
+  // Feedback sound, once per question, whichever path closed it (answer, time-out). Skips
+  // (result.skipped) stay silent; the joker sound already covered them.
   useEffect(() => {
     if (phase !== "feedback" || !question || !result || result.skipped || soundedRef.current === question.id) return;
     soundedRef.current = question.id;
@@ -84,72 +99,72 @@ export default function QuizScreen() {
     if (phase === "answering" && question && secondsLeft > 0 && secondsLeft <= 5) play("tick");
   }, [phase, question, secondsLeft, play]);
 
-  const persist = useCallback(async (next: ActiveSession) => {
-    setSession(next);
-    await saveActiveSession(next);
+  const recordAnswer = useCallback(async (questionId: string, answered: AnsweredQuestion) => {
+    const prev = sessionRef.current;
+    if (!prev) return;
+    const updated: ActiveSession = { ...prev, answers: { ...prev.answers, [questionId]: answered } };
+    sessionRef.current = updated;
+    setSession(updated);
+    await saveActiveSession(updated);
   }, []);
 
   const submit = useCallback(
     async (choice: number | null) => {
-      if (!session || !question || submittingRef.current) return;
+      const current = sessionRef.current;
+      if (!current || !question || submittingRef.current) return;
       submittingRef.current = true;
       setChosen(choice);
       setPhase("submitting");
       setError(null);
       try {
-        const res = await api.submitAnswer({ session_id: session.session_id, question_id: question.id, chosen_index: choice });
-        const answered: AnsweredQuestion = {
+        // A re-sent answer the server already stored comes back as a 200 replay with its stored result.
+        const res = await api.submitAnswer({ session_id: current.session_id, question_id: question.id, chosen_index: choice });
+        setBalance(res.coin_balance);
+        await recordAnswer(question.id, {
           chosen_index: choice,
           correct_index: res.correct_index,
           is_correct: res.is_correct,
           coins_earned: res.coins_earned,
           skipped: false,
-        };
-        setBalance(res.coin_balance);
-        await persist({ ...session, answers: { ...session.answers, [question.id]: answered } });
+        });
         if (res.is_correct) setConfetti((c) => c + 1);
         setPhase("feedback");
       } catch (err) {
-        if (err instanceof ApiCallError && err.code === "already_answered") {
-          // Replay after a crash: the server has the truth; we only know this question is closed.
-          await persist({
-            ...session,
-            answers: { ...session.answers, [question.id]: { chosen_index: choice, correct_index: -1, is_correct: false, coins_earned: 0, skipped: true } },
-          });
-          setPhase("feedback");
-        } else {
-          setError(err);
-          setPhase("answering");
-          setChosen(null);
+        if (err instanceof ApiCallError && (err.code === "session_finished" || err.code === "session_not_found")) {
+          await clearActiveSession();
+          router.replace("/");
+          return;
         }
+        // Not back to "answering": at 0 s the clock would re-submit on every tick, forever when offline.
+        setError(err);
+        setPhase("error");
       } finally {
         submittingRef.current = false;
       }
     },
-    [session, question, persist, setBalance],
+    [question, recordAnswer, setBalance, router],
   );
 
-  // Clock: ticks only while answering; 0 submits a time-out (chosen_index = null).
+  // Clock: runs only while answering; reaching the deadline submits a time-out (chosen_index = null).
   useEffect(() => {
     if (phase !== "answering" || !question) return;
-    const expired = secondsLeft <= 0;
-    const id = setTimeout(
-      () => {
-        if (expired) void submit(null);
-        else setSecondsLeft((s) => s - 1);
-      },
-      expired ? 0 : 1000,
-    );
-    return () => clearTimeout(id);
-  }, [phase, secondsLeft, question, submit]);
+    const id = setInterval(() => {
+      const left = secondsUntil(deadlineRef.current);
+      setSecondsLeft(left);
+      if (left === 0) void submit(null);
+    }, 250);
+    return () => clearInterval(id);
+  }, [phase, question, submit]);
 
   const next = async () => {
     if (!session) return;
     const nextIndex = index + 1;
     if (nextIndex < session.questions.length) {
+      deadlineRef.current = Date.now() + QUESTION_SECONDS * 1000;
       setIndex(nextIndex);
       setPhase("answering");
       setSecondsLeft(QUESTION_SECONDS);
+      setTotalSeconds(QUESTION_SECONDS);
       setChosen(null);
       setRemoved([]);
       setJokerUsed(null);
@@ -162,7 +177,7 @@ export default function QuizScreen() {
       setBalance(res.coin_balance);
       await clearActiveSession();
       // Round total = every per-answer award the server reported + the finish bonus it just paid.
-      const answerCoins = Object.values(session.answers).reduce((sum, a) => sum + a.coins_earned, 0);
+      const answerCoins = Object.values((sessionRef.current ?? session).answers).reduce((sum, a) => sum + a.coins_earned, 0);
       router.replace({
         pathname: "/result/[sessionId]",
         params: { sessionId: session.session_id, score: res.score, total: res.total, coins: answerCoins + res.coins_earned, balance: res.coin_balance, titleId: session.title_id },
@@ -188,12 +203,13 @@ export default function QuizScreen() {
       setJokerUsed(kind);
       play("joker");
       if (res.kind === "fifty_fifty") setRemoved(res.remove_indices);
-      if (res.kind === "extra_time") setSecondsLeft((s) => s + res.extra_seconds);
+      if (res.kind === "extra_time") {
+        deadlineRef.current += res.extra_seconds * 1000;
+        setTotalSeconds((s) => s + res.extra_seconds);
+        setSecondsLeft(secondsUntil(deadlineRef.current));
+      }
       if (res.kind === "skip") {
-        await persist({
-          ...session,
-          answers: { ...session.answers, [question.id]: { chosen_index: null, correct_index: -1, is_correct: false, coins_earned: 0, skipped: true } },
-        });
+        await recordAnswer(question.id, { chosen_index: null, correct_index: -1, is_correct: false, coins_earned: 0, skipped: true });
         setPhase("feedback");
       }
     } catch (err) {
@@ -240,7 +256,7 @@ export default function QuizScreen() {
       return "locked";
     }
     if (removed.includes(i)) return "removed";
-    if (phase === "submitting") return i === chosen ? "pending" : "locked";
+    if (phase === "submitting" || phase === "error") return i === chosen ? "pending" : "locked";
     return "idle";
   };
 
@@ -256,7 +272,7 @@ export default function QuizScreen() {
         <CoinBadge balance={balance} />
       </View>
 
-      <TimerBar secondsLeft={secondsLeft} totalSeconds={QUESTION_SECONDS} frozen={phase !== "answering"} />
+      <TimerBar secondsLeft={secondsLeft} totalSeconds={totalSeconds} frozen={phase !== "answering"} />
 
       <Animated.View key={question.id} entering={FadeInDown.springify().stiffness(SPRING.pop.stiffness).damping(SPRING.pop.damping)} style={styles.card}>
         <View style={[styles.diff, { borderColor: difficultyColor(question.difficulty) }]}>
@@ -271,7 +287,8 @@ export default function QuizScreen() {
         ))}
       </View>
 
-      {error ? <Notice error={error} /> : null}
+      {/* A failed submit offers Retry with the same choice; joker and finish errors are informational. */}
+      {error ? <Notice error={error} onRetry={phase === "error" ? () => void submit(chosen) : undefined} /> : null}
 
       <View style={styles.bottom}>
         {result ? (
