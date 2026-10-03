@@ -74,6 +74,36 @@ deterministik). Hareket diliyle aynı kişilik: kısa, parlak, arcade. Seviyeler
 - Bir ses dosyası yüklenemezse geliştirmede konsola `[audio] <ad>.wav failed to load/play` uyarısı düşer.
 - Native: `expo-audio` native modül içerir; yeni bir development build gerekir (`npx expo run:ios|android`).
 
+## Deploy (web)
+
+`.github/workflows/pages.yml` web export'u GitHub Pages'e yayınlar (`https://dopalive.github.io/sinequiz/`).
+`app.config.js`, `EXPO_WEB_BASE_URL=/sinequiz` ile Expo'nun web `baseUrl`'ini alt yola çeker; lokal dev kök
+yolda kalır. Pages'te rewrite kuralı olmadığı için `index.html` `404.html` olarak kopyalanır (SPA fallback).
+Workflow, backend değişkenleri tanımlı değilse sessizce atlar.
+
+Bir kez yapılacaklar (hepsi repo admin'inin hesabıyla):
+
+```bash
+# 1) Backend: hosted Supabase (lokal stack internetten erişilemez)
+pnpm supabase login
+pnpm supabase projects create sinequiz --org-id <org> --region eu-central-1 --db-password <pw>
+pnpm supabase link --project-ref <ref>
+pnpm supabase db push                 # migrations
+pnpm supabase functions deploy        # start-session, submit-answer, use-joker, finish-session
+# config.toml'daki enable_anonymous_sign_ins = true hosted projede de açık olmalı (Dashboard → Auth)
+
+# 2) Frontend: Pages + değişkenler
+gh api -X POST repos/Dopalive/sinequiz/pages -f build_type=workflow
+gh variable set EXPO_PUBLIC_SUPABASE_URL      -R Dopalive/sinequiz --body "https://<ref>.supabase.co"
+gh variable set EXPO_PUBLIC_SUPABASE_ANON_KEY -R Dopalive/sinequiz --body "<anon/publishable key>"
+gh workflow run pages -R Dopalive/sinequiz    # ya da main/plan3-mobile'a push
+```
+
+Hosted projede soru verisi yoktur; `supabase/seed.sql` yalnız lokal içindir. Gerçek içerik Plan 2
+pipeline'ından gelir; o zamana kadar demo için seed'i `psql` ile hosted DB'ye basmak yeterlidir.
+
+Native (iOS/Android) dağıtımı EAS Build gerektirir (`npx eas-cli login`, `eas build`); henüz yapılandırılmadı.
+
 ## Bilinçli eksikler
 
 - Apple/Google ile hesap bağlama (`linkIdentity`) — Profil'de "yakında" olarak yazılı.
