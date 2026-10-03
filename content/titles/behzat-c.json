@@ -1,0 +1,1137 @@
+{
+  "slug": "behzat-c",
+  "kind": "series",
+  "release_year": 2010,
+  "tmdb_id": null,
+  "poster_url": null,
+  "translations": {
+    "tr": {
+      "name": "Behzat Ç. Bir Ankara Polisiyesi",
+      "synopsis": "Ankara cinayet büro amiri Behzat Ç., ekibiyle birlikte zor vakaları çözer; kaba ama vicdanlı, sürekli başı belaya girip rütbesi düşürülen bir polistir."
+    },
+    "en": {
+      "name": "Behzat Ç. (An Ankara Detective Story)",
+      "synopsis": "Behzat Ç., a rough-edged but conscientious homicide chief in Ankara, solves tough murders with his team while repeatedly clashing with his superiors."
+    }
+  },
+  "questions": [
+    {
+      "locale": "tr",
+      "prompt": "Behzat Ç. karakterini kim canlandırır?",
+      "choices": [
+        "Erdal Beşikçioğlu",
+        "Fatih Artman",
+        "Nejat İşler",
+        "Güven Kıraç"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Behzat Ç. Bir Ankara Polisiyesi hangi şehirde geçer?",
+      "choices": [
+        "İstanbul",
+        "Ankara",
+        "İzmir",
+        "Eskişehir"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Behzat Ç. hangi birimde çalışır?",
+      "choices": [
+        "Narkotik",
+        "Terörle mücadele",
+        "Cinayet Büro",
+        "Trafik"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Behzat Ç. hangi içkiyle özdeşleşmiştir?",
+      "choices": [
+        "Viski",
+        "Şarap",
+        "Bira",
+        "Rakı"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Behzat Ç. dizisi kaç sezon sürdü?",
+      "choices": [
+        "4",
+        "2",
+        "3",
+        "6"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Harun Sinanoğlu karakterini hangi oyuncu oynar?",
+      "choices": [
+        "İnanç Konukçu",
+        "Fatih Artman",
+        "Berkan Şal",
+        "Berke Üzrek"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Hayalet karakterini hangi oyuncu canlandırır?",
+      "choices": [
+        "Berkan Şal",
+        "Fatih Artman",
+        "İnanç Konukçu",
+        "Hakan Hatipoğlu"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Akbaba rolündeki oyuncu kimdir?",
+      "choices": [
+        "İnanç Konukçu",
+        "Fatih Artman",
+        "Eray Eserol",
+        "Berkan Şal"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Eda Akkaya karakterini hangi oyuncu oynar?",
+      "choices": [
+        "Seda Bakan",
+        "Canan Ergüder",
+        "Ayça Eren",
+        "Aslı Tandoğan"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Savcı Esra Bulut karakterini kim canlandırır?",
+      "choices": [
+        "Seda Bakan",
+        "Canan Ergüder",
+        "Ayça Eren",
+        "Mine Tugay"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Mafya lideri Ercüment Çözer'i hangi oyuncu oynar?",
+      "choices": [
+        "Güven Kıraç",
+        "Serdar Orçin",
+        "Nejat İşler",
+        "Zafer Algöz"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Memduh Başgan karakterini hangi oyuncu canlandırır?",
+      "choices": [
+        "Nejat İşler",
+        "Zafer Algöz",
+        "Serdar Orçin",
+        "Güven Kıraç"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Cevdet karakterini kim oynar?",
+      "choices": [
+        "Berke Üzrek",
+        "Hakan Hatipoğlu",
+        "Eray Eserol",
+        "Berkan Şal"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Selim Ersöz karakterini hangi oyuncu canlandırır?",
+      "choices": [
+        "Berke Üzrek",
+        "Hakan Hatipoğlu",
+        "Eray Eserol",
+        "İnanç Konukçu"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Tahsin Yılmaz rolündeki oyuncu kimdir?",
+      "choices": [
+        "Hakan Hatipoğlu",
+        "Berke Üzrek",
+        "Eray Eserol",
+        "Fatih Artman"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Behzat Ç. dizisi hangi yazarın romanlarından doğmuştur?",
+      "choices": [
+        "Ahmet Ümit",
+        "Ece Yörenç",
+        "Gökhan Horzum",
+        "Emrah Serbes"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dizinin ilk uyarlandığı Emrah Serbes romanının adı nedir?",
+      "choices": [
+        "Her Temas İz Bırakır",
+        "Çekiç ve Gül",
+        "Bir Ankara Polisiyesi",
+        "Kırmızı Sokak"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Behzat Ç. ilk olarak hangi kanalda yayınlandı?",
+      "choices": [
+        "Show TV",
+        "Star TV",
+        "Kanal D",
+        "ATV"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Behzat Ç.'nin dördüncü sezonu hangi platformda yayınlandı?",
+      "choices": [
+        "Netflix",
+        "Exxen",
+        "BluTV",
+        "Gain"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Behzat Ç. hangi yıl yayına başladı?",
+      "choices": [
+        "2008",
+        "2012",
+        "2014",
+        "2010"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Behzat Ç. toplam kaç bölüm sürdü?",
+      "choices": [
+        "105",
+        "76",
+        "90",
+        "120"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dizinin dördüncü sezonu kaç bölümdür?",
+      "choices": [
+        "13",
+        "9",
+        "20",
+        "26"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dizinin genel yönetmeni olarak anılan yönetmen kimdir?",
+      "choices": [
+        "Sinan Öztürk",
+        "Hilal Saral",
+        "Serdar Akar",
+        "Uluç Bayraktar"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dizinin jenerik müziği 'Rahat' hangi gruba aittir?",
+      "choices": [
+        "Mor ve Ötesi",
+        "Yüksek Sadakat",
+        "Duman",
+        "Pilli Bebek"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Behzat Ç. dizisinden uyarlanan iki sinema filminden biri hangisidir?",
+      "choices": [
+        "Seni Kalbime Gömdüm",
+        "Ankara Polisiyesi",
+        "Her Temas İz Bırakır",
+        "Cinayet Büro"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Behzat Ç.'nin ikinci sinema filminin adı nedir?",
+      "choices": [
+        "Seni Kalbime Gömdüm",
+        "Ankara Yanıyor",
+        "Çekiç ve Gül",
+        "Rahat"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ercüment Çözer'i konu alan yan dizinin adı nedir?",
+      "choices": [
+        "Çekiç ve Gül",
+        "Cinayet Büro",
+        "Saygı",
+        "Pusu"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "2022'de yayınlanan Behzat Ç. evreninden dizinin adı nedir?",
+      "choices": [
+        "Saygı",
+        "Rahat",
+        "Seni Kalbime Gömdüm",
+        "Çekiç ve Gül"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Behzat'ın kızının adı nedir?",
+      "choices": [
+        "Berna",
+        "Esra",
+        "Şule",
+        "Eda"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Esra Bulut, Behzat Ç.'nin hayatında kim olur?",
+      "choices": [
+        "Annesi",
+        "Aşk ilgisi",
+        "Kız kardeşi",
+        "Eski eşi"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "İkinci sezonun ana vakası olan seri katil hangi adla anılır?",
+      "choices": [
+        "Kızıl Katil",
+        "Gece Katili",
+        "Parmak Kesen Katil",
+        "Şapkalı Adam"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Behzat'ın içki içtiği mekân dizide hangi adla geçer?",
+      "choices": [
+        "Cevdet'in Kafesi",
+        "Hayalet'in Meyhanesi",
+        "Kızılay Bar",
+        "Hüseyin'in Yeri"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dizinin yayınlandığı dönemde hangi Ankara futbol kulübünün taraftarı dizi için destek kampanyası yaptı?",
+      "choices": [
+        "Gençlerbirliği",
+        "Ankaragücü",
+        "Ankaraspor",
+        "Keçiörengücü"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Behzat Ç.'nin kariyerinde sürekli yaşadığı durum nedir?",
+      "choices": [
+        "Sık sık terfi",
+        "Tekrar tekrar rütbe indirilmesi",
+        "Yurt dışı görevleri",
+        "Emeklilik baskısı"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ercüment Çözer'i oynayan Nejat İşler, Çukur'da hangi karakteri canlandırır?",
+      "choices": [
+        "İdris Koçovalı",
+        "Baykal Kent",
+        "Çağatay Erdenet",
+        "Cengiz Erdenet"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Behzat Ç. hangi türde bir dizidir?",
+      "choices": [
+        "Aile komedisi",
+        "Tarihi dizi",
+        "Romantik komedi",
+        "Polisiye dizi"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ercüment Çözer dizide nasıl biri olarak tanıtılır?",
+      "choices": [
+        "Güçlü bir işadamı ve suç örgütü lideri",
+        "Gazeteci",
+        "Savcı",
+        "Polis müdürü"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Behzat Ç.'nin ilk sezonu kaç bölüm sürdü?",
+      "choices": [
+        "13",
+        "38",
+        "26",
+        "31"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Behzat Ç. karakteri polis akademisinden hangi yıl mezun olmuştur?",
+      "choices": [
+        "1980",
+        "1990",
+        "1985",
+        "1995"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Behzat'ın kızı Berna'nın ölümünün soruşturulduğu ana hikâye hangi sezondadır?",
+      "choices": [
+        "2. sezon",
+        "3. sezon",
+        "4. sezon",
+        "1. sezon"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dizinin başsenaristi olarak anılan, Emrah Serbes'le birlikte yazan isim kimdir?",
+      "choices": [
+        "Ercan Mehmet Erdem",
+        "Gökhan Horzum",
+        "Kerem Deren",
+        "Ece Yörenç"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Behzat Ç.'nin dördüncü sezonu hangi yıl yayınlandı?",
+      "choices": [
+        "2015",
+        "2019",
+        "2017",
+        "2021"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Esra Bulut'un mesleği nedir?",
+      "choices": [
+        "Avukat",
+        "Doktor",
+        "Savcı",
+        "Gazeteci"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays Behzat Ç.?",
+      "choices": [
+        "Fatih Artman",
+        "Nejat İşler",
+        "Erdal Beşikçioğlu",
+        "Güven Kıraç"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which city is Behzat Ç. set?",
+      "choices": [
+        "İstanbul",
+        "İzmir",
+        "Eskişehir",
+        "Ankara"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which unit does Behzat Ç. head?",
+      "choices": [
+        "The homicide bureau",
+        "Narcotics",
+        "Counterterrorism",
+        "Traffic"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which drink is Behzat Ç. famously associated with?",
+      "choices": [
+        "Whisky",
+        "Rakı",
+        "Wine",
+        "Beer"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many seasons does Behzat Ç. have?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Harun Sinanoğlu?",
+      "choices": [
+        "İnanç Konukçu",
+        "Berkan Şal",
+        "Berke Üzrek",
+        "Fatih Artman"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Hayalet?",
+      "choices": [
+        "İnanç Konukçu",
+        "Berkan Şal",
+        "Fatih Artman",
+        "Hakan Hatipoğlu"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Akbaba?",
+      "choices": [
+        "İnanç Konukçu",
+        "Berkan Şal",
+        "Fatih Artman",
+        "Eray Eserol"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actress plays Eda Akkaya?",
+      "choices": [
+        "Canan Ergüder",
+        "Ayça Eren",
+        "Seda Bakan",
+        "Aslı Tandoğan"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays the prosecutor Esra Bulut?",
+      "choices": [
+        "Seda Bakan",
+        "Ayça Eren",
+        "Mine Tugay",
+        "Canan Ergüder"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays the crime boss Ercüment Çözer?",
+      "choices": [
+        "Nejat İşler",
+        "Güven Kıraç",
+        "Serdar Orçin",
+        "Zafer Algöz"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Memduh Başgan?",
+      "choices": [
+        "Nejat İşler",
+        "Güven Kıraç",
+        "Zafer Algöz",
+        "Serdar Orçin"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays Cevdet?",
+      "choices": [
+        "Hakan Hatipoğlu",
+        "Eray Eserol",
+        "Berke Üzrek",
+        "Berkan Şal"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Selim Ersöz?",
+      "choices": [
+        "Berke Üzrek",
+        "Eray Eserol",
+        "İnanç Konukçu",
+        "Hakan Hatipoğlu"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Tahsin Yılmaz?",
+      "choices": [
+        "Eray Eserol",
+        "Hakan Hatipoğlu",
+        "Berke Üzrek",
+        "Fatih Artman"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Whose novels gave rise to the Behzat Ç. series?",
+      "choices": [
+        "Ahmet Ümit",
+        "Emrah Serbes",
+        "Ece Yörenç",
+        "Gökhan Horzum"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the title of the Emrah Serbes novel the series was first adapted from?",
+      "choices": [
+        "Çekiç ve Gül",
+        "Bir Ankara Polisiyesi",
+        "Her Temas İz Bırakır",
+        "Kırmızı Sokak"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "On which channel did Behzat Ç. originally air?",
+      "choices": [
+        "Show TV",
+        "Kanal D",
+        "ATV",
+        "Star TV"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "On which platform was the fourth season of Behzat Ç. released?",
+      "choices": [
+        "BluTV",
+        "Netflix",
+        "Exxen",
+        "Gain"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which year did Behzat Ç. premiere?",
+      "choices": [
+        "2008",
+        "2010",
+        "2012",
+        "2014"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many episodes does Behzat Ç. have in total?",
+      "choices": [
+        "76",
+        "90",
+        "105",
+        "120"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many episodes does the fourth season of Behzat Ç. have?",
+      "choices": [
+        "13",
+        "20",
+        "26",
+        "9"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which director is credited as general director of the series?",
+      "choices": [
+        "Serdar Akar",
+        "Sinan Öztürk",
+        "Hilal Saral",
+        "Uluç Bayraktar"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which band made the opening theme 'Rahat'?",
+      "choices": [
+        "Mor ve Ötesi",
+        "Pilli Bebek",
+        "Yüksek Sadakat",
+        "Duman"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which of these is one of the two films based on Behzat Ç.?",
+      "choices": [
+        "Ankara Polisiyesi",
+        "Her Temas İz Bırakır",
+        "Seni Kalbime Gömdüm",
+        "Cinayet Büro"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the title of the second Behzat Ç. film?",
+      "choices": [
+        "Seni Kalbime Gömdüm",
+        "Çekiç ve Gül",
+        "Rahat",
+        "Ankara Yanıyor"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the spin-off series centered on Ercüment Çözer called?",
+      "choices": [
+        "Saygı",
+        "Çekiç ve Gül",
+        "Cinayet Büro",
+        "Pusu"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the title of the 2022 series from the Behzat Ç. universe?",
+      "choices": [
+        "Saygı",
+        "Çekiç ve Gül",
+        "Rahat",
+        "Seni Kalbime Gömdüm"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of Behzat's daughter?",
+      "choices": [
+        "Esra",
+        "Şule",
+        "Berna",
+        "Eda"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How is the prosecutor Esra Bulut linked to Behzat personally?",
+      "choices": [
+        "His mother",
+        "His sister",
+        "His ex-wife",
+        "His love interest"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the serial killer of the second season's main case called?",
+      "choices": [
+        "The Finger-Cutter Killer",
+        "The Red Killer",
+        "The Night Killer",
+        "The Man in the Hat"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which hangout name does Behzat's regular drinking spot go by?",
+      "choices": [
+        "Cevdet'in Kafesi",
+        "Hüseyin'in Yeri",
+        "Hayalet'in Meyhanesi",
+        "Kızılay Bar"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Fans of which Ankara football club ran support campaigns for the series?",
+      "choices": [
+        "Ankaragücü",
+        "Ankaraspor",
+        "Gençlerbirliği",
+        "Keçiörengücü"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What recurring problem marks Behzat's career?",
+      "choices": [
+        "Frequent promotions",
+        "Overseas postings",
+        "Pressure to retire",
+        "Repeated demotions"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Nejat İşler, who plays Ercüment Çözer, plays which character in Çukur?",
+      "choices": [
+        "Çağatay Erdenet",
+        "İdris Koçovalı",
+        "Baykal Kent",
+        "Cengiz Erdenet"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Behzat Ç.'s genre?",
+      "choices": [
+        "A family sitcom",
+        "A crime drama",
+        "A period drama",
+        "A romantic comedy"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How is Ercüment Çözer presented in the series?",
+      "choices": [
+        "A journalist",
+        "A prosecutor",
+        "A powerful businessman and crime leader",
+        "A police chief"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many episodes did the first season of Behzat Ç. have?",
+      "choices": [
+        "13",
+        "26",
+        "31",
+        "38"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which year did the character Behzat Ç. graduate from the police academy?",
+      "choices": [
+        "1985",
+        "1980",
+        "1990",
+        "1995"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which season is the main storyline the investigation of Behzat's daughter Berna's death?",
+      "choices": [
+        "Season 2",
+        "Season 1",
+        "Season 3",
+        "Season 4"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who is credited as the primary screenwriter, co-writing select episodes with Emrah Serbes?",
+      "choices": [
+        "Gökhan Horzum",
+        "Kerem Deren",
+        "Ercan Mehmet Erdem",
+        "Ece Yörenç"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which year was the fourth season of Behzat Ç. released?",
+      "choices": [
+        "2015",
+        "2017",
+        "2021",
+        "2019"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Esra Bulut's profession?",
+      "choices": [
+        "Prosecutor",
+        "Lawyer",
+        "Doctor",
+        "Journalist"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    }
+  ]
+}

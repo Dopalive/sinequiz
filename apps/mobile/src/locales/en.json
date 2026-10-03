@@ -1,0 +1,85 @@
+{
+  "app": { "name": "SineQuiz", "tagline": "How well do you really know your shows?", "heroCta": "Pick a title and prove it" },
+  "common": {
+    "loading": "Loading…",
+    "retry": "Retry",
+    "back": "Back",
+    "coins": "coins",
+    "error": "Something went wrong."
+  },
+  "home": {
+    "search": "Search titles",
+    "empty": "No titles yet in your language. Switch it in your profile.",
+    "noMatch": "Nothing matches “{{query}}”.",
+    "series": "Series",
+    "movie": "Movie",
+    "questions": "{{count}} questions",
+    "titles": "Titles",
+    "resume": "Continue your game",
+    "resumeHint": "{{name}} · question {{n}} of {{total}}"
+  },
+  "title": {
+    "play": "Play",
+    "allSeasons": "All seasons",
+    "season": "Season {{n}}",
+    "rules": "10 questions · 4 choices · 15 seconds each",
+    "starting": "Starting…"
+  },
+  "quiz": {
+    "question": "Question {{n}} / {{total}}",
+    "timeUp": "Time's up!",
+    "correct": "Correct!",
+    "wrong": "Wrong",
+    "skipped": "Skipped",
+    "next": "Next",
+    "finish": "See results",
+    "quit": "Quit",
+    "quitConfirm": "Leave this game? Your progress stays on the server for 24 hours.",
+    "stay": "Stay",
+    "leave": "Leave",
+    "joker": {
+      "fifty_fifty": "50/50",
+      "extra_time": "+10 s",
+      "skip": "Skip"
+    },
+    "difficulty": { "1": "Easy", "2": "Medium", "3": "Hard" }
+  },
+  "result": {
+    "title": "Round over",
+    "score": "{{score}} / {{total}} correct",
+    "perfect": "Perfect round!",
+    "earned": "+{{coins}} coins",
+    "balance": "Balance",
+    "again": "Play again",
+    "other": "Another title"
+  },
+  "profile": {
+    "title": "Profile",
+    "anonymous": "Guest player",
+    "balance": "Coin balance",
+    "language": "Question language",
+    "sound": "Sound",
+    "soundOn": "On",
+    "soundOff": "Off",
+    "protect": "Protect your account",
+    "protectHint": "You're playing as a guest. Deleting the app loses your coins. Linking Apple or Google is coming soon.",
+    "stats": "Statistics",
+    "games": "Games played",
+    "correct": "Correct answers",
+    "home": "Back to home"
+  },
+  "errors": {
+    "insufficient_coins": "Not enough coins for this joker.",
+    "session_not_found": "This game no longer exists.",
+    "session_finished": "This game is already finished.",
+    "question_not_in_session": "That question isn't part of this game.",
+    "already_answered": "You already answered this one.",
+    "no_questions": "Not enough questions for this title in your language yet.",
+    "joker_already_used": "You already used a joker on this question.",
+    "title_not_found": "Title not found.",
+    "unauthorized": "Signing you in again…",
+    "bad_request": "Invalid request.",
+    "network": "No connection. Check your internet and try again.",
+    "internal": "Server error. Please try again."
+  }
+}

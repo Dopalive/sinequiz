@@ -1,0 +1,1085 @@
+{
+  "slug": "gibi",
+  "kind": "series",
+  "release_year": 2021,
+  "tmdb_id": null,
+  "poster_url": null,
+  "translations": {
+    "tr": {
+      "name": "Gibi",
+      "synopsis": "Yılmaz, İlkkan ve Ersoy adlı üç arkadaşın sıradan olaylara absürt tepkiler verdiği, Exxen’de yayınlanan bağımsız bölümlü komedi dizisi."
+    },
+    "en": {
+      "name": "Gibi",
+      "synopsis": "An Exxen comedy of mostly self-contained episodes in which three friends, Yılmaz, İlkkan and Ersoy, react to everyday events in absurd ways."
+    }
+  },
+  "questions": [
+    {
+      "locale": "tr",
+      "prompt": "Gibi dizisi hangi dijital platformda yayınlandı?",
+      "choices": [
+        "Exxen",
+        "Netflix",
+        "BluTV",
+        "Gain"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Gibi'de Yılmaz karakterini kim canlandırır?",
+      "choices": [
+        "Kıvanç Kılınç",
+        "Feyyaz Yiğit",
+        "Ahmet Kürşat Öçalan",
+        "Aziz Kedi"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Gibi'de İlkkan'ı hangi oyuncu canlandırır?",
+      "choices": [
+        "Feyyaz Yiğit",
+        "Ahmet Kürşat Öçalan",
+        "Kıvanç Kılınç",
+        "İrfan Erkent"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Gibi'de Ersoy karakterini hangi oyuncu canlandırır?",
+      "choices": [
+        "Kıvanç Kılınç",
+        "Feyyaz Yiğit",
+        "İrfan Erkent",
+        "Ahmet Kürşat Öçalan"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Gibi'nin ana kadrosunda kaç arkadaş yer alır?",
+      "choices": [
+        "3",
+        "2",
+        "4",
+        "5"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Gibi hangi tür bir dizidir?",
+      "choices": [
+        "Polisiye",
+        "Absürt komedi",
+        "Tarihi dizi",
+        "Romantik dizi"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Gibi'de hikâyeler nasıl işlenir?",
+      "choices": [
+        "Tek bir uzun hikâye",
+        "Gerçek bir olay kronolojisi",
+        "Çoğu bölüm kendi içinde bağımsız bir hikâyedir",
+        "Canlı yayın formatı"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Gibi kaç sezon sürmüştür?",
+      "choices": [
+        "3",
+        "4",
+        "8",
+        "6"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Gibi hangi yıl yayına başladı?",
+      "choices": [
+        "2021",
+        "2018",
+        "2019",
+        "2023"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Yılmaz karakterini en iyi tanımlayan özellik hangisidir?",
+      "choices": [
+        "Saf ve içten",
+        "Keskin dilli ve alaycı",
+        "Utangaç ve sessiz",
+        "Titiz ve ciddi"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Hangi karakter düzenli ve mantıklı olmaya çalışırken absürt durumlara düşer?",
+      "choices": [
+        "Yılmaz",
+        "Ersoy",
+        "İlkkan",
+        "Behçet"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Gibi'de safdilliğiyle ve gereksiz ayrıntılara takılmasıyla tanınan karakter kimdir?",
+      "choices": [
+        "Yılmaz",
+        "İlkkan",
+        "Behçet",
+        "Ersoy"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Feyyaz Yiğit, Gibi'nin yaratıcılarından biri olarak kimle birlikte yazar?",
+      "choices": [
+        "Aziz Kedi",
+        "Ömer Sinir",
+        "Barış Ayaztaş",
+        "Onur Uzun"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Exxen hangi medya grubuna aittir?",
+      "choices": [
+        "Doğuş Medya",
+        "Acun Medya",
+        "Demirören Medya",
+        "Ciner Medya"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Gibi'nin mizah tarzı en çok hangisine yakındır?",
+      "choices": [
+        "Slapstick",
+        "Gerçekçi dram",
+        "Absürt ve kara mizah",
+        "Stand-up gösterisi"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Gibi hangi yıl sona erdi?",
+      "choices": [
+        "2023",
+        "2024",
+        "2022",
+        "2025"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Gibi toplam kaç bölüm sürdü?",
+      "choices": [
+        "68",
+        "50",
+        "61",
+        "80"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Gibi'nin ilk sezonu kaç bölümden oluşur?",
+      "choices": [
+        "8",
+        "12",
+        "10",
+        "13"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Gibi'nin beşinci sezonu kaç bölümdür?",
+      "choices": [
+        "8",
+        "10",
+        "13",
+        "12"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Gibi'nin yapım şirketi hangisidir?",
+      "choices": [
+        "Ay Yapım",
+        "Pana Film",
+        "Plato Film",
+        "Özcanlar Yapım Sarayı"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Gibi'nin ilk iki sezonunu hangi yönetmen çekti?",
+      "choices": [
+        "Ömer Sinir",
+        "Onur Uzun",
+        "Barış Yöş",
+        "Reyhan Yıldırım"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Üçüncü sezonun yönetmeni kimdir?",
+      "choices": [
+        "Ömer Sinir",
+        "Onur Uzun",
+        "Barış Yöş",
+        "Reyhan Yıldırım"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Gibi, 2022 Altın Kelebek'te hangi ödülü kazandı?",
+      "choices": [
+        "En İyi Drama Dizisi",
+        "En İyi Yabancı Dizi",
+        "En İyi Komedi Dizisi",
+        "En İyi Reality Şov"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Feyyaz Yiğit, Gibi'deki rolüyle hangi ödülü aldı?",
+      "choices": [
+        "En İyi Yönetmen",
+        "En İyi Senaryo",
+        "En İyi Yardımcı Oyuncu",
+        "En İyi Komedi Erkek Oyuncusu"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Yılmaz'ın gerçek adı nedir?",
+      "choices": [
+        "Çağatay",
+        "İlkkan",
+        "Ersoy",
+        "Barış"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "İlkkan, kendisini kaç yaşında sanır?",
+      "choices": [
+        "19",
+        "28",
+        "33",
+        "41"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "İlkkan'ın ara sıra yaptığı iş hangisidir?",
+      "choices": [
+        "Taksi şoförlüğü",
+        "Kurye",
+        "Düğün kameramanlığı",
+        "Garsonluk"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Üç ana karakterden hangisi bölümlerin tamamında değil, 68 bölümün 60'ında yer alır?",
+      "choices": [
+        "Yılmaz",
+        "İlkkan",
+        "Behçet",
+        "Ersoy"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Gibi'nin ilk bölümünün adı nedir?",
+      "choices": [
+        "Kokariç",
+        "Vatka",
+        "Kuki",
+        "Badana"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Gibi'nin ilk sezon finalinin adı nedir?",
+      "choices": [
+        "Vita Brevis",
+        "Atın Bulunuşu",
+        "Kan Parası",
+        "Yılmaz Bey Banyo"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Gibi'nin ikinci sezon finalinin adı nedir?",
+      "choices": [
+        "Atın Bulunuşu",
+        "Çaça ve Cosplay",
+        "Vita Brevis",
+        "Gelin Başı"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Aşağıdaki bölümlerden hangisi ikinci sezondadır?",
+      "choices": [
+        "Vatka",
+        "Badana",
+        "Sinek",
+        "Kuki"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Aşağıdaki bölümlerden hangisi birinci sezondadır?",
+      "choices": [
+        "Erasmus'la Gelen Yamyam",
+        "Kuki",
+        "Bej",
+        "Sokak Röportajı"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Beşinci sezonun ilk bölümünün adı nedir?",
+      "choices": [
+        "Waffle",
+        "Sinek",
+        "Kuki",
+        "Vatka"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Gibi'nin üçüncü sezonundaki bir bölümü hangi ilçede çekildi?",
+      "choices": [
+        "Gebze",
+        "Silivri",
+        "Nazilli",
+        "Şile"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Gibi'nin dördüncü sezonunda bir bölüm hangi ilçede çekildi?",
+      "choices": [
+        "Nazilli",
+        "Silivri",
+        "Şile",
+        "Gebze"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Gibi'de hem Behçet Bey hem Vincenzo Galliano rolünü oynayan konuk oyuncu kimdir?",
+      "choices": [
+        "İrfan Erkent",
+        "Kıvanç Kılınç",
+        "Ahmet Kürşat Öçalan",
+        "Feyyaz Yiğit"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Gibi'nin ikinci sezonu hangi tarihte başladı?",
+      "choices": [
+        "1 Ocak 2021",
+        "31 Aralık 2021",
+        "4 Mart 2022",
+        "21 Ekim 2022"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Gibi'nin ilk sezonu hangi tarihte yayınlanmaya başladı?",
+      "choices": [
+        "31 Aralık 2021",
+        "1 Ocak 2022",
+        "1 Ocak 2021",
+        "14 Mart 2025"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Gibi'nin yapımcılarından biri de olan oyuncu kimdir?",
+      "choices": [
+        "Kıvanç Kılınç",
+        "Ahmet Kürşat Öçalan",
+        "Aziz Kedi",
+        "Feyyaz Yiğit"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Gibi'nin beşinci ve altıncı sezonlarında hangi yönetmen görev aldı?",
+      "choices": [
+        "Reyhan Yıldırım",
+        "Ömer Sinir",
+        "Onur Uzun",
+        "Aziz Kedi"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "On which streaming platform did Gibi air?",
+      "choices": [
+        "Netflix",
+        "BluTV",
+        "Exxen",
+        "Gain"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays Yılmaz in Gibi?",
+      "choices": [
+        "Kıvanç Kılınç",
+        "Ahmet Kürşat Öçalan",
+        "Aziz Kedi",
+        "Feyyaz Yiğit"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays İlkkan in Gibi?",
+      "choices": [
+        "Kıvanç Kılınç",
+        "Feyyaz Yiğit",
+        "Ahmet Kürşat Öçalan",
+        "İrfan Erkent"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Ersoy in Gibi?",
+      "choices": [
+        "Kıvanç Kılınç",
+        "Ahmet Kürşat Öçalan",
+        "Feyyaz Yiğit",
+        "İrfan Erkent"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many friends make up Gibi's main trio?",
+      "choices": [
+        "2",
+        "4",
+        "3",
+        "5"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What kind of series is Gibi?",
+      "choices": [
+        "A crime drama",
+        "A period drama",
+        "A romantic drama",
+        "An absurd comedy"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How are Gibi's stories structured?",
+      "choices": [
+        "Most episodes are self-contained stories",
+        "One long serialized plot",
+        "A real-life timeline",
+        "A live broadcast format"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many seasons did Gibi run?",
+      "choices": [
+        "3",
+        "6",
+        "4",
+        "8"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which year did Gibi premiere?",
+      "choices": [
+        "2018",
+        "2019",
+        "2021",
+        "2023"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which trait best describes Yılmaz?",
+      "choices": [
+        "Naive and sincere",
+        "Shy and quiet",
+        "Meticulous and serious",
+        "Sharp-tongued and sarcastic"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which character tries to be organized and logical yet keeps landing in absurd situations?",
+      "choices": [
+        "İlkkan",
+        "Yılmaz",
+        "Ersoy",
+        "Behçet"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which character is known for his naivety and fixation on needless details?",
+      "choices": [
+        "Yılmaz",
+        "Ersoy",
+        "İlkkan",
+        "Behçet"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who co-writes Gibi with Feyyaz Yiğit?",
+      "choices": [
+        "Ömer Sinir",
+        "Barış Ayaztaş",
+        "Aziz Kedi",
+        "Onur Uzun"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which media group does Exxen belong to?",
+      "choices": [
+        "Doğuş Medya",
+        "Demirören Medya",
+        "Ciner Medya",
+        "Acun Medya"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which description best fits Gibi's brand of humor?",
+      "choices": [
+        "Absurd and dark humor",
+        "Slapstick",
+        "Realistic drama",
+        "Stand-up comedy"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which year did Gibi end?",
+      "choices": [
+        "2023",
+        "2025",
+        "2024",
+        "2022"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many episodes does Gibi have in total?",
+      "choices": [
+        "50",
+        "61",
+        "68",
+        "80"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many episodes does Gibi's first season have?",
+      "choices": [
+        "8",
+        "10",
+        "13",
+        "12"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many episodes does Gibi's fifth season have?",
+      "choices": [
+        "13",
+        "8",
+        "10",
+        "12"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which production company made Gibi?",
+      "choices": [
+        "Ay Yapım",
+        "Özcanlar Yapım Sarayı",
+        "Pana Film",
+        "Plato Film"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which director directed Gibi's first two seasons?",
+      "choices": [
+        "Onur Uzun",
+        "Barış Yöş",
+        "Ömer Sinir",
+        "Reyhan Yıldırım"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who directed Gibi's third season?",
+      "choices": [
+        "Ömer Sinir",
+        "Barış Yöş",
+        "Reyhan Yıldırım",
+        "Onur Uzun"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which award did Gibi win at the 2022 Golden Butterfly Awards?",
+      "choices": [
+        "Best Comedy Series",
+        "Best Drama Series",
+        "Best Foreign Series",
+        "Best Reality Show"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which award did Feyyaz Yiğit win for Gibi at the Golden Butterfly Awards?",
+      "choices": [
+        "Best Director",
+        "Best Male Comedy Actor",
+        "Best Screenplay",
+        "Best Supporting Actor"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Yılmaz's real name?",
+      "choices": [
+        "İlkkan",
+        "Ersoy",
+        "Çağatay",
+        "Barış"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How old does İlkkan believe he is?",
+      "choices": [
+        "19",
+        "33",
+        "41",
+        "28"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which side job does İlkkan occasionally do?",
+      "choices": [
+        "Wedding videographer",
+        "Taxi driving",
+        "Courier work",
+        "Waiting tables"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which main character appears in 60 of the 68 episodes, not every one?",
+      "choices": [
+        "Yılmaz",
+        "Ersoy",
+        "İlkkan",
+        "Behçet"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the title of Gibi's first episode?",
+      "choices": [
+        "Vatka",
+        "Kuki",
+        "Kokariç",
+        "Badana"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the title of the first season finale?",
+      "choices": [
+        "Vita Brevis",
+        "Kan Parası",
+        "Yılmaz Bey Banyo",
+        "Atın Bulunuşu"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the title of the second season finale?",
+      "choices": [
+        "Vita Brevis",
+        "Atın Bulunuşu",
+        "Çaça ve Cosplay",
+        "Gelin Başı"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which of these episodes belongs to season two?",
+      "choices": [
+        "Vatka",
+        "Kuki",
+        "Badana",
+        "Sinek"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which of these episodes belongs to season one?",
+      "choices": [
+        "Kuki",
+        "Bej",
+        "Erasmus'la Gelen Yamyam",
+        "Sokak Röportajı"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the title of the first episode of season five?",
+      "choices": [
+        "Waffle",
+        "Kuki",
+        "Vatka",
+        "Sinek"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which town was a season-three episode of Gibi filmed on location?",
+      "choices": [
+        "Nazilli",
+        "Gebze",
+        "Silivri",
+        "Şile"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which town was an episode in season four of Gibi filmed?",
+      "choices": [
+        "Nazilli",
+        "Gebze",
+        "Silivri",
+        "Şile"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which guest actor plays both Behçet Bey and Vincenzo Galliano in Gibi?",
+      "choices": [
+        "Kıvanç Kılınç",
+        "Ahmet Kürşat Öçalan",
+        "İrfan Erkent",
+        "Feyyaz Yiğit"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "On what date did Gibi's second season premiere?",
+      "choices": [
+        "1 January 2021",
+        "4 March 2022",
+        "21 October 2022",
+        "31 December 2021"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "On what day did Gibi's first season start streaming?",
+      "choices": [
+        "1 January 2021",
+        "31 December 2021",
+        "1 January 2022",
+        "14 March 2025"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which of the main actors is also one of the producers of Gibi?",
+      "choices": [
+        "Kıvanç Kılınç",
+        "Feyyaz Yiğit",
+        "Ahmet Kürşat Öçalan",
+        "Aziz Kedi"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which director worked on both seasons five and six of Gibi?",
+      "choices": [
+        "Ömer Sinir",
+        "Onur Uzun",
+        "Reyhan Yıldırım",
+        "Aziz Kedi"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    }
+  ]
+}

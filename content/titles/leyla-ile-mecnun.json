@@ -1,0 +1,1085 @@
+{
+  "slug": "leyla-ile-mecnun",
+  "kind": "series",
+  "release_year": 2011,
+  "tmdb_id": null,
+  "poster_url": null,
+  "translations": {
+    "tr": {
+      "name": "Leyla ile Mecnun",
+      "synopsis": "Hastanede yan yana doğup beşik kertmesi yapılan Leyla ve Mecnun’un hikâyesi; Leyla’yı kaybeden Mecnun, farklı Leylalar arasında aşkı arar. Burak Aksak’ın yazdığı absürt komedi."
+    },
+    "en": {
+      "name": "Leyla ile Mecnun (Leyla and Mecnun)",
+      "synopsis": "An absurdist comedy by Burak Aksak: born in neighboring hospital beds and promised to each other, Mecnun loses his Leyla and keeps chasing love through a string of different Leylas."
+    }
+  },
+  "questions": [
+    {
+      "locale": "tr",
+      "prompt": "Leyla ile Mecnun'da Mecnun Çınar'ı kim canlandırır?",
+      "choices": [
+        "Ali Atay",
+        "Serkan Keskin",
+        "Osman Sonant",
+        "Ushan Çakır"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Leyla ile Mecnun adı hangi klasik aşk hikâyesine gönderme yapar?",
+      "choices": [
+        "Ferhat ile Şirin",
+        "Leyla ile Mecnun efsanesi",
+        "Kerem ile Aslı",
+        "Tahir ile Zühre"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Leyla ile Mecnun nasıl bir dizidir?",
+      "choices": [
+        "Polisiye dizi",
+        "Tarihi dizi",
+        "Absürt komedi",
+        "Mafya dizisi"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dizinin ilk Leyla'sı nasıl ölür?",
+      "choices": [
+        "Hastalıktan",
+        "Yangında",
+        "Boğularak",
+        "Trafik kazasında"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Leyla ile Mecnun hangi yıl yayına başladı?",
+      "choices": [
+        "2011",
+        "2008",
+        "2013",
+        "2021"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "İlk Leyla'yı (Leyla Yılmaz) kim canlandırır?",
+      "choices": [
+        "Müge Boz",
+        "Ezgi Asaroğlu",
+        "Zeynep Çamcı",
+        "Melis Birkan"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Leyla ile Mecnun'un ilk yayın dönemi hangi kanaldaydı?",
+      "choices": [
+        "Show TV",
+        "Star TV",
+        "TRT 1",
+        "Kanal D"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dizi, yıllar sonra hangi dijital platformda yeniden döndü?",
+      "choices": [
+        "Netflix",
+        "BluTV",
+        "Gain",
+        "Exxen"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Leyla ile Mecnun'un senaristi kimdir?",
+      "choices": [
+        "Burak Aksak",
+        "Emrah Serbes",
+        "Gülse Birsel",
+        "Feyyaz Yiğit"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dizinin yönetmenliğini ağırlıklı olarak kim yaptı?",
+      "choices": [
+        "Serdar Akar",
+        "Onur Ünlü",
+        "Sinan Öztürk",
+        "Ömer Sinir"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "İsmail Abi karakterini kim canlandırır?",
+      "choices": [
+        "Osman Sonant",
+        "Cengiz Bozkurt",
+        "Serkan Keskin",
+        "Ali Atay"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Mecnun'un soyadı nedir?",
+      "choices": [
+        "Yılmaz",
+        "Küçük",
+        "Atasoy",
+        "Çınar"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Leyla ile Mecnun'un başında iki bebeğin hikâyesi nasıl başlar?",
+      "choices": [
+        "Yan yana doğar, beşik kertmesi yapılır",
+        "Aynı okulda tanışırlar",
+        "Bir düğünde karşılaşırlar",
+        "Komşu olarak büyürler"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Leyla'nın kalbini nakil olarak alan karakter kimdir?",
+      "choices": [
+        "Sedef",
+        "Şirin",
+        "Leyla Yedinci",
+        "Arda"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Mecnun'un rüyalarında görünen gizemli yaşlı karakter kimdir?",
+      "choices": [
+        "İsmail Abi",
+        "Erdal Bakkal",
+        "Aksakallı Dede",
+        "Yavuz"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Leyla ile Mecnun toplam kaç sezon sürdü?",
+      "choices": [
+        "3",
+        "4",
+        "10",
+        "7"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dizinin yeniden döndüğü yıl hangisidir?",
+      "choices": [
+        "2021",
+        "2015",
+        "2017",
+        "2019"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Leyla ile Mecnun'dan sonra Star TV'de yayınlanan devam niteliğindeki dizinin adı nedir?",
+      "choices": [
+        "Herkese Benden Çay",
+        "Ben de Özledim",
+        "İsmail Abi'nin Genleri",
+        "Leyla The Band"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dizinin oyuncularının kurduğu grubun adı nedir?",
+      "choices": [
+        "Mecnun Orkestrası",
+        "Çınar Band",
+        "Leyla The Band",
+        "Aksakallı Grubu"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Aksakallı Dede rolünü hangi oyuncu üstlenir?",
+      "choices": [
+        "Cengiz Bozkurt",
+        "Ahmet Mümtaz Taylan",
+        "Serkan Keskin",
+        "Köksal Engür"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Erdal Bakkal karakterini hangi oyuncu oynar?",
+      "choices": [
+        "Cengiz Bozkurt",
+        "Köksal Engür",
+        "Osman Sonant",
+        "Ahmet Mümtaz Taylan"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Mecnun'un babası İskender Çınar rolündeki oyuncu kimdir?",
+      "choices": [
+        "Cengiz Bozkurt",
+        "Ahmet Mümtaz Taylan",
+        "Köksal Engür",
+        "Serkan Keskin"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Mecnun'un babası İskender'in mesleği nedir?",
+      "choices": [
+        "Bakkal",
+        "Öğretmen",
+        "Taksi şoförü",
+        "Berber"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Yavuz Hırsız karakterini hangi oyuncu canlandırır?",
+      "choices": [
+        "Serkan Keskin",
+        "Ali Atay",
+        "Ushan Çakır",
+        "Osman Sonant"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Yavuz kendini nasıl tanımlar?",
+      "choices": [
+        "Performans sanatçısı",
+        "Yönetmen",
+        "Dedektif",
+        "Şair"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Erdal Bakkal'ın dizideki özelliği nedir?",
+      "choices": [
+        "Hırsız bir komşu",
+        "Cimri bir bakkal",
+        "Gezgin bir satıcı",
+        "Taksi şoförü"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Şirin karakterini hangi oyuncu canlandırır?",
+      "choices": [
+        "Ezgi Asaroğlu",
+        "Zeynep Çamcı",
+        "Müge Boz",
+        "Melis Birkan"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Sedef Leyla karakterini kim canlandırır?",
+      "choices": [
+        "Müge Boz",
+        "Deniz Işın",
+        "Ezgi Asaroğlu",
+        "Zeynep Çamcı"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Leyla Yedinci rolünde hangi oyuncu yer alır?",
+      "choices": [
+        "Melis Birkan",
+        "Deniz Işın",
+        "Zeynep Çamcı",
+        "Müge Boz"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Arda karakterini hangi oyuncu oynar?",
+      "choices": [
+        "Ali Atay",
+        "Ushan Çakır",
+        "Osman Sonant",
+        "Serkan Keskin"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Köksal Engür, Aksakallı Dede dışında hangi karakteri oynar?",
+      "choices": [
+        "Erdal Bakkal",
+        "Arda",
+        "Karabasan",
+        "İskender"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Mecnun'un annesi Pakize Çınar'ı hangi oyuncu canlandırır?",
+      "choices": [
+        "Ezgi Asaroğlu",
+        "İştar Gökseven",
+        "Melis Birkan",
+        "Asuman Dabak"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dizinin çekimleri ağırlıklı olarak İstanbul'un hangi semtinde yapıldı?",
+      "choices": [
+        "Sarıyer (Kireçburnu)",
+        "Kadıköy",
+        "Beşiktaş",
+        "Fatih"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "TRT 1'de yayınlanan orijinal dönemde kaç bölüm yayınlandı?",
+      "choices": [
+        "82",
+        "103",
+        "120",
+        "144"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Leyla ile Mecnun toplam kaç bölümdür?",
+      "choices": [
+        "103",
+        "120",
+        "144",
+        "180"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ben de Özledim kaç bölüm sürdü?",
+      "choices": [
+        "6",
+        "20",
+        "41",
+        "13"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Burak Aksak'ın anlattığı yayınlanmayan final planına göre bütün hikâye kimin hayalidir?",
+      "choices": [
+        "Mecnun'un",
+        "İsmail Abi'nin",
+        "Leyla'nın",
+        "Aksakallı Dede'nin"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Burak Aksak 2018'de ne yayımladı?",
+      "choices": [
+        "Bir belgesel",
+        "Farklı bir sonla Leyla ile Mecnun kitabı",
+        "Bir şiir antolojisi",
+        "Bir sinema filmi"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Leyla The Band'in vokalisti kimdir?",
+      "choices": [
+        "Serkan Keskin",
+        "Osman Sonant",
+        "Ali Atay",
+        "Onur Ünlü"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Sedef Leyla'nın dizideki mesleği nedir?",
+      "choices": [
+        "Hemşire",
+        "Öğretmen",
+        "Avukat",
+        "Pizza kuryesi"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Mecnun, ilk Leyla'nın ölümünün ardından nasıl bir tepki verir?",
+      "choices": [
+        "Bir yıl boyunca konuşmaz",
+        "Yurt dışına taşınır",
+        "Ordu'ya yazılır",
+        "Ressam olur"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays Mecnun Çınar in Leyla ile Mecnun?",
+      "choices": [
+        "Serkan Keskin",
+        "Osman Sonant",
+        "Ali Atay",
+        "Ushan Çakır"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which classic love story does the title Leyla ile Mecnun refer to?",
+      "choices": [
+        "Ferhad and Shirin",
+        "Kerem and Aslı",
+        "Tahir and Zühre",
+        "The legend of Layla and Majnun"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What kind of series is Leyla ile Mecnun?",
+      "choices": [
+        "An absurdist comedy",
+        "A crime drama",
+        "A historical drama",
+        "A mafia drama"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How does the first Leyla die?",
+      "choices": [
+        "Of an illness",
+        "In a traffic accident",
+        "In a fire",
+        "By drowning"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which year did Leyla ile Mecnun first air?",
+      "choices": [
+        "2008",
+        "2013",
+        "2011",
+        "2021"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays the first Leyla, Leyla Yılmaz?",
+      "choices": [
+        "Müge Boz",
+        "Zeynep Çamcı",
+        "Melis Birkan",
+        "Ezgi Asaroğlu"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "On which channel did Leyla ile Mecnun originally air?",
+      "choices": [
+        "TRT 1",
+        "Show TV",
+        "Star TV",
+        "Kanal D"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "On which streaming platform did the series return years later?",
+      "choices": [
+        "Netflix",
+        "Exxen",
+        "BluTV",
+        "Gain"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who wrote Leyla ile Mecnun?",
+      "choices": [
+        "Emrah Serbes",
+        "Gülse Birsel",
+        "Burak Aksak",
+        "Feyyaz Yiğit"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who directed most of the series?",
+      "choices": [
+        "Serdar Akar",
+        "Sinan Öztürk",
+        "Ömer Sinir",
+        "Onur Ünlü"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays İsmail Abi?",
+      "choices": [
+        "Serkan Keskin",
+        "Osman Sonant",
+        "Cengiz Bozkurt",
+        "Ali Atay"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Mecnun's surname?",
+      "choices": [
+        "Yılmaz",
+        "Çınar",
+        "Küçük",
+        "Atasoy"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How does the story begin for the two babies who will be named Leyla and Mecnun?",
+      "choices": [
+        "They meet at the same school",
+        "They meet at a wedding",
+        "Born side by side, betrothed in the cradle",
+        "They grow up as neighbors"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which character receives the first Leyla's heart?",
+      "choices": [
+        "Sedef",
+        "Leyla Yedinci",
+        "Arda",
+        "Şirin"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which mystical figure appears to Mecnun in his dreams?",
+      "choices": [
+        "Aksakallı Dede",
+        "İsmail Abi",
+        "Erdal Bakkal",
+        "Yavuz"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many seasons does Leyla ile Mecnun have in total?",
+      "choices": [
+        "3",
+        "7",
+        "4",
+        "10"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which year did the series come back?",
+      "choices": [
+        "2015",
+        "2017",
+        "2021",
+        "2019"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of the follow-up series that aired on Star TV after Leyla ile Mecnun was cancelled?",
+      "choices": [
+        "Herkese Benden Çay",
+        "İsmail Abi'nin Genleri",
+        "Leyla The Band",
+        "Ben de Özledim"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of the band formed by cast members?",
+      "choices": [
+        "Leyla The Band",
+        "Mecnun Orchestra",
+        "Çınar Band",
+        "The Aksakallı Group"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Aksakallı Dede?",
+      "choices": [
+        "Cengiz Bozkurt",
+        "Köksal Engür",
+        "Ahmet Mümtaz Taylan",
+        "Serkan Keskin"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Erdal Bakkal?",
+      "choices": [
+        "Köksal Engür",
+        "Osman Sonant",
+        "Cengiz Bozkurt",
+        "Ahmet Mümtaz Taylan"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Mecnun's father, İskender Çınar?",
+      "choices": [
+        "Cengiz Bozkurt",
+        "Köksal Engür",
+        "Serkan Keskin",
+        "Ahmet Mümtaz Taylan"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the job of Mecnun's father İskender?",
+      "choices": [
+        "Taxi driver",
+        "Grocer",
+        "Teacher",
+        "Barber"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Yavuz Hırsız?",
+      "choices": [
+        "Serkan Keskin",
+        "Osman Sonant",
+        "Ali Atay",
+        "Ushan Çakır"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How does Yavuz describe himself?",
+      "choices": [
+        "A director",
+        "A detective",
+        "A performance artist",
+        "A poet"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Erdal Bakkal's defining trait?",
+      "choices": [
+        "A thieving neighbor",
+        "A travelling salesman",
+        "A taxi driver",
+        "A miserly grocer"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actress plays Şirin?",
+      "choices": [
+        "Müge Boz",
+        "Ezgi Asaroğlu",
+        "Zeynep Çamcı",
+        "Melis Birkan"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays Sedef Leyla?",
+      "choices": [
+        "Müge Boz",
+        "Zeynep Çamcı",
+        "Deniz Işın",
+        "Ezgi Asaroğlu"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actress plays Leyla Yedinci?",
+      "choices": [
+        "Deniz Işın",
+        "Zeynep Çamcı",
+        "Melis Birkan",
+        "Müge Boz"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Arda, Leyla's spoiled ex-boyfriend?",
+      "choices": [
+        "Ali Atay",
+        "Osman Sonant",
+        "Serkan Keskin",
+        "Ushan Çakır"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Besides Aksakallı Dede, which character does Köksal Engür play?",
+      "choices": [
+        "Karabasan",
+        "Erdal Bakkal",
+        "Arda",
+        "İskender"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actress plays Mecnun's mother, Pakize Çınar?",
+      "choices": [
+        "Ezgi Asaroğlu",
+        "Asuman Dabak",
+        "İştar Gökseven",
+        "Melis Birkan"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which Istanbul district were most of the scenes filmed?",
+      "choices": [
+        "Kadıköy",
+        "Beşiktaş",
+        "Sarıyer (Kireçburnu)",
+        "Fatih"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many episodes aired in the original TRT 1 run?",
+      "choices": [
+        "82",
+        "120",
+        "144",
+        "103"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many episodes does Leyla ile Mecnun have in total?",
+      "choices": [
+        "144",
+        "103",
+        "120",
+        "180"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many episodes did Ben de Özledim run?",
+      "choices": [
+        "6",
+        "13",
+        "20",
+        "41"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "According to Burak Aksak's unrealized ending, whose imagination is the whole story?",
+      "choices": [
+        "İsmail Abi's",
+        "Leyla's",
+        "Mecnun's",
+        "Aksakallı Dede's"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What did Burak Aksak publish in April 2018?",
+      "choices": [
+        "A documentary",
+        "A poetry anthology",
+        "A feature film",
+        "A Leyla ile Mecnun book with a different ending"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who is the lead vocalist of Leyla The Band?",
+      "choices": [
+        "Ali Atay",
+        "Serkan Keskin",
+        "Osman Sonant",
+        "Onur Ünlü"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Sedef Leyla's job in the series?",
+      "choices": [
+        "Nurse",
+        "Pizza delivery worker",
+        "Teacher",
+        "Lawyer"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How does Mecnun react after the first Leyla's death?",
+      "choices": [
+        "He moves abroad",
+        "He joins the army",
+        "He stops speaking for a year",
+        "He becomes a painter"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    }
+  ]
+}

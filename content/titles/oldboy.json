@@ -1,0 +1,1059 @@
+{
+  "slug": "oldboy",
+  "kind": "movie",
+  "release_year": 2003,
+  "tmdb_id": null,
+  "poster_url": null,
+  "translations": {
+    "en": {
+      "name": "Oldboy",
+      "synopsis": "A man is abducted and held in a private cell for fifteen years without knowing why; freed, he has five days to uncover his captor and the reason behind it."
+    },
+    "tr": {
+      "name": "Oldboy",
+      "synopsis": "Sebebini bilmeden on beş yıl boyunca özel bir hücrede tutulan bir adam serbest kalır; kendisini hapseden kişiyi ve nedenini bulmak için beş günü vardır."
+    }
+  },
+  "questions": [
+    {
+      "locale": "en",
+      "prompt": "Who directed Oldboy?",
+      "choices": [
+        "Bong Joon-ho",
+        "Kim Jee-woon",
+        "Park Chan-wook",
+        "Lee Chang-dong"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which country was Oldboy made?",
+      "choices": [
+        "South Korea",
+        "Japan",
+        "China",
+        "Thailand"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many years is the protagonist imprisoned?",
+      "choices": [
+        "10",
+        "12",
+        "20",
+        "15"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the protagonist's name?",
+      "choices": [
+        "Lee Woo-jin",
+        "Oh Dae-su",
+        "Mr. Han",
+        "Joo-hwan"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who is the film's main antagonist?",
+      "choices": [
+        "Lee Woo-jin",
+        "Oh Dae-su",
+        "Mr. Han",
+        "Joo-hwan"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Oh Dae-su?",
+      "choices": [
+        "Yoo Ji-tae",
+        "Song Kang-ho",
+        "Choi Min-sik",
+        "Lee Byung-hun"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which weapon does Dae-su use in the famous corridor fight?",
+      "choices": [
+        "A baseball bat",
+        "A hammer",
+        "A knife",
+        "A crowbar"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What does Dae-su eat alive in a sushi restaurant after his release?",
+      "choices": [
+        "A fish",
+        "An eel",
+        "A crab",
+        "An octopus"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Dae-su's main contact with the outside world during his captivity?",
+      "choices": [
+        "A radio",
+        "A telephone",
+        "Letters",
+        "A television"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which language is Oldboy spoken?",
+      "choices": [
+        "Japanese",
+        "Korean",
+        "Mandarin",
+        "English"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In what year was Oldboy released?",
+      "choices": [
+        "2003",
+        "2001",
+        "2005",
+        "2007"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What food does Dae-su receive every day in his cell?",
+      "choices": [
+        "Rice and kimchi",
+        "Instant noodles",
+        "Fried dumplings",
+        "Fried chicken"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How is Dae-su released at the start of the film?",
+      "choices": [
+        "He is dropped on a bridge",
+        "He emerges from a trunk on a rooftop",
+        "He is left in a taxi",
+        "He wakes up in a hospital"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many days does Woo-jin give Dae-su to find out the truth?",
+      "choices": [
+        "Three",
+        "Seven",
+        "Ten",
+        "Five"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who is Mi-do?",
+      "choices": [
+        "Woo-jin's sister",
+        "Dae-su's wife",
+        "A young sushi chef who helps Dae-su",
+        "A police officer"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the relationship between Dae-su and Mi-do?",
+      "choices": [
+        "Father and daughter",
+        "Uncle and niece",
+        "Brother and sister",
+        "No relation"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What happened to Dae-su's wife before he was imprisoned?",
+      "choices": [
+        "She left him",
+        "She went missing",
+        "She was murdered",
+        "She died in an accident"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What does Dae-su do at the end to beg Woo-jin to keep the truth from Mi-do?",
+      "choices": [
+        "He cuts off his own tongue",
+        "He kneels in the snow",
+        "He offers all his money",
+        "He confesses to murder"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How does Lee Woo-jin end his own life?",
+      "choices": [
+        "He jumps from a building",
+        "He is stabbed by Dae-su",
+        "He takes poison",
+        "He shoots himself"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What does Dae-su ask the hypnotist to do at the end?",
+      "choices": [
+        "Make him fall in love again",
+        "Erase his memory of the truth",
+        "Help him sleep",
+        "Make him forget his name"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Oldboy is the second film of which loose trilogy by Park Chan-wook?",
+      "choices": [
+        "The Vengeance trilogy",
+        "The Justice trilogy",
+        "The Seoul trilogy",
+        "The Dark trilogy"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "From which medium is Oldboy adapted?",
+      "choices": [
+        "A Korean novel",
+        "A stage play",
+        "A Japanese manga",
+        "A video game"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which prize did Oldboy win at Cannes in 2004?",
+      "choices": [
+        "The Palme d'Or",
+        "The Grand Prix",
+        "Best Director",
+        "The Jury Prize"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who directed the 2013 American remake of Oldboy?",
+      "choices": [
+        "David Fincher",
+        "Christopher Nolan",
+        "Martin Scorsese",
+        "Spike Lee"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which 2016 film is also directed by Park Chan-wook?",
+      "choices": [
+        "Memories of Murder",
+        "The Host",
+        "Burning",
+        "The Handmaiden"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Lee Woo-jin?",
+      "choices": [
+        "Choi Min-sik",
+        "Yoo Ji-tae",
+        "Song Kang-ho",
+        "Gong Yoo"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How does Dae-su keep fit in his cell?",
+      "choices": [
+        "By shadow-boxing the wall",
+        "By jogging in place",
+        "By lifting weights",
+        "By doing yoga"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What was Dae-su's ordinary profession before the abduction?",
+      "choices": [
+        "Police detective",
+        "Chef",
+        "Office worker (salaryman)",
+        "Taxi driver"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of the restaurant where Dae-su finds the source of his dumplings?",
+      "choices": [
+        "Golden Phoenix",
+        "Blue Dragon",
+        "Red Lantern",
+        "Jade Garden"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Why does Woo-jin take revenge on Dae-su?",
+      "choices": [
+        "Dae-su stole his money",
+        "Dae-su betrayed him in business",
+        "Dae-su injured him in a fight",
+        "A rumor Dae-su spread about him and his sister"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "On which occasion was Dae-su abducted?",
+      "choices": [
+        "His wedding anniversary",
+        "His own birthday",
+        "His daughter's birthday",
+        "New Year's Eve"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actress plays Mi-do?",
+      "choices": [
+        "Kang Hye-jung",
+        "Jeon Do-yeon",
+        "Bae Doona",
+        "Kim Hye-soo"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor stars in the 2013 American remake?",
+      "choices": [
+        "Mark Ruffalo",
+        "Michael Fassbender",
+        "Josh Brolin",
+        "Ben Foster"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which Park Chan-wook film won him Best Director at Cannes in 2022?",
+      "choices": [
+        "Decision to Leave",
+        "The Handmaiden",
+        "Thirst",
+        "Lady Vengeance"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who composed the film's score?",
+      "choices": [
+        "Joe Hisaishi",
+        "Ryuichi Sakamoto",
+        "Nicholas Britell",
+        "Jo Yeong-wook"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who was the president of the Cannes jury that honored Oldboy in 2004?",
+      "choices": [
+        "Martin Scorsese",
+        "Quentin Tarantino",
+        "Steven Spielberg",
+        "David Lynch"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who shot Oldboy as cinematographer?",
+      "choices": [
+        "Chung Chung-hoon",
+        "Hong Kyung-pyo",
+        "Kim Ji-yong",
+        "Lee Mo-gae"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which 2010 thriller also stars Choi Min-sik, opposite Lee Byung-hun?",
+      "choices": [
+        "The Chaser",
+        "The Man from Nowhere",
+        "I Saw the Devil",
+        "A Bittersweet Life"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which year was the American remake released?",
+      "choices": [
+        "2011",
+        "2013",
+        "2015",
+        "2009"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who are the creators of the original Old Boy manga?",
+      "choices": [
+        "Naoki Urasawa and Takashi Nagasaki",
+        "Hirohiko Araki and Eiichiro Oda",
+        "Junji Ito and Kazuo Umezu",
+        "Garon Tsuchiya and Nobuaki Minegishi"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Oldboy'un yönetmeni kimdir?",
+      "choices": [
+        "Bong Joon-ho",
+        "Kim Jee-woon",
+        "Park Chan-wook",
+        "Lee Chang-dong"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Oldboy hangi ülkede çekilmiştir?",
+      "choices": [
+        "Japonya",
+        "Güney Kore",
+        "Çin",
+        "Tayland"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Başkarakter kaç yıl hapis tutulur?",
+      "choices": [
+        "10",
+        "12",
+        "20",
+        "15"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Başkarakterin adı nedir?",
+      "choices": [
+        "Lee Woo-jin",
+        "Mr. Han",
+        "Joo-hwan",
+        "Oh Dae-su"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Filmin başlıca kötü karakteri kimdir?",
+      "choices": [
+        "Oh Dae-su",
+        "Lee Woo-jin",
+        "Mr. Han",
+        "Joo-hwan"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Oh Dae-su'yu hangi oyuncu canlandırır?",
+      "choices": [
+        "Choi Min-sik",
+        "Yoo Ji-tae",
+        "Song Kang-ho",
+        "Lee Byung-hun"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dae-su ünlü koridor kavgasında hangi silahı kullanır?",
+      "choices": [
+        "Beyzbol sopası",
+        "Bıçak",
+        "Çekiç",
+        "Levye"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dae-su serbest kaldıktan sonra suşi restoranında canlı olarak ne yer?",
+      "choices": [
+        "Balık",
+        "Ahtapot",
+        "Yılan balığı",
+        "Yengeç"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dae-su esaret boyunca dış dünyayla en çok neyle bağlantı kurar?",
+      "choices": [
+        "Radyo",
+        "Telefon",
+        "Mektuplar",
+        "Televizyon"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Oldboy hangi dilde konuşulur?",
+      "choices": [
+        "Japonca",
+        "Mandarin",
+        "Korece",
+        "İngilizce"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Oldboy hangi yıl vizyona girdi?",
+      "choices": [
+        "2003",
+        "2001",
+        "2005",
+        "2007"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dae-su hücresinde her gün hangi yemeği alır?",
+      "choices": [
+        "Pilav ve kimçi",
+        "Hazır erişte",
+        "Kızarmış mantı",
+        "Kızarmış tavuk"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dae-su filmin başında nasıl serbest bırakılır?",
+      "choices": [
+        "Bir çatıda bir bavuldan çıkar",
+        "Bir köprüde bırakılır",
+        "Bir taksinin içinde bırakılır",
+        "Hastanede uyanır"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Woo-jin, Dae-su'ya gerçeği bulması için kaç gün verir?",
+      "choices": [
+        "Üç",
+        "Yedi",
+        "On",
+        "Beş"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Mi-do kimdir?",
+      "choices": [
+        "Woo-jin'in kız kardeşi",
+        "Dae-su'ya yardım eden genç bir suşi aşçısı",
+        "Dae-su'nun karısı",
+        "Bir polis memuru"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dae-su ile Mi-do arasındaki ilişki nedir?",
+      "choices": [
+        "Baba ve kız",
+        "Amca ve yeğen",
+        "Kardeş",
+        "Akrabalık yok"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dae-su hapsedilmeden önce karısına ne olmuştur?",
+      "choices": [
+        "Onu terk etmiştir",
+        "Kaybolmuştur",
+        "Öldürülmüştür",
+        "Kazada ölmüştür"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dae-su, Woo-jin'e gerçeği Mi-do'dan saklaması için yalvarırken ne yapar?",
+      "choices": [
+        "Karda diz çöker",
+        "Kendi dilini keser",
+        "Bütün parasını teklif eder",
+        "Cinayeti üstlenir"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Lee Woo-jin hayatına nasıl son verir?",
+      "choices": [
+        "Binadan atlar",
+        "Dae-su tarafından bıçaklanır",
+        "Zehir içer",
+        "Kendini vurur"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dae-su, filmin sonunda hipnozcudan ne ister?",
+      "choices": [
+        "Yeniden âşık etmesini",
+        "Uyumasına yardım etmesini",
+        "Adını unutturmasını",
+        "Gerçeği hafızasından silmesini"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Oldboy, Park Chan-wook'un hangi gevşek üçlemesinin ikinci filmidir?",
+      "choices": [
+        "Adalet üçlemesi",
+        "İntikam üçlemesi",
+        "Seul üçlemesi",
+        "Karanlık üçleme"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Oldboy hangi eserden uyarlanmıştır?",
+      "choices": [
+        "Bir Japon mangasından",
+        "Bir Kore romanından",
+        "Bir tiyatro oyunundan",
+        "Bir video oyunundan"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Oldboy 2004 Cannes'da hangi ödülü aldı?",
+      "choices": [
+        "Altın Palmiye",
+        "En İyi Yönetmen",
+        "Büyük Jüri Ödülü (Grand Prix)",
+        "Jüri Ödülü"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "2013'te çekilen ABD uyarlamasını hangi yönetmen çekti?",
+      "choices": [
+        "David Fincher",
+        "Spike Lee",
+        "Christopher Nolan",
+        "Martin Scorsese"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Aşağıdaki 2016 yapımı film de Park Chan-wook'a aittir; hangisi?",
+      "choices": [
+        "Cinayet Günlükleri",
+        "Canavar (The Host)",
+        "Yanmak (Burning)",
+        "Hizmetçi (The Handmaiden)"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Lee Woo-jin'i hangi oyuncu canlandırır?",
+      "choices": [
+        "Choi Min-sik",
+        "Song Kang-ho",
+        "Yoo Ji-tae",
+        "Gong Yoo"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dae-su hücresinde formunu nasıl korur?",
+      "choices": [
+        "Duvara gölge boks yaparak",
+        "Olduğu yerde koşarak",
+        "Ağırlık kaldırarak",
+        "Yoga yaparak"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dae-su kaçırılmadan önce ne iş yapıyordu?",
+      "choices": [
+        "Polis dedektifi",
+        "Aşçı",
+        "Ofis çalışanı (maaşlı işçi)",
+        "Taksi şoförü"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dae-su mantısının kaynağını hangi restoranda bulur?",
+      "choices": [
+        "Blue Dragon",
+        "Golden Phoenix",
+        "Red Lantern",
+        "Jade Garden"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Woo-jin, Dae-su'dan neden intikam alır?",
+      "choices": [
+        "Dae-su onun parasını çaldığı için",
+        "Dae-su iş hayatında ihanet ettiği için",
+        "Dae-su onu bir kavgada yaraladığı için",
+        "Kız kardeşiyle ilgili yaydığı dedikodu yüzünden"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dae-su hangi vesileyle kaçırılmıştır?",
+      "choices": [
+        "Evlilik yıldönümünde",
+        "Kızının doğum gününde",
+        "Kendi doğum gününde",
+        "Yılbaşı gecesinde"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Mi-do'yu hangi oyuncu canlandırır?",
+      "choices": [
+        "Kang Hye-jung",
+        "Jeon Do-yeon",
+        "Bae Doona",
+        "Kim Hye-soo"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "2013 ABD uyarlamasında başrolü hangi oyuncu üstlenir?",
+      "choices": [
+        "Mark Ruffalo",
+        "Michael Fassbender",
+        "Josh Brolin",
+        "Ben Foster"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Park Chan-wook'a 2022'de Cannes'da En İyi Yönetmen ödülünü kazandıran film hangisidir?",
+      "choices": [
+        "Hizmetçi (The Handmaiden)",
+        "Ayrılma Kararı (Decision to Leave)",
+        "Susuzluk (Thirst)",
+        "Lady Vengeance"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Filmin müziklerini kim besteledi?",
+      "choices": [
+        "Joe Hisaishi",
+        "Ryuichi Sakamoto",
+        "Nicholas Britell",
+        "Jo Yeong-wook"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Oldboy'u 2004'te ödüllendiren Cannes jürisinin başkanı kimdi?",
+      "choices": [
+        "Martin Scorsese",
+        "Steven Spielberg",
+        "David Lynch",
+        "Quentin Tarantino"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Oldboy'un görüntü yönetmeni kimdir?",
+      "choices": [
+        "Hong Kyung-pyo",
+        "Chung Chung-hoon",
+        "Kim Ji-yong",
+        "Lee Mo-gae"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Choi Min-sik'in Lee Byung-hun'la birlikte oynadığı 2010 yapımı gerilim hangisidir?",
+      "choices": [
+        "I Saw the Devil",
+        "The Chaser",
+        "The Man from Nowhere",
+        "A Bittersweet Life"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Amerikan uyarlaması hangi yıl çıktı?",
+      "choices": [
+        "2011",
+        "2015",
+        "2013",
+        "2009"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Orijinal Old Boy mangasının yazarları kimlerdir?",
+      "choices": [
+        "Naoki Urasawa ve Takashi Nagasaki",
+        "Garon Tsuchiya ve Nobuaki Minegishi",
+        "Hirohiko Araki ve Eiichiro Oda",
+        "Junji Ito ve Kazuo Umezu"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    }
+  ]
+}

@@ -1,0 +1,1395 @@
+{
+  "slug": "game-of-thrones",
+  "kind": "series",
+  "release_year": 2011,
+  "tmdb_id": null,
+  "poster_url": null,
+  "translations": {
+    "en": {
+      "name": "Game of Thrones",
+      "synopsis": "Noble families wage war for the Iron Throne of Westeros while an ancient threat gathers beyond the Wall and an exiled princess raises dragons across the sea."
+    },
+    "tr": {
+      "name": "Game of Thrones",
+      "synopsis": "Soylu aileler Westeros'un Demir Taht'ı için savaşırken Duvar'ın ötesinde kadim bir tehdit büyür, denizin ötesinde sürgündeki bir prenses ejderhalar yetiştirir."
+    }
+  },
+  "episodes": [
+    {
+      "season": 1,
+      "number": 1
+    },
+    {
+      "season": 1,
+      "number": 2
+    },
+    {
+      "season": 1,
+      "number": 3
+    },
+    {
+      "season": 1,
+      "number": 4
+    },
+    {
+      "season": 1,
+      "number": 5
+    },
+    {
+      "season": 1,
+      "number": 6
+    },
+    {
+      "season": 1,
+      "number": 7
+    },
+    {
+      "season": 1,
+      "number": 8
+    },
+    {
+      "season": 1,
+      "number": 9
+    },
+    {
+      "season": 1,
+      "number": 10
+    }
+  ],
+  "questions": [
+    {
+      "locale": "en",
+      "prompt": "What is the sigil of House Stark?",
+      "choices": [
+        "A lion",
+        "A stag",
+        "A direwolf",
+        "A dragon"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the sigil of House Lannister?",
+      "choices": [
+        "A lion",
+        "A direwolf",
+        "A kraken",
+        "A stag"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many dragons does Daenerys Targaryen hatch?",
+      "choices": [
+        "Two",
+        "Four",
+        "Five",
+        "Three"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "season": 1,
+      "episode": 9,
+      "prompt": "How does Ned Stark die?",
+      "choices": [
+        "He is poisoned",
+        "He is beheaded",
+        "He is stabbed",
+        "He is hanged"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the throne of Westeros made of?",
+      "choices": [
+        "Melted swords",
+        "Gold",
+        "Iron ore",
+        "Dragon bone"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which structure does the Night's Watch guard?",
+      "choices": [
+        "Winterfell",
+        "The Eyrie",
+        "The Wall",
+        "Casterly Rock"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of Jon Snow's direwolf?",
+      "choices": [
+        "Nymeria",
+        "Ghost",
+        "Summer",
+        "Grey Wind"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What are the words of House Stark?",
+      "choices": [
+        "Hear Me Roar",
+        "Fire and Blood",
+        "Ours Is the Fury",
+        "Winter Is Coming"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which character is nicknamed 'the Imp'?",
+      "choices": [
+        "Jaime Lannister",
+        "Bronn",
+        "Varys",
+        "Tyrion Lannister"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Jon Snow?",
+      "choices": [
+        "Richard Madden",
+        "Kit Harington",
+        "Alfie Allen",
+        "Nikolaj Coster-Waldau"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actress plays Daenerys Targaryen?",
+      "choices": [
+        "Emilia Clarke",
+        "Lena Headey",
+        "Sophie Turner",
+        "Maisie Williams"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Whose novels is Game of Thrones based on?",
+      "choices": [
+        "J.R.R. Tolkien",
+        "Robert Jordan",
+        "George R.R. Martin",
+        "Brandon Sanderson"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which network aired Game of Thrones?",
+      "choices": [
+        "Showtime",
+        "HBO",
+        "Netflix",
+        "AMC"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many seasons does Game of Thrones have?",
+      "choices": [
+        "6",
+        "7",
+        "10",
+        "8"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Whom does Daenerys marry in season 1?",
+      "choices": [
+        "Jorah Mormont",
+        "Daario Naharis",
+        "Khal Drogo",
+        "Viserys"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who is crowned king in the final episode?",
+      "choices": [
+        "Bran Stark",
+        "Jon Snow",
+        "Sansa Stark",
+        "Daenerys Targaryen"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How does King Joffrey die?",
+      "choices": [
+        "Killed in battle",
+        "Stabbed by Arya",
+        "Poisoned at his wedding feast",
+        "Beheaded"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Where does the Red Wedding take place?",
+      "choices": [
+        "The Twins",
+        "Harrenhal",
+        "Riverrun",
+        "Casterly Rock"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Hodor's name short for?",
+      "choices": [
+        "Hold your own",
+        "Hear our oath",
+        "Hodor Roy",
+        "Hold the door"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who are Jon Snow's real parents?",
+      "choices": [
+        "Eddard Stark and Ashara Dayne",
+        "Rhaegar Targaryen and Lyanna Stark",
+        "Robert Baratheon and Lyanna Stark",
+        "Aerys Targaryen and Rhaella"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What does 'Valar Morghulis' mean?",
+      "choices": [
+        "All men must die",
+        "Fire and blood",
+        "Winter is coming",
+        "The night is dark"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which weapon does Tyrion use to kill Tywin?",
+      "choices": [
+        "A dagger",
+        "A sword",
+        "A crossbow",
+        "Poison"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of Arya Stark's sword?",
+      "choices": [
+        "Ice",
+        "Needle",
+        "Longclaw",
+        "Oathkeeper"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of Jon Snow's sword?",
+      "choices": [
+        "Ice",
+        "Needle",
+        "Oathkeeper",
+        "Longclaw"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who kills the Night King?",
+      "choices": [
+        "Jon Snow",
+        "Bran Stark",
+        "Daenerys Targaryen",
+        "Arya Stark"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who kills Oberyn Martell?",
+      "choices": [
+        "Sandor Clegane",
+        "Gregor Clegane",
+        "Jaime Lannister",
+        "Ramsay Bolton"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which city does Daenerys destroy with dragonfire in the final season?",
+      "choices": [
+        "King's Landing",
+        "Winterfell",
+        "Braavos",
+        "Meereen"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who kills Daenerys Targaryen?",
+      "choices": [
+        "Tyrion Lannister",
+        "Arya Stark",
+        "Jon Snow",
+        "Cersei Lannister"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who is Jon Snow's opponent in the Battle of the Bastards?",
+      "choices": [
+        "Walder Frey",
+        "Ramsay Bolton",
+        "Joffrey Baratheon",
+        "Euron Greyjoy"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How does Ramsay Bolton die?",
+      "choices": [
+        "Beheaded",
+        "Stabbed by Jon",
+        "Burned alive",
+        "Eaten by his own hounds"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which deity does Melisandre serve?",
+      "choices": [
+        "The Many-Faced God",
+        "The Drowned God",
+        "The Lord of Light",
+        "The Seven"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which character is known as 'the Spider'?",
+      "choices": [
+        "Varys",
+        "Petyr Baelish",
+        "Qyburn",
+        "Pycelle"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "season": 1,
+      "episode": 10,
+      "prompt": "What does Daenerys do on Khal Drogo's funeral pyre?",
+      "choices": [
+        "She burns the throne",
+        "She flees on a dragon",
+        "She walks into the fire",
+        "She crowns herself queen"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Sandor Clegane's nickname?",
+      "choices": [
+        "The Hound",
+        "The Mountain",
+        "The Kingslayer",
+        "The Red Viper"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Whose illegitimate son is Gendry?",
+      "choices": [
+        "Eddard Stark",
+        "Stannis Baratheon",
+        "Renly Baratheon",
+        "Robert Baratheon"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What does Bronn do for a living?",
+      "choices": [
+        "He is a maester",
+        "He is a sellsword",
+        "He is a smith",
+        "He is a septon"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who are the showrunners of Game of Thrones?",
+      "choices": [
+        "David Benioff and D.B. Weiss",
+        "Vince Gilligan and Peter Gould",
+        "Matthew Weiner and Robin Veith",
+        "Damon Lindelof and Carlton Cuse"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which two materials can kill White Walkers?",
+      "choices": [
+        "Silver and iron",
+        "Obsidian and gold",
+        "Valyrian steel and dragonglass",
+        "Wildfire and ice"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who is Samwell Tarly's love, whom he protects?",
+      "choices": [
+        "Ygritte",
+        "Gilly",
+        "Missandei",
+        "Shae"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What does Cersei do as penance in season 5?",
+      "choices": [
+        "She fasts for a week",
+        "She spends a night in the sept",
+        "She sells her jewels",
+        "She walks naked through King's Landing"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the sigil of House Greyjoy?",
+      "choices": [
+        "A direwolf",
+        "A flayed man",
+        "A stag",
+        "A golden kraken"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What was Jon Snow's birth name?",
+      "choices": [
+        "Rhaegar Targaryen",
+        "Aegon Targaryen",
+        "Viserys Targaryen",
+        "Jon Waters"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Tywin Lannister?",
+      "choices": [
+        "Charles Dance",
+        "Peter Dinklage",
+        "Iain Glen",
+        "Liam Cunningham"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Oberyn Martell?",
+      "choices": [
+        "Jerome Flynn",
+        "Iwan Rheon",
+        "Pedro Pascal",
+        "Aidan Gillen"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actress plays Brienne of Tarth?",
+      "choices": [
+        "Natalie Dormer",
+        "Gwendoline Christie",
+        "Carice van Houten",
+        "Diana Rigg"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Ramsay Bolton?",
+      "choices": [
+        "Alfie Allen",
+        "Jack Gleeson",
+        "Aidan Gillen",
+        "Iwan Rheon"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actress plays Melisandre?",
+      "choices": [
+        "Natalie Dormer",
+        "Diana Rigg",
+        "Carice van Houten",
+        "Gwendoline Christie"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which city is the Citadel located in?",
+      "choices": [
+        "Oldtown",
+        "King's Landing",
+        "Braavos",
+        "White Harbor"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What color is wildfire?",
+      "choices": [
+        "Orange",
+        "Blue",
+        "Green",
+        "Purple"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which Croatian city is the filming location for King's Landing?",
+      "choices": [
+        "Dubrovnik",
+        "Split",
+        "Zagreb",
+        "Zadar"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who cuts off Jaime Lannister's hand?",
+      "choices": [
+        "Ramsay Bolton",
+        "Walder Frey",
+        "Gregor Clegane",
+        "Locke"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Stark Hanesi'nin sembolü nedir?",
+      "choices": [
+        "Bir aslan",
+        "Bir geyik",
+        "Bir kurt (direwolf)",
+        "Bir ejderha"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Lannister Hanesi'nin sembolü nedir?",
+      "choices": [
+        "Bir kurt (direwolf)",
+        "Bir aslan",
+        "Bir kraken",
+        "Bir geyik"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Daenerys Targaryen kaç ejderha çıkarır?",
+      "choices": [
+        "İki",
+        "Dört",
+        "Beş",
+        "Üç"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "season": 1,
+      "episode": 9,
+      "prompt": "Ned Stark nasıl ölür?",
+      "choices": [
+        "Zehirlenerek",
+        "Bıçaklanarak",
+        "Asılarak",
+        "Başı kesilerek"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Westeros'un tahtı neyden yapılmıştır?",
+      "choices": [
+        "Altından",
+        "Eritilmiş kılıçlardan",
+        "Demir cevherinden",
+        "Ejderha kemiğinden"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Gece Nöbetçileri hangi yapıyı korur?",
+      "choices": [
+        "Duvar'ı",
+        "Winterfell'i",
+        "Eyrie'yi",
+        "Casterly Rock'ı"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Jon Snow'un kurdunun adı nedir?",
+      "choices": [
+        "Nymeria",
+        "Summer",
+        "Ghost",
+        "Grey Wind"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Stark Hanesi'nin sözü nedir?",
+      "choices": [
+        "Kükremem Duyulsun",
+        "Kış Geliyor",
+        "Ateş ve Kan",
+        "Bizimki Öfkedir"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "'Cüce' (the Imp) lakabıyla anılan karakter kimdir?",
+      "choices": [
+        "Jaime Lannister",
+        "Bronn",
+        "Varys",
+        "Tyrion Lannister"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Jon Snow'u hangi oyuncu canlandırır?",
+      "choices": [
+        "Richard Madden",
+        "Alfie Allen",
+        "Kit Harington",
+        "Nikolaj Coster-Waldau"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Daenerys Targaryen'i hangi oyuncu canlandırır?",
+      "choices": [
+        "Emilia Clarke",
+        "Lena Headey",
+        "Sophie Turner",
+        "Maisie Williams"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Game of Thrones hangi yazarın romanlarından uyarlanmıştır?",
+      "choices": [
+        "J.R.R. Tolkien",
+        "Robert Jordan",
+        "George R.R. Martin",
+        "Brandon Sanderson"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Game of Thrones hangi kanalda yayımlandı?",
+      "choices": [
+        "HBO",
+        "Showtime",
+        "Netflix",
+        "AMC"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Game of Thrones kaç sezon sürdü?",
+      "choices": [
+        "6",
+        "7",
+        "10",
+        "8"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Daenerys birinci sezonda kiminle evlenir?",
+      "choices": [
+        "Jorah Mormont",
+        "Khal Drogo",
+        "Daario Naharis",
+        "Viserys"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dizinin son bölümünde kim kral ilan edilir?",
+      "choices": [
+        "Bran Stark",
+        "Jon Snow",
+        "Sansa Stark",
+        "Daenerys Targaryen"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Kral Joffrey nasıl ölür?",
+      "choices": [
+        "Savaşta öldürülerek",
+        "Arya tarafından bıçaklanarak",
+        "Düğün ziyafetinde zehirlenerek",
+        "Başı kesilerek"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Kızıl Düğün nerede gerçekleşir?",
+      "choices": [
+        "Harrenhal",
+        "The Twins (İkizler)",
+        "Riverrun",
+        "Casterly Rock"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Hodor adı neyin kısaltmasıdır?",
+      "choices": [
+        "Hold your own",
+        "Hear our oath",
+        "Hodor Roy",
+        "Hold the door (Kapıyı tut)"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Jon Snow'un gerçek ebeveynleri kimlerdir?",
+      "choices": [
+        "Eddard Stark ve Ashara Dayne",
+        "Robert Baratheon ve Lyanna Stark",
+        "Aerys Targaryen ve Rhaella",
+        "Rhaegar Targaryen ve Lyanna Stark"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "'Valar Morghulis' ne anlama gelir?",
+      "choices": [
+        "Ateş ve kan",
+        "Bütün insanlar ölmelidir",
+        "Kış geliyor",
+        "Gece karanlıktır"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Tyrion, Tywin'i hangi silahla öldürür?",
+      "choices": [
+        "Tatar yayıyla",
+        "Hançerle",
+        "Kılıçla",
+        "Zehirle"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Arya Stark'ın kılıcının adı nedir?",
+      "choices": [
+        "Ice",
+        "Longclaw",
+        "Needle",
+        "Oathkeeper"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Jon Snow'un kılıcının adı nedir?",
+      "choices": [
+        "Ice",
+        "Longclaw",
+        "Needle",
+        "Oathkeeper"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Gece Kralı'nı kim öldürür?",
+      "choices": [
+        "Jon Snow",
+        "Bran Stark",
+        "Daenerys Targaryen",
+        "Arya Stark"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Oberyn Martell'i kim öldürür?",
+      "choices": [
+        "Sandor Clegane",
+        "Jaime Lannister",
+        "Gregor Clegane",
+        "Ramsay Bolton"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Daenerys son sezonda hangi şehri ejderha ateşiyle yok eder?",
+      "choices": [
+        "King's Landing",
+        "Winterfell",
+        "Braavos",
+        "Meereen"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Daenerys Targaryen'i kim öldürür?",
+      "choices": [
+        "Tyrion Lannister",
+        "Arya Stark",
+        "Jon Snow",
+        "Cersei Lannister"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Piçlerin Savaşı'nda Jon Snow'un rakibi kimdir?",
+      "choices": [
+        "Ramsay Bolton",
+        "Walder Frey",
+        "Joffrey Baratheon",
+        "Euron Greyjoy"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ramsay Bolton nasıl ölür?",
+      "choices": [
+        "Başı kesilerek",
+        "Jon'un bıçaklamasıyla",
+        "Diri diri yakılarak",
+        "Kendi köpekleri tarafından yenerek"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Melisandre hangi tanrıya hizmet eder?",
+      "choices": [
+        "Çok Yüzlü Tanrı'ya",
+        "Işığın Efendisi'ne",
+        "Boğulmuş Tanrı'ya",
+        "Yedi'ye"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "'Örümcek' lakabıyla bilinen karakter kimdir?",
+      "choices": [
+        "Varys",
+        "Petyr Baelish",
+        "Qyburn",
+        "Pycelle"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "season": 1,
+      "episode": 10,
+      "prompt": "Daenerys, Khal Drogo'nun cenaze ateşinde ne yapar?",
+      "choices": [
+        "Tahtı yakar",
+        "Ejderhayla kaçar",
+        "Ateşe yürür",
+        "Kendini kraliçe ilan eder"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Sandor Clegane'in lakabı nedir?",
+      "choices": [
+        "Dağ (The Mountain)",
+        "Av Köpeği (The Hound)",
+        "Kral Katili (The Kingslayer)",
+        "Kızıl Engerek (The Red Viper)"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Gendry kimin gayrimeşru oğludur?",
+      "choices": [
+        "Eddard Stark",
+        "Stannis Baratheon",
+        "Renly Baratheon",
+        "Robert Baratheon"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Bronn'un mesleği nedir?",
+      "choices": [
+        "Maester'dır",
+        "Demircidir",
+        "Rahiptir",
+        "Paralı askerdir"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Game of Thrones'un showrunner'ları kimlerdir?",
+      "choices": [
+        "Vince Gilligan ve Peter Gould",
+        "David Benioff ve D.B. Weiss",
+        "Matthew Weiner ve Robin Veith",
+        "Damon Lindelof ve Carlton Cuse"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Beyaz Gezginler'i hangi iki madde öldürebilir?",
+      "choices": [
+        "Valyria çeliği ve ejderha camı",
+        "Gümüş ve demir",
+        "Obsidyen ve altın",
+        "Vahşi ateş ve buz"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Samwell Tarly'nin koruduğu sevgilisi kimdir?",
+      "choices": [
+        "Ygritte",
+        "Missandei",
+        "Gilly",
+        "Shae"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Cersei, beşinci sezonda kefaret olarak ne yapar?",
+      "choices": [
+        "Bir hafta oruç tutar",
+        "King's Landing'de çıplak yürür",
+        "Bir gece tapınakta kalır",
+        "Mücevherlerini satar"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Greyjoy Hanesi'nin sembolü nedir?",
+      "choices": [
+        "Bir kurt (direwolf)",
+        "Derisi yüzülmüş bir adam",
+        "Bir geyik",
+        "Altın bir kraken"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Jon Snow'un doğum adı nedir?",
+      "choices": [
+        "Rhaegar Targaryen",
+        "Viserys Targaryen",
+        "Aegon Targaryen",
+        "Jon Waters"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Tywin Lannister'ı hangi oyuncu canlandırır?",
+      "choices": [
+        "Charles Dance",
+        "Peter Dinklage",
+        "Iain Glen",
+        "Liam Cunningham"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Oberyn Martell'i hangi oyuncu canlandırır?",
+      "choices": [
+        "Jerome Flynn",
+        "Iwan Rheon",
+        "Pedro Pascal",
+        "Aidan Gillen"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Tarthlı Brienne'i hangi oyuncu canlandırır?",
+      "choices": [
+        "Gwendoline Christie",
+        "Natalie Dormer",
+        "Carice van Houten",
+        "Diana Rigg"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ramsay Bolton'ı hangi oyuncu canlandırır?",
+      "choices": [
+        "Alfie Allen",
+        "Jack Gleeson",
+        "Aidan Gillen",
+        "Iwan Rheon"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Melisandre'yi hangi oyuncu canlandırır?",
+      "choices": [
+        "Natalie Dormer",
+        "Carice van Houten",
+        "Diana Rigg",
+        "Gwendoline Christie"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Citadel hangi şehirdedir?",
+      "choices": [
+        "Oldtown",
+        "King's Landing",
+        "Braavos",
+        "White Harbor"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Vahşi ateşin rengi nedir?",
+      "choices": [
+        "Turuncu",
+        "Mavi",
+        "Yeşil",
+        "Mor"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "King's Landing sahneleri hangi Hırvat şehrinde çekilmiştir?",
+      "choices": [
+        "Split",
+        "Dubrovnik",
+        "Zagreb",
+        "Zadar"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Jaime Lannister'ın elini kim keser?",
+      "choices": [
+        "Ramsay Bolton",
+        "Walder Frey",
+        "Gregor Clegane",
+        "Locke"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    }
+  ]
+}

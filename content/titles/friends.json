@@ -1,0 +1,1265 @@
+{
+  "slug": "friends",
+  "kind": "series",
+  "release_year": 1994,
+  "tmdb_id": null,
+  "poster_url": null,
+  "translations": {
+    "en": {
+      "name": "Friends",
+      "synopsis": "Six twenty-something friends navigate love, work and life in Manhattan, hanging out at Central Perk and each other's apartments."
+    },
+    "tr": {
+      "name": "Friends",
+      "synopsis": "Manhattan'da yaşayan altı arkadaşın aşk, iş ve hayat maceraları; buluşma noktaları Central Perk kafesi ve birbirlerinin daireleridir."
+    }
+  },
+  "episodes": [
+    {
+      "season": 1,
+      "number": 1
+    },
+    {
+      "season": 1,
+      "number": 2
+    },
+    {
+      "season": 1,
+      "number": 3
+    },
+    {
+      "season": 1,
+      "number": 4
+    },
+    {
+      "season": 1,
+      "number": 5
+    },
+    {
+      "season": 1,
+      "number": 6
+    },
+    {
+      "season": 1,
+      "number": 7
+    },
+    {
+      "season": 1,
+      "number": 8
+    },
+    {
+      "season": 1,
+      "number": 9
+    },
+    {
+      "season": 1,
+      "number": 10
+    },
+    {
+      "season": 1,
+      "number": 11
+    },
+    {
+      "season": 1,
+      "number": 12
+    },
+    {
+      "season": 1,
+      "number": 13
+    },
+    {
+      "season": 1,
+      "number": 14
+    },
+    {
+      "season": 1,
+      "number": 15
+    },
+    {
+      "season": 1,
+      "number": 16
+    },
+    {
+      "season": 1,
+      "number": 17
+    },
+    {
+      "season": 1,
+      "number": 18
+    },
+    {
+      "season": 1,
+      "number": 19
+    },
+    {
+      "season": 1,
+      "number": 20
+    },
+    {
+      "season": 1,
+      "number": 21
+    },
+    {
+      "season": 1,
+      "number": 22
+    },
+    {
+      "season": 1,
+      "number": 23
+    },
+    {
+      "season": 1,
+      "number": 24
+    }
+  ],
+  "questions": [
+    {
+      "locale": "en",
+      "prompt": "In which city is Friends set?",
+      "choices": [
+        "Los Angeles",
+        "Chicago",
+        "New York City",
+        "Boston"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of the coffee house where the friends hang out?",
+      "choices": [
+        "Central Perk",
+        "Java Joe's",
+        "Coffee Bean",
+        "Daily Grind"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays Rachel Green?",
+      "choices": [
+        "Courteney Cox",
+        "Lisa Kudrow",
+        "Jennifer Garner",
+        "Jennifer Aniston"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays Chandler Bing?",
+      "choices": [
+        "David Schwimmer",
+        "Matthew Perry",
+        "Matt LeBlanc",
+        "Paul Rudd"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Ross Geller's profession?",
+      "choices": [
+        "Paleontologist",
+        "Chef",
+        "Actor",
+        "Lawyer"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What does Joey Tribbiani do for a living?",
+      "choices": [
+        "Waiter",
+        "Salesman",
+        "Actor",
+        "Chef"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the title of Phoebe's most famous song?",
+      "choices": [
+        "Holy Cat",
+        "Smelly Cat",
+        "Stinky Dog",
+        "Furry Bear"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of Ross's pet monkey?",
+      "choices": [
+        "Albert",
+        "George",
+        "Louie",
+        "Marcel"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Monica Geller's profession?",
+      "choices": [
+        "Waitress",
+        "Nurse",
+        "Fashion buyer",
+        "Chef"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many seasons does Friends have?",
+      "choices": [
+        "8",
+        "10",
+        "9",
+        "12"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How are Ross and Monica related?",
+      "choices": [
+        "Siblings",
+        "Cousins",
+        "Friends since childhood",
+        "Roommates"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Joey's famous pick-up line?",
+      "choices": [
+        "What's up, buttercup?",
+        "Hello, beautiful",
+        "How you doin'?",
+        "Is this seat taken?"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What famous defense does Ross use about his relationship with Rachel?",
+      "choices": [
+        "It was only a kiss!",
+        "We were on a break!",
+        "I was drunk!",
+        "It was a mistake!"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "season": 1,
+      "episode": 1,
+      "prompt": "Why does Rachel run into Central Perk in a wedding dress in the pilot?",
+      "choices": [
+        "She is going to a costume party",
+        "She is escaping her father",
+        "She lost a bet",
+        "She left her fiancé Barry at the altar"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which instrument does Phoebe play?",
+      "choices": [
+        "Piano",
+        "Violin",
+        "Guitar",
+        "Drums"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which character often stresses words such as 'Could I BE any more...?'",
+      "choices": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Gunther"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What does Chandler do for a living at the start of the series?",
+      "choices": [
+        "Advertising copywriting",
+        "Accounting",
+        "Statistical analysis and data reconfiguration",
+        "Sales"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "On which soap opera does Joey play Dr. Drake Ramoray?",
+      "choices": [
+        "Days of Our Lives",
+        "General Hospital",
+        "The Young and the Restless",
+        "All My Children"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which of these is an alias Phoebe uses?",
+      "choices": [
+        "Phoebe Buffay-Hannigan",
+        "Rachel Greene",
+        "Monica Geller",
+        "Regina Phalange"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of Ross and Rachel's daughter?",
+      "choices": [
+        "Ben",
+        "Emma",
+        "Erica",
+        "Jack"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of Ross's son with Carol?",
+      "choices": [
+        "Ben",
+        "Jack",
+        "Emma",
+        "Neil"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What are the names of the twins Monica and Chandler adopt?",
+      "choices": [
+        "Ben and Emma",
+        "Neil and Carol",
+        "Jack and Erica",
+        "Max and Mia"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Whom does Phoebe marry?",
+      "choices": [
+        "David",
+        "Mike Hannigan",
+        "Gary",
+        "Vince"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who manages Central Perk and secretly loves Rachel?",
+      "choices": [
+        "Mike",
+        "Ugly Naked Guy",
+        "Marcel",
+        "Gunther"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Whom does Ross marry in London?",
+      "choices": [
+        "Carol",
+        "Julie",
+        "Janice",
+        "Emily"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of Ross's first ex-wife?",
+      "choices": [
+        "Emily",
+        "Carol",
+        "Susan",
+        "Julie"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who is Chandler's on-and-off girlfriend with the distinctive laugh?",
+      "choices": [
+        "Janice",
+        "Kathy",
+        "Aurora",
+        "Mona"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of Phoebe's identical twin sister?",
+      "choices": [
+        "Frances",
+        "Ginger",
+        "Ursula",
+        "Mona"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which band performs the theme song 'I'll Be There for You'?",
+      "choices": [
+        "The Monkees",
+        "The Rembrandts",
+        "The Beatles",
+        "R.E.M."
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What color are the walls of Monica's apartment?",
+      "choices": [
+        "Teal",
+        "Red",
+        "Yellow",
+        "Purple"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What does Ross yell as he tries to move a couch up the stairs?",
+      "choices": [
+        "Lift!",
+        "Turn!",
+        "Pivot!",
+        "Push!"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which famous line does Joey say about his food?",
+      "choices": [
+        "Joey doesn't share food!",
+        "Joey shares everything!",
+        "Food is life!",
+        "Pizza is my passion!"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which name does Ross say at the altar during his wedding to Emily?",
+      "choices": [
+        "Carol",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Where does Rachel work in the first season?",
+      "choices": [
+        "Central Perk as a waitress",
+        "A fashion boutique",
+        "A bank",
+        "An advertising agency"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who created Friends?",
+      "choices": [
+        "Chuck Lorre and Bill Prady",
+        "Larry David and Jerry Seinfeld",
+        "Greg Daniels and Michael Schur",
+        "David Crane and Marta Kauffman"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which year did Friends premiere?",
+      "choices": [
+        "1992",
+        "1994",
+        "1996",
+        "1998"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "At which university does Ross teach?",
+      "choices": [
+        "New York University",
+        "Columbia University",
+        "Yale University",
+        "Harvard University"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Chandler's father's job?",
+      "choices": [
+        "Airline pilot",
+        "Surgeon",
+        "Las Vegas drag performer",
+        "Lawyer"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What does Chandler's mother, Nora Bing, write?",
+      "choices": [
+        "Cookbooks",
+        "Erotic novels",
+        "Children's books",
+        "Poetry"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of Joey's stuffed penguin?",
+      "choices": [
+        "Waddles",
+        "Pingu",
+        "Mr. Snuggles",
+        "Hugsy"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which season do Monica and Chandler get married?",
+      "choices": [
+        "Season 5",
+        "Season 6",
+        "Season 9",
+        "Season 7"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which fashion company does Rachel work for?",
+      "choices": [
+        "Calvin Klein",
+        "Ralph Lauren",
+        "Prada",
+        "Gucci"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Monica's older boyfriend Richard Burke?",
+      "choices": [
+        "Tom Selleck",
+        "Bruce Willis",
+        "Brad Pitt",
+        "Paul Rudd"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which year did the final episode of Friends air?",
+      "choices": [
+        "2002",
+        "2003",
+        "2004",
+        "2006"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Friends hangi şehirde geçer?",
+      "choices": [
+        "Los Angeles",
+        "Chicago",
+        "New York",
+        "Boston"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Arkadaşların takıldığı kafenin adı nedir?",
+      "choices": [
+        "Java Joe's",
+        "Central Perk",
+        "Coffee Bean",
+        "Daily Grind"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Rachel Green'i hangi oyuncu canlandırır?",
+      "choices": [
+        "Courteney Cox",
+        "Lisa Kudrow",
+        "Jennifer Garner",
+        "Jennifer Aniston"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Chandler Bing'i hangi oyuncu canlandırır?",
+      "choices": [
+        "David Schwimmer",
+        "Matt LeBlanc",
+        "Paul Rudd",
+        "Matthew Perry"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ross Geller'ın mesleği nedir?",
+      "choices": [
+        "Aşçı",
+        "Paleontolog",
+        "Oyuncu",
+        "Avukat"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Joey Tribbiani geçimini nasıl sağlar?",
+      "choices": [
+        "Oyunculuk",
+        "Garsonluk",
+        "Satıcılık",
+        "Aşçılık"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Phoebe'nin en ünlü şarkısının adı nedir?",
+      "choices": [
+        "Holy Cat",
+        "Stinky Dog",
+        "Smelly Cat",
+        "Furry Bear"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ross'un evcil maymununun adı nedir?",
+      "choices": [
+        "Albert",
+        "Marcel",
+        "George",
+        "Louie"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Monica Geller'ın mesleği nedir?",
+      "choices": [
+        "Garson",
+        "Hemşire",
+        "Moda alıcısı",
+        "Aşçı"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Friends kaç sezon sürmüştür?",
+      "choices": [
+        "8",
+        "9",
+        "10",
+        "12"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ross ile Monica arasındaki akrabalık nedir?",
+      "choices": [
+        "Kardeşler",
+        "Kuzenler",
+        "Çocukluk arkadaşları",
+        "Ev arkadaşları"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Joey'nin meşhur flört repliği nedir?",
+      "choices": [
+        "What's up, buttercup?",
+        "Hello, beautiful",
+        "How you doin'?",
+        "Is this seat taken?"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ross, Rachel'la ilişkisi hakkında hangi meşhur savunmayı kullanır?",
+      "choices": [
+        "Ara vermiştik! (We were on a break!)",
+        "Sadece bir öpücüktü!",
+        "Sarhoştum!",
+        "Bir hataydı!"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "season": 1,
+      "episode": 1,
+      "prompt": "Rachel pilot bölümde Central Perk'e neden gelinlikle girer?",
+      "choices": [
+        "Kostüm partisine gidecektir",
+        "Babasından kaçmaktadır",
+        "Bir bahsi kaybetmiştir",
+        "Nişanlısı Barry'yi nikâh masasında bırakmıştır"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Phoebe hangi enstrümanı çalar?",
+      "choices": [
+        "Piyano",
+        "Gitar",
+        "Keman",
+        "Davul"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Hangi karakter 'Could I BE any more...?' gibi vurgulu cümleleriyle bilinir?",
+      "choices": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Gunther"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Chandler dizinin başında ne iş yapar?",
+      "choices": [
+        "Reklam metin yazarlığı",
+        "Muhasebe",
+        "İstatistiksel analiz ve veri yeniden yapılandırma",
+        "Satış"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Joey, hangi pembe dizide Dr. Drake Ramoray'ı oynar?",
+      "choices": [
+        "General Hospital",
+        "Days of Our Lives",
+        "The Young and the Restless",
+        "All My Children"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Aşağıdakilerden hangisi Phoebe'nin kullandığı takma addır?",
+      "choices": [
+        "Phoebe Buffay-Hannigan",
+        "Rachel Greene",
+        "Monica Geller",
+        "Regina Phalange"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ross ile Rachel'ın kızının adı nedir?",
+      "choices": [
+        "Ben",
+        "Erica",
+        "Jack",
+        "Emma"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ross'un Carol'dan olan oğlunun adı nedir?",
+      "choices": [
+        "Jack",
+        "Ben",
+        "Emma",
+        "Neil"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Monica ile Chandler'ın evlat edindiği ikizlerin adları nedir?",
+      "choices": [
+        "Jack ve Erica",
+        "Ben ve Emma",
+        "Neil ve Carol",
+        "Max ve Mia"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Phoebe kiminle evlenir?",
+      "choices": [
+        "David",
+        "Gary",
+        "Mike Hannigan",
+        "Vince"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Central Perk'ü yöneten ve Rachel'a gizlice âşık olan kişi kimdir?",
+      "choices": [
+        "Mike",
+        "Gunther",
+        "Çıplak Komşu",
+        "Marcel"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ross Londra'da kiminle evlenir?",
+      "choices": [
+        "Carol",
+        "Julie",
+        "Janice",
+        "Emily"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ross'un ilk eski eşinin adı nedir?",
+      "choices": [
+        "Emily",
+        "Susan",
+        "Carol",
+        "Julie"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Chandler'ın kendine has kahkahalı, bir gelip bir giden kız arkadaşı kimdir?",
+      "choices": [
+        "Janice",
+        "Kathy",
+        "Aurora",
+        "Mona"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Phoebe'nin tek yumurta ikizi olan kız kardeşinin adı nedir?",
+      "choices": [
+        "Frances",
+        "Ginger",
+        "Ursula",
+        "Mona"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "'I'll Be There for You' jenerik şarkısını hangi grup seslendirir?",
+      "choices": [
+        "The Rembrandts",
+        "The Monkees",
+        "The Beatles",
+        "R.E.M."
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Monica'nın dairesinin duvarları hangi renktir?",
+      "choices": [
+        "Turkuaz",
+        "Kırmızı",
+        "Sarı",
+        "Mor"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ross kanepeyi merdivenlerden çıkarırken ne bağırır?",
+      "choices": [
+        "Kaldır!",
+        "Pivot!",
+        "Dön!",
+        "İt!"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Joey yemeğiyle ilgili hangi meşhur cümleyi kurar?",
+      "choices": [
+        "Joey yemeği paylaşmaz!",
+        "Joey her şeyi paylaşır!",
+        "Yemek hayattır!",
+        "Pizza benim tutkum!"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ross, Emily'yle düğününde sunakta kimin adını söyler?",
+      "choices": [
+        "Carol",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Rachel ilk sezonda nerede çalışır?",
+      "choices": [
+        "Bir moda butiğinde",
+        "Central Perk'te garson olarak",
+        "Bir bankada",
+        "Bir reklam ajansında"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Friends'in yaratıcıları kimlerdir?",
+      "choices": [
+        "Chuck Lorre ve Bill Prady",
+        "Larry David ve Jerry Seinfeld",
+        "Greg Daniels ve Michael Schur",
+        "David Crane ve Marta Kauffman"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Friends hangi yıl yayına başladı?",
+      "choices": [
+        "1992",
+        "1996",
+        "1998",
+        "1994"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ross hangi üniversitede ders verir?",
+      "choices": [
+        "Columbia Üniversitesi",
+        "New York Üniversitesi",
+        "Yale Üniversitesi",
+        "Harvard Üniversitesi"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Chandler'ın babasının mesleği nedir?",
+      "choices": [
+        "Las Vegas'ta travesti sanatçısı",
+        "Pilot",
+        "Cerrah",
+        "Avukat"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Chandler'ın annesi Nora Bing ne yazar?",
+      "choices": [
+        "Yemek kitapları",
+        "Çocuk kitapları",
+        "Erotik romanlar",
+        "Şiir"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Joey'nin oyuncak penguenin adı nedir?",
+      "choices": [
+        "Waddles",
+        "Hugsy",
+        "Pingu",
+        "Mr. Snuggles"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Monica ile Chandler hangi sezonda evlenir?",
+      "choices": [
+        "5. sezon",
+        "6. sezon",
+        "9. sezon",
+        "7. sezon"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Rachel hangi moda şirketinde çalışır?",
+      "choices": [
+        "Calvin Klein",
+        "Prada",
+        "Ralph Lauren",
+        "Gucci"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Monica'nın büyük sevgilisi Richard Burke'ü hangi oyuncu canlandırır?",
+      "choices": [
+        "Tom Selleck",
+        "Bruce Willis",
+        "Brad Pitt",
+        "Paul Rudd"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Friends'in son bölümü hangi yıl yayımlandı?",
+      "choices": [
+        "2002",
+        "2003",
+        "2004",
+        "2006"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    }
+  ]
+}

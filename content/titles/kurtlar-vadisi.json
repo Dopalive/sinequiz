@@ -1,0 +1,1085 @@
+{
+  "slug": "kurtlar-vadisi",
+  "kind": "series",
+  "release_year": 2003,
+  "tmdb_id": null,
+  "poster_url": null,
+  "translations": {
+    "tr": {
+      "name": "Kurtlar Vadisi",
+      "synopsis": "Gizli bir istihbaratçı olan Polat Alemdar, yüz değiştirerek Türkiye’nin en güçlü mafya örgütü Kurtlar Konseyi’ne sızar ve onu içeriden çökertmeye çalışır."
+    },
+    "en": {
+      "name": "Kurtlar Vadisi (Valley of the Wolves)",
+      "synopsis": "Intelligence operative Polat Alemdar takes on a new face and identity to infiltrate the Wolves’ Council, Turkey’s most powerful mafia organization, and bring it down from within."
+    }
+  },
+  "questions": [
+    {
+      "locale": "tr",
+      "prompt": "Kurtlar Vadisi'nde Polat Alemdar'ı kim canlandırır?",
+      "choices": [
+        "Necati Şaşmaz",
+        "Gürkan Uygun",
+        "Oktay Kaynarca",
+        "Selçuk Yöntem"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Memati Baş karakterini hangi oyuncu canlandırır?",
+      "choices": [
+        "Necati Şaşmaz",
+        "Gürkan Uygun",
+        "Nihat Nikerel",
+        "Oktay Kaynarca"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Kurtlar Vadisi'nde avukat Elif Eylül rolünü kim oynar?",
+      "choices": [
+        "Hande Kazanova",
+        "İpek Tenolcay",
+        "Özgü Namal",
+        "Begüm Kütük"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Polat'ın kan kardeşi Süleyman Çakır rolünde hangi oyuncu yer alır?",
+      "choices": [
+        "Gürkan Uygun",
+        "Zafer Ergin",
+        "Nihat Nikerel",
+        "Oktay Kaynarca"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "İstihbaratçı Aslan Akbey'i hangi oyuncu canlandırır?",
+      "choices": [
+        "Selçuk Yöntem",
+        "Zafer Ergin",
+        "Attila Olgaç",
+        "Adnan Biricik"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Seyfo Dayı (Seyfullah Yördem) karakterini hangi oyuncu canlandırır?",
+      "choices": [
+        "Gürkan Uygun",
+        "Nihat Nikerel",
+        "Tarık Ünlüoğlu",
+        "İstemi Betil"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Kurtlar Konseyi'nin başındaki Mehmet Karahanlı rolünü kim oynar?",
+      "choices": [
+        "Attila Olgaç",
+        "Selçuk Yöntem",
+        "Zafer Ergin",
+        "Adnan Biricik"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Polat Alemdar dizide ne yapmaktadır?",
+      "choices": [
+        "Rüşvet alan bir polistir",
+        "Bir gazeteci",
+        "Bir avukat",
+        "Mafyaya sızan gizli ajan"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Polat Alemdar'ın asıl adı nedir?",
+      "choices": [
+        "Ali Candan",
+        "Süleyman Çakır",
+        "Aslan Akbey",
+        "Memati Baş"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ali Candan, Polat Alemdar kimliğine nasıl bürünür?",
+      "choices": [
+        "Ölümünü sahneleyip yurt dışına kaçar",
+        "Yüz ameliyatı geçirip yeni bir kimlik alır",
+        "Bir ikizinin yerine geçer",
+        "Hafızasını kaybeder"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Birinci sezonda Polat'ın hayatını kurtararak kan kardeşi olan tetikçi kimdir?",
+      "choices": [
+        "Memati Baş",
+        "Seyfo Dayı",
+        "Süleyman Çakır",
+        "Testere Necmi"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Polat, mafyaya girerken kimin yeğeni olarak tanıtılır?",
+      "choices": [
+        "Laz Ziya",
+        "Mehmet Karahanlı",
+        "Seyfo Dayı",
+        "Duran Emmi"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Kurtlar Konseyi'nin başındaki isim kimdir?",
+      "choices": [
+        "Mehmet Karahanlı",
+        "Laz Ziya",
+        "Kılıç",
+        "Testere Necmi"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Konseyin silah kaçakçılığından sorumlu üyesi kimdir?",
+      "choices": [
+        "Hüsrev Ağa",
+        "Laz Ziya",
+        "Testere Necmi",
+        "Kılıç"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Konseyin uyuşturucu ticaretinden sorumlu üyesi kimdir?",
+      "choices": [
+        "Laz Ziya",
+        "Samuel Vanunu",
+        "Hüsrev Ağa",
+        "Tombalacı Mehmet"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Konseyin baş celladı olarak bilinen karakter kimdir?",
+      "choices": [
+        "Kılıç",
+        "Hüsrev Ağa",
+        "Tombalacı Mehmet",
+        "Testere Necmi"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Mehmet Karahanlı'nın sağ kolu olan danışmanın adı nedir?",
+      "choices": [
+        "Kılıç",
+        "Laz Ziya",
+        "Hüsrev Ağa",
+        "Nizamettin Güvenç"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Konseyin dış ilişkilerinden sorumlu üyesi kimdir?",
+      "choices": [
+        "Laz Ziya",
+        "Samuel Vanunu",
+        "Nizamettin Güvenç",
+        "İplikçi Nedim"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Polat'ın konseyin son üyesi olarak infaz ettiği hukukçu kimdir?",
+      "choices": [
+        "Samuel Vanunu",
+        "Kılıç",
+        "Nizamettin Güvenç",
+        "Laz Ziya"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Çakır'ın eşi Nesrin, konsey üyelerinden hangisinin kızıdır?",
+      "choices": [
+        "Mehmet Karahanlı",
+        "Hüsrev Ağa",
+        "Testere Necmi",
+        "Laz Ziya"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Kurtlar Vadisi hangi yıl yayına başladı?",
+      "choices": [
+        "2003",
+        "2001",
+        "2005",
+        "2007"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Kurtlar Vadisi hangi kanalda yayına girdi?",
+      "choices": [
+        "Star TV",
+        "Show TV",
+        "ATV",
+        "TRT 1"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Orijinal Kurtlar Vadisi dizisi kaç sezon sürdü?",
+      "choices": [
+        "2",
+        "6",
+        "4",
+        "8"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Orijinal Kurtlar Vadisi toplam kaç bölümdür?",
+      "choices": [
+        "60",
+        "120",
+        "150",
+        "97"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Kurtlar Vadisi'nin yaratıcısı olarak anılan yönetmen kimdir?",
+      "choices": [
+        "Osman Sınav",
+        "Serdar Akar",
+        "Sinan Çetin",
+        "Uluç Bayraktar"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dizinin senaryo yazarlarından biri olan, yapımcı da olan isim kimdir?",
+      "choices": [
+        "Gülse Birsel",
+        "Raci Şaşmaz",
+        "Emrah Serbes",
+        "Gökhan Horzum"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Kurtlar Vadisi hangi Amerikan dizisinin Türk versiyonu olarak tasarlandı?",
+      "choices": [
+        "The Sopranos",
+        "Miami Vice",
+        "Wiseguy",
+        "24"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Kurtlar Vadisi'ni hangi yapım şirketi üretti (2004'ten itibaren)?",
+      "choices": [
+        "Ay Yapım",
+        "Plato Film",
+        "Med Yapım",
+        "Pana Film"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Kurtlar Vadisi'nin müziklerini büyük oranda kim besteledi?",
+      "choices": [
+        "Gökhan Kırdar",
+        "Toygar Işıklı",
+        "Cem Kısmet",
+        "Fahir Atakoğlu"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Orijinal diziden sonra yayınlanan ve 10 sezon süren devam dizisi hangisidir?",
+      "choices": [
+        "Kurtlar Vadisi Terör",
+        "Kurtlar Vadisi Pusu",
+        "Kurtlar Vadisi Vatan",
+        "Kurtlar Vadisi Gladio"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "2007'de yalnızca iki bölüm yayınlanıp RTÜK kararıyla kaldırılan yapım hangisidir?",
+      "choices": [
+        "Kurtlar Vadisi Pusu",
+        "Kurtlar Vadisi Filistin",
+        "Kurtlar Vadisi Terör",
+        "Kurtlar Vadisi Irak"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Kurtlar Vadisi Pusu toplam kaç bölüm sürdü?",
+      "choices": [
+        "150",
+        "200",
+        "350",
+        "300"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Kurtlar Vadisi Irak filmi hangi yıl vizyona girdi?",
+      "choices": [
+        "2006",
+        "2004",
+        "2008",
+        "2010"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Kurtlar Vadisi Irak'ın yönetmeni kimdir?",
+      "choices": [
+        "Sadullah Şentürk",
+        "Serdar Akar",
+        "Osman Sınav",
+        "Zübeyr Şaşmaz"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Kurtlar Vadisi'nin hangi sinema filmi İsrail-Filistin çatışmasını konu alır?",
+      "choices": [
+        "Kurtlar Vadisi Irak",
+        "Kurtlar Vadisi Gladio",
+        "Kurtlar Vadisi Filistin",
+        "Kurtlar Vadisi Vatan"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Kurtlar Vadisi Gladio filmi hangi yıl çıktı?",
+      "choices": [
+        "2007",
+        "2011",
+        "2013",
+        "2009"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "2017'de çıkan Kurtlar Vadisi Vatan hangi olayı konu alır?",
+      "choices": [
+        "15 Temmuz darbe girişimi",
+        "Kıbrıs Barış Harekâtı",
+        "Gezi Parkı olayları",
+        "Irak işgali"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Memati Baş, Süleyman Çakır için kimdir?",
+      "choices": [
+        "Rakibi",
+        "Sadık adamı ve sağ kolu",
+        "Avukatı",
+        "Amiri"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Elif Eylül'ün mesleği nedir?",
+      "choices": [
+        "Doktor",
+        "Gazeteci",
+        "Avukat",
+        "Öğretmen"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Aslan Akbey rolünü oynayan Selçuk Yöntem, Aşk-ı Memnu'da hangi karakteri canlandırır?",
+      "choices": [
+        "Behlül Haznedar",
+        "Nihat Önal",
+        "Hilmi Önal",
+        "Adnan Ziyagil"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Kurtlar Vadisi hangi türde bir dizidir?",
+      "choices": [
+        "Mafya ve aksiyon dizisi",
+        "Aile komedisi",
+        "Tarihi dizi",
+        "Romantik dizi"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays Polat Alemdar in Valley of the Wolves (Kurtlar Vadisi)?",
+      "choices": [
+        "Gürkan Uygun",
+        "Oktay Kaynarca",
+        "Necati Şaşmaz",
+        "Selçuk Yöntem"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Memati Baş?",
+      "choices": [
+        "Necati Şaşmaz",
+        "Nihat Nikerel",
+        "Oktay Kaynarca",
+        "Gürkan Uygun"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays the lawyer Elif Eylül in Kurtlar Vadisi?",
+      "choices": [
+        "Özgü Namal",
+        "Hande Kazanova",
+        "İpek Tenolcay",
+        "Begüm Kütük"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Polat's blood brother Süleyman Çakır?",
+      "choices": [
+        "Gürkan Uygun",
+        "Oktay Kaynarca",
+        "Zafer Ergin",
+        "Nihat Nikerel"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays the spymaster Aslan Akbey?",
+      "choices": [
+        "Zafer Ergin",
+        "Attila Olgaç",
+        "Selçuk Yöntem",
+        "Adnan Biricik"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Seyfo Dayı (Seyfullah Yördem)?",
+      "choices": [
+        "Gürkan Uygun",
+        "Tarık Ünlüoğlu",
+        "İstemi Betil",
+        "Nihat Nikerel"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Mehmet Karahanlı, head of the Wolves' Council?",
+      "choices": [
+        "Zafer Ergin",
+        "Attila Olgaç",
+        "Selçuk Yöntem",
+        "Adnan Biricik"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Polat Alemdar's real mission in the series?",
+      "choices": [
+        "He is a corrupt cop",
+        "An undercover agent inside the mafia",
+        "He is a journalist",
+        "He is a lawyer"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What was Polat Alemdar's original name before his new identity?",
+      "choices": [
+        "Süleyman Çakır",
+        "Aslan Akbey",
+        "Ali Candan",
+        "Memati Baş"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How does Ali Candan become Polat Alemdar?",
+      "choices": [
+        "He fakes his death and flees abroad",
+        "He takes the place of a twin",
+        "He loses his memory",
+        "He undergoes facial surgery and takes a new identity"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In season one, which hitman does Polat save, becoming his blood brother?",
+      "choices": [
+        "Süleyman Çakır",
+        "Memati Baş",
+        "Seyfo Dayı",
+        "Testere Necmi"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Whose nephew does Polat pose as when infiltrating the mafia?",
+      "choices": [
+        "Laz Ziya",
+        "Duran Emmi",
+        "Mehmet Karahanlı",
+        "Seyfo Dayı"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who heads the Wolves' Council (Kurtlar Konseyi)?",
+      "choices": [
+        "Laz Ziya",
+        "Kılıç",
+        "Mehmet Karahanlı",
+        "Testere Necmi"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which council member handles arms smuggling?",
+      "choices": [
+        "Hüsrev Ağa",
+        "Testere Necmi",
+        "Kılıç",
+        "Laz Ziya"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which council member is the main drug trafficker?",
+      "choices": [
+        "Hüsrev Ağa",
+        "Laz Ziya",
+        "Samuel Vanunu",
+        "Tombalacı Mehmet"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which character is known as the council's chief executioner?",
+      "choices": [
+        "Kılıç",
+        "Testere Necmi",
+        "Hüsrev Ağa",
+        "Tombalacı Mehmet"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of Karahanlı's right-hand man and consigliere?",
+      "choices": [
+        "Laz Ziya",
+        "Hüsrev Ağa",
+        "Kılıç",
+        "Nizamettin Güvenç"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which council member handles the organization's foreign affairs?",
+      "choices": [
+        "Laz Ziya",
+        "Nizamettin Güvenç",
+        "İplikçi Nedim",
+        "Samuel Vanunu"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which legal specialist is the last council member Polat executes?",
+      "choices": [
+        "Nizamettin Güvenç",
+        "Samuel Vanunu",
+        "Kılıç",
+        "Laz Ziya"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Çakır's wife Nesrin is the daughter of which council member?",
+      "choices": [
+        "Mehmet Karahanlı",
+        "Laz Ziya",
+        "Hüsrev Ağa",
+        "Testere Necmi"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which year did Kurtlar Vadisi premiere?",
+      "choices": [
+        "2001",
+        "2005",
+        "2003",
+        "2007"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "On which channel did Kurtlar Vadisi premiere?",
+      "choices": [
+        "Star TV",
+        "ATV",
+        "TRT 1",
+        "Show TV"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many seasons did the original Kurtlar Vadisi series run?",
+      "choices": [
+        "4",
+        "2",
+        "6",
+        "8"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many episodes does the original Kurtlar Vadisi have?",
+      "choices": [
+        "60",
+        "97",
+        "120",
+        "150"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which director is credited as the creator of Kurtlar Vadisi?",
+      "choices": [
+        "Serdar Akar",
+        "Sinan Çetin",
+        "Osman Sınav",
+        "Uluç Bayraktar"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which screenwriter and producer is closely associated with the series?",
+      "choices": [
+        "Gülse Birsel",
+        "Emrah Serbes",
+        "Gökhan Horzum",
+        "Raci Şaşmaz"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which American series was Kurtlar Vadisi originally conceived as a Turkish take on?",
+      "choices": [
+        "Wiseguy",
+        "The Sopranos",
+        "Miami Vice",
+        "24"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which production company produced Kurtlar Vadisi from 2004 onward?",
+      "choices": [
+        "Ay Yapım",
+        "Pana Film",
+        "Plato Film",
+        "Med Yapım"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who composed most of the music for Kurtlar Vadisi?",
+      "choices": [
+        "Toygar Işıklı",
+        "Cem Kısmet",
+        "Gökhan Kırdar",
+        "Fahir Atakoğlu"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which sequel series followed the original and ran for ten seasons?",
+      "choices": [
+        "Kurtlar Vadisi Terör",
+        "Kurtlar Vadisi Vatan",
+        "Kurtlar Vadisi Gladio",
+        "Kurtlar Vadisi Pusu"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which 2007 production was pulled after only two episodes?",
+      "choices": [
+        "Kurtlar Vadisi Terör",
+        "Kurtlar Vadisi Pusu",
+        "Kurtlar Vadisi Filistin",
+        "Kurtlar Vadisi Irak"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many episodes did Kurtlar Vadisi Pusu have in total?",
+      "choices": [
+        "150",
+        "300",
+        "200",
+        "350"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which year was the film Kurtlar Vadisi Irak released?",
+      "choices": [
+        "2004",
+        "2008",
+        "2006",
+        "2010"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who directed Kurtlar Vadisi Irak?",
+      "choices": [
+        "Sadullah Şentürk",
+        "Osman Sınav",
+        "Zübeyr Şaşmaz",
+        "Serdar Akar"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which Kurtlar Vadisi film deals with the Israeli-Palestinian conflict?",
+      "choices": [
+        "Kurtlar Vadisi Filistin",
+        "Kurtlar Vadisi Irak",
+        "Kurtlar Vadisi Gladio",
+        "Kurtlar Vadisi Vatan"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which year was Kurtlar Vadisi Gladio released?",
+      "choices": [
+        "2007",
+        "2009",
+        "2011",
+        "2013"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which event does Kurtlar Vadisi Vatan (2017) deal with?",
+      "choices": [
+        "The Cyprus operation",
+        "The Gezi Park protests",
+        "The July 15 coup attempt",
+        "The invasion of Iraq"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Memati Baş's role relative to Süleyman Çakır?",
+      "choices": [
+        "His rival",
+        "His lawyer",
+        "His superior",
+        "His loyal lieutenant and right-hand man"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Elif Eylül's profession?",
+      "choices": [
+        "Lawyer",
+        "Doctor",
+        "Journalist",
+        "Teacher"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Selçuk Yöntem, who plays Aslan Akbey, plays which character in Aşk-ı Memnu?",
+      "choices": [
+        "Behlül Haznedar",
+        "Adnan Ziyagil",
+        "Nihat Önal",
+        "Hilmi Önal"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What kind of series is Kurtlar Vadisi?",
+      "choices": [
+        "A family comedy",
+        "A historical drama",
+        "A mafia and action drama",
+        "A romance"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    }
+  ]
+}

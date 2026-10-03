@@ -1,0 +1,1105 @@
+{
+  "slug": "dark",
+  "kind": "series",
+  "release_year": 2017,
+  "tmdb_id": null,
+  "poster_url": null,
+  "translations": {
+    "en": {
+      "name": "Dark",
+      "synopsis": "In the German town of Winden, the disappearance of children exposes a web of time travel, secrets and family ties spanning generations around a nuclear power plant."
+    },
+    "tr": {
+      "name": "Dark",
+      "synopsis": "Almanya'nın Winden kasabasında çocukların kaybolması, bir nükleer santralin çevresinde kuşaklara yayılan zaman yolculuğu, sırlar ve aile bağlarından oluşan bir ağı ortaya çıkarır."
+    }
+  },
+  "episodes": [
+    {
+      "season": 1,
+      "number": 1
+    },
+    {
+      "season": 1,
+      "number": 2
+    },
+    {
+      "season": 1,
+      "number": 3
+    },
+    {
+      "season": 1,
+      "number": 4
+    },
+    {
+      "season": 1,
+      "number": 5
+    },
+    {
+      "season": 1,
+      "number": 6
+    },
+    {
+      "season": 1,
+      "number": 7
+    },
+    {
+      "season": 1,
+      "number": 8
+    },
+    {
+      "season": 1,
+      "number": 9
+    },
+    {
+      "season": 1,
+      "number": 10
+    }
+  ],
+  "questions": [
+    {
+      "locale": "en",
+      "prompt": "In which country is Dark set?",
+      "choices": [
+        "Austria",
+        "Switzerland",
+        "Germany",
+        "Denmark"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which streaming service produced Dark?",
+      "choices": [
+        "Netflix",
+        "Amazon Prime Video",
+        "HBO Max",
+        "Hulu"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many seasons does Dark have?",
+      "choices": [
+        "2",
+        "4",
+        "5",
+        "3"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which fictional town is the main setting of Dark?",
+      "choices": [
+        "Hamelin",
+        "Winden",
+        "Neuburg",
+        "Lindau"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which hidden place gives characters access to travel through time?",
+      "choices": [
+        "The caves",
+        "The church",
+        "The school basement",
+        "The old hospital"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Ulrich Nielsen's job?",
+      "choices": [
+        "Doctor",
+        "Teacher",
+        "Police officer",
+        "Priest"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who is Jonas Kahnwald's love interest?",
+      "choices": [
+        "Franziska Doppler",
+        "Martha Nielsen",
+        "Regina Tiedemann",
+        "Katharina Nielsen"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which of the Nielsen children vanishes at the start of the series?",
+      "choices": [
+        "Magnus",
+        "Martha",
+        "Jonas",
+        "Mikkel"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which language is Dark originally filmed?",
+      "choices": [
+        "English",
+        "Danish",
+        "Dutch",
+        "German"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which large facility dominates Winden's economy and skyline?",
+      "choices": [
+        "A coal mine",
+        "A nuclear power plant",
+        "A paper mill",
+        "A car factory"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "The show insists the key question is not where, but what?",
+      "choices": [
+        "When",
+        "Who",
+        "Why",
+        "How"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many years does the recurring time cycle in Dark span?",
+      "choices": [
+        "25",
+        "50",
+        "33",
+        "66"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who is the watchmaker who builds the time machine?",
+      "choices": [
+        "Noah",
+        "H.G. Tannhaus",
+        "Helge Doppler",
+        "Egon Tiedemann"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What does the Latin phrase 'Sic Mundus Creatus Est' mean?",
+      "choices": [
+        "As above, so below",
+        "Time heals all",
+        "The end is the beginning",
+        "Thus the world was created"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which symbol is shown on the Sic Mundus Creatus Est pendant and book?",
+      "choices": [
+        "An ouroboros",
+        "A pentagram",
+        "A triquetra",
+        "A yin-yang"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Katharina Nielsen's job?",
+      "choices": [
+        "School principal",
+        "Police officer",
+        "Nurse",
+        "Power plant director"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Charlotte Doppler's job?",
+      "choices": [
+        "School principal",
+        "Doctor",
+        "Police chief",
+        "Power plant director"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which Nielsen brother disappears in 1986?",
+      "choices": [
+        "Mads",
+        "Magnus",
+        "Mikkel",
+        "Tronte"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who is the older version of Jonas?",
+      "choices": [
+        "Noah",
+        "H.G. Tannhaus",
+        "Claudia",
+        "Adam"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who is the older version of Martha?",
+      "choices": [
+        "Claudia",
+        "Eva",
+        "Katharina",
+        "Charlotte"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who created Dark?",
+      "choices": [
+        "Baran bo Odar and Jantje Friese",
+        "Lars von Trier and Thomas Vinterberg",
+        "Tom Tykwer and Lana Wachowski",
+        "Florian Henckel von Donnersmarck and Maren Ade"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many episodes does season 1 of Dark have?",
+      "choices": [
+        "8",
+        "12",
+        "10",
+        "6"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which year did Dark first premiere?",
+      "choices": [
+        "2015",
+        "2017",
+        "2016",
+        "2018"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What event destroys Winden in the apocalypse?",
+      "choices": [
+        "A flood",
+        "A pandemic",
+        "An earthquake",
+        "A nuclear catastrophe"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "season": 1,
+      "episode": 6,
+      "prompt": "What is the title of season 1 episode 6?",
+      "choices": [
+        "Alpha and Omega",
+        "Crossroads",
+        "Truths",
+        "Sic Mundus Creatus Est"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the first name of Jonas's father?",
+      "choices": [
+        "Ulrich",
+        "Michael",
+        "Peter",
+        "Egon"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who is Jonas's mother?",
+      "choices": [
+        "Hannah Kahnwald",
+        "Katharina Nielsen",
+        "Regina Tiedemann",
+        "Charlotte Doppler"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Jonas Kahnwald?",
+      "choices": [
+        "Oliver Masucci",
+        "Stephan Kampwirth",
+        "Louis Hofmann",
+        "Moritz Jahn"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actress plays Martha Nielsen?",
+      "choices": [
+        "Maja Schöne",
+        "Lisa Vicari",
+        "Jördis Triebel",
+        "Julika Jenkins"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Ulrich Nielsen?",
+      "choices": [
+        "Louis Hofmann",
+        "Stephan Kampwirth",
+        "Sebastian Rudolph",
+        "Oliver Masucci"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "On which date does the apocalypse occur?",
+      "choices": [
+        "November 4, 2019",
+        "June 21, 2019",
+        "June 27, 2020",
+        "October 31, 2019"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "On which date does Mikkel disappear?",
+      "choices": [
+        "November 4, 2019",
+        "June 27, 2020",
+        "June 21, 2019",
+        "October 31, 2019"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the title of H.G. Tannhaus's book about time travel?",
+      "choices": [
+        "The Silent Universe",
+        "The Origin of Time",
+        "A Journey Through Time",
+        "Sic Mundus"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Hannah Kahnwald's job?",
+      "choices": [
+        "Massage therapist",
+        "Nurse",
+        "Teacher",
+        "Hotel receptionist"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actress plays Katharina Nielsen?",
+      "choices": [
+        "Maja Schöne",
+        "Julika Jenkins",
+        "Lisa Vicari",
+        "Jördis Triebel"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actress plays Hannah Kahnwald?",
+      "choices": [
+        "Jördis Triebel",
+        "Maja Schöne",
+        "Julika Jenkins",
+        "Lisa Vicari"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actress plays Charlotte Doppler?",
+      "choices": [
+        "Julika Jenkins",
+        "Maja Schöne",
+        "Jördis Triebel",
+        "Lisa Vicari"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many episodes does season 2 of Dark have?",
+      "choices": [
+        "10",
+        "6",
+        "8",
+        "12"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many episodes does season 3 of Dark have?",
+      "choices": [
+        "10",
+        "8",
+        "6",
+        "12"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which year is the post-apocalyptic future in the show set?",
+      "choices": [
+        "2040",
+        "2050",
+        "2060",
+        "2052"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dark hangi ülkede geçer?",
+      "choices": [
+        "Avusturya",
+        "İsviçre",
+        "Almanya",
+        "Danimarka"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dark'ı hangi yayın platformu yapımcılığını üstlendi?",
+      "choices": [
+        "Amazon Prime Video",
+        "Netflix",
+        "HBO Max",
+        "Hulu"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dark kaç sezon sürdü?",
+      "choices": [
+        "2",
+        "4",
+        "5",
+        "3"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dark'ın ana mekânı olan kurgusal kasaba hangisidir?",
+      "choices": [
+        "Hamelin",
+        "Neuburg",
+        "Lindau",
+        "Winden"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Karakterlere zaman yolculuğu imkânı sunan gizli yer neresidir?",
+      "choices": [
+        "Kilise",
+        "Mağaralar",
+        "Okulun bodrumu",
+        "Eski hastane"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ulrich Nielsen'in mesleği nedir?",
+      "choices": [
+        "Polis",
+        "Doktor",
+        "Öğretmen",
+        "Rahip"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Jonas Kahnwald'ın âşık olduğu kişi kimdir?",
+      "choices": [
+        "Franziska Doppler",
+        "Regina Tiedemann",
+        "Martha Nielsen",
+        "Katharina Nielsen"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Nielsen çocuklarından hangisi dizinin başında kaybolur?",
+      "choices": [
+        "Magnus",
+        "Mikkel",
+        "Martha",
+        "Jonas"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dark orijinalinde hangi dilde çekilmiştir?",
+      "choices": [
+        "İngilizce",
+        "Danca",
+        "Felemenkçe",
+        "Almanca"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Winden'in ekonomisine ve silüetine hâkim olan büyük tesis nedir?",
+      "choices": [
+        "Kömür madeni",
+        "Kâğıt fabrikası",
+        "Nükleer santral",
+        "Otomobil fabrikası"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dizinin sloganına göre asıl soru 'nerede' değil, nedir?",
+      "choices": [
+        "Ne zaman",
+        "Kim",
+        "Neden",
+        "Nasıl"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dark'taki zaman döngüsü kaç yılı kapsar?",
+      "choices": [
+        "25",
+        "50",
+        "33",
+        "66"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Zaman makinesini yapan saatçi kimdir?",
+      "choices": [
+        "H.G. Tannhaus",
+        "Noah",
+        "Helge Doppler",
+        "Egon Tiedemann"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Latince 'Sic Mundus Creatus Est' ifadesi ne anlama gelir?",
+      "choices": [
+        "Yukarıdaki gibi aşağıdaki de",
+        "Zaman her şeyi iyileştirir",
+        "Son, başlangıçtır",
+        "Dünya böyle yaratıldı"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Sic Mundus Creatus Est kolyesinde ve kitabında hangi sembol bulunur?",
+      "choices": [
+        "Ouroboros",
+        "Triketra",
+        "Pentagram",
+        "Yin-yang"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Katharina Nielsen'in mesleği nedir?",
+      "choices": [
+        "Okul müdürü",
+        "Polis",
+        "Hemşire",
+        "Santral müdürü"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Charlotte Doppler'in mesleği nedir?",
+      "choices": [
+        "Okul müdürü",
+        "Doktor",
+        "Emniyet müdürü",
+        "Santral müdürü"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "1986'da kaybolan Nielsen kardeşi hangisidir?",
+      "choices": [
+        "Magnus",
+        "Mads",
+        "Mikkel",
+        "Tronte"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Jonas'ın yaşlı hâli kimdir?",
+      "choices": [
+        "Noah",
+        "H.G. Tannhaus",
+        "Claudia",
+        "Adam"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Martha'nın yaşlı hâli kimdir?",
+      "choices": [
+        "Claudia",
+        "Katharina",
+        "Charlotte",
+        "Eva"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dark'ın yaratıcıları kimlerdir?",
+      "choices": [
+        "Lars von Trier ve Thomas Vinterberg",
+        "Baran bo Odar ve Jantje Friese",
+        "Tom Tykwer ve Lana Wachowski",
+        "Florian Henckel von Donnersmarck ve Maren Ade"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dark'ın birinci sezonu kaç bölümden oluşur?",
+      "choices": [
+        "10",
+        "8",
+        "12",
+        "6"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dark hangi yıl yayına girdi?",
+      "choices": [
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Apokalipste Winden'i ne yok eder?",
+      "choices": [
+        "Sel",
+        "Nükleer felaket",
+        "Salgın",
+        "Deprem"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "season": 1,
+      "episode": 6,
+      "prompt": "Birinci sezon 6. bölümün adı nedir?",
+      "choices": [
+        "Alpha and Omega",
+        "Crossroads",
+        "Truths",
+        "Sic Mundus Creatus Est"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Jonas'ın babasının adı nedir?",
+      "choices": [
+        "Ulrich",
+        "Peter",
+        "Michael",
+        "Egon"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Jonas'ın annesi kimdir?",
+      "choices": [
+        "Hannah Kahnwald",
+        "Katharina Nielsen",
+        "Regina Tiedemann",
+        "Charlotte Doppler"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Jonas Kahnwald'ı hangi oyuncu canlandırır?",
+      "choices": [
+        "Oliver Masucci",
+        "Stephan Kampwirth",
+        "Louis Hofmann",
+        "Moritz Jahn"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Martha Nielsen'i hangi oyuncu canlandırır?",
+      "choices": [
+        "Lisa Vicari",
+        "Maja Schöne",
+        "Jördis Triebel",
+        "Julika Jenkins"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ulrich Nielsen'i hangi oyuncu canlandırır?",
+      "choices": [
+        "Louis Hofmann",
+        "Stephan Kampwirth",
+        "Sebastian Rudolph",
+        "Oliver Masucci"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Kıyamet hangi tarihte gerçekleşir?",
+      "choices": [
+        "4 Kasım 2019",
+        "27 Haziran 2020",
+        "21 Haziran 2019",
+        "31 Ekim 2019"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Mikkel hangi tarihte kaybolur?",
+      "choices": [
+        "4 Kasım 2019",
+        "27 Haziran 2020",
+        "21 Haziran 2019",
+        "31 Ekim 2019"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "H.G. Tannhaus'un zaman yolculuğu üzerine yazdığı kitabın adı nedir?",
+      "choices": [
+        "Sessiz Evren",
+        "Zamanın Kökeni",
+        "Zamanda Bir Yolculuk",
+        "Sic Mundus"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Hannah Kahnwald'ın mesleği nedir?",
+      "choices": [
+        "Hemşire",
+        "Masöz",
+        "Öğretmen",
+        "Otel resepsiyonisti"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Katharina Nielsen'i hangi oyuncu canlandırır?",
+      "choices": [
+        "Maja Schöne",
+        "Julika Jenkins",
+        "Lisa Vicari",
+        "Jördis Triebel"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Hannah Kahnwald'ı hangi oyuncu canlandırır?",
+      "choices": [
+        "Jördis Triebel",
+        "Julika Jenkins",
+        "Lisa Vicari",
+        "Maja Schöne"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Charlotte Doppler'i hangi oyuncu canlandırır?",
+      "choices": [
+        "Maja Schöne",
+        "Julika Jenkins",
+        "Jördis Triebel",
+        "Lisa Vicari"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dark'ın ikinci sezonu kaç bölümden oluşur?",
+      "choices": [
+        "8",
+        "10",
+        "6",
+        "12"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dark'ın üçüncü sezonu kaç bölümden oluşur?",
+      "choices": [
+        "10",
+        "6",
+        "8",
+        "12"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dizide kıyamet sonrası gelecek hangi yılda geçer?",
+      "choices": [
+        "2040",
+        "2052",
+        "2050",
+        "2060"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    }
+  ]
+}

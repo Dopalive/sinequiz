@@ -1,0 +1,1221 @@
+{
+  "slug": "the-sopranos",
+  "kind": "series",
+  "release_year": 1999,
+  "tmdb_id": null,
+  "poster_url": null,
+  "translations": {
+    "en": {
+      "name": "The Sopranos",
+      "synopsis": "New Jersey mob boss Tony Soprano juggles the pressures of organized crime and family life while seeing a psychiatrist to cope with panic attacks."
+    },
+    "tr": {
+      "name": "Sopranolar",
+      "synopsis": "New Jersey'li mafya babası Tony Soprano, panik atakların üstesinden gelmek için bir psikiyatriste giderken organize suç ile aile hayatının baskısını dengelemeye çalışır."
+    }
+  },
+  "episodes": [
+    {
+      "season": 1,
+      "number": 1
+    },
+    {
+      "season": 1,
+      "number": 2
+    },
+    {
+      "season": 1,
+      "number": 3
+    },
+    {
+      "season": 1,
+      "number": 4
+    },
+    {
+      "season": 1,
+      "number": 5
+    },
+    {
+      "season": 1,
+      "number": 6
+    },
+    {
+      "season": 1,
+      "number": 7
+    },
+    {
+      "season": 1,
+      "number": 8
+    },
+    {
+      "season": 1,
+      "number": 9
+    },
+    {
+      "season": 1,
+      "number": 10
+    },
+    {
+      "season": 1,
+      "number": 11
+    },
+    {
+      "season": 1,
+      "number": 12
+    },
+    {
+      "season": 1,
+      "number": 13
+    }
+  ],
+  "questions": [
+    {
+      "locale": "en",
+      "prompt": "In which U.S. state is The Sopranos set?",
+      "choices": [
+        "New York",
+        "Connecticut",
+        "New Jersey",
+        "Pennsylvania"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Tony Soprano?",
+      "choices": [
+        "James Gandolfini",
+        "Michael Imperioli",
+        "Steve Buscemi",
+        "Tony Sirico"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of Tony's psychiatrist?",
+      "choices": [
+        "Dr. Carmela Soprano",
+        "Dr. Livia Moltisanti",
+        "Dr. Adriana La Cerva",
+        "Dr. Jennifer Melfi"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of the strip club Tony's crew runs?",
+      "choices": [
+        "Vesuvio",
+        "Bada Bing",
+        "Satriale's",
+        "The Crazy Horse"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of Tony's wife?",
+      "choices": [
+        "Carmela",
+        "Janice",
+        "Adriana",
+        "Livia"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who created The Sopranos?",
+      "choices": [
+        "David Simon",
+        "Vince Gilligan",
+        "David Chase",
+        "Terence Winter"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which network aired The Sopranos?",
+      "choices": [
+        "Showtime",
+        "HBO",
+        "AMC",
+        "FX"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many seasons does The Sopranos have?",
+      "choices": [
+        "5",
+        "7",
+        "8",
+        "6"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What are the names of Tony's two children?",
+      "choices": [
+        "Janice and Christopher",
+        "Adriana and Bobby",
+        "Carmela and Silvio",
+        "Meadow and A.J."
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which business does Tony use as a legitimate front?",
+      "choices": [
+        "A car dealership",
+        "Waste management",
+        "A restaurant chain",
+        "A construction firm"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Where is the final scene of the series set?",
+      "choices": [
+        "A diner",
+        "A strip club",
+        "A pork store",
+        "Tony's house"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How does the final episode end?",
+      "choices": [
+        "Tony is arrested",
+        "Tony is shot",
+        "A sudden cut to black",
+        "A family wedding"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who is Livia Soprano?",
+      "choices": [
+        "Tony's sister",
+        "Tony's mother",
+        "Tony's wife",
+        "Tony's aunt"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which song plays in the final scene?",
+      "choices": [
+        "Born to Run by Bruce Springsteen",
+        "Life Is a Highway by Tom Cochrane",
+        "Faithfully by Journey",
+        "Don't Stop Believin' by Journey"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What event triggers Tony's first panic attack?",
+      "choices": [
+        "A shootout at the pork store",
+        "A fight with Carmela",
+        "Ducks leaving his swimming pool",
+        "A funeral"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Tony's role in the DiMeo crime family?",
+      "choices": [
+        "Boss",
+        "Consigliere",
+        "Underboss",
+        "Soldier"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Christopher Moltisanti?",
+      "choices": [
+        "Tony Sirico",
+        "Steven Van Zandt",
+        "Michael Imperioli",
+        "Vincent Pastore"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Paulie Walnuts?",
+      "choices": [
+        "Tony Sirico",
+        "Michael Imperioli",
+        "Steven Van Zandt",
+        "Joe Pantoliano"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Silvio Dante and is a member of the E Street Band?",
+      "choices": [
+        "Tony Sirico",
+        "Michael Imperioli",
+        "Vincent Pastore",
+        "Steven Van Zandt"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Uncle Junior's real first name?",
+      "choices": [
+        "Carmine",
+        "Corrado",
+        "Giovanni",
+        "Salvatore"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actress plays Carmela Soprano?",
+      "choices": [
+        "Edie Falco",
+        "Lorraine Bracco",
+        "Drea de Matteo",
+        "Aida Turturro"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actress plays Dr. Melfi?",
+      "choices": [
+        "Edie Falco",
+        "Drea de Matteo",
+        "Lorraine Bracco",
+        "Jamie-Lynn Sigler"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of Christopher's fiancée?",
+      "choices": [
+        "Carmela Soprano",
+        "Adriana La Cerva",
+        "Janice Soprano",
+        "Rosalie Aprile"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of Artie Bucco's restaurant?",
+      "choices": [
+        "Satriale's",
+        "Bada Bing",
+        "Holsten's",
+        "Vesuvio"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of the pork store where the crew hangs out?",
+      "choices": [
+        "Vesuvio",
+        "Bada Bing",
+        "Holsten's",
+        "Satriale's"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of Tony's sister?",
+      "choices": [
+        "Livia",
+        "Janice",
+        "Rosalie",
+        "Carmela"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who is the FBI informant killed on a boat by his friends?",
+      "choices": [
+        "Big Pussy Bonpensiero",
+        "Adriana La Cerva",
+        "Richie Aprile",
+        "Jackie Aprile"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which character shoots Tony in season 6?",
+      "choices": [
+        "Phil Leotardo",
+        "Paulie Walnuts",
+        "Uncle Junior",
+        "Christopher Moltisanti"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which year did The Sopranos premiere?",
+      "choices": [
+        "1997",
+        "1999",
+        "2001",
+        "2003"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which year did The Sopranos finish?",
+      "choices": [
+        "2005",
+        "2009",
+        "2006",
+        "2007"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which 2021 film is a prequel to The Sopranos?",
+      "choices": [
+        "The Last Don",
+        "Goodfellas 2",
+        "The Many Saints of Newark",
+        "Jersey Boys"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which episode involves Paulie and Christopher lost in a snowy forest?",
+      "choices": [
+        "Pine Barrens",
+        "College",
+        "Whitecaps",
+        "Isabella"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What alternate identity does Tony assume during his coma dream?",
+      "choices": [
+        "Tony Blundetto",
+        "Anthony Cooper",
+        "Kevin Finnerty",
+        "Dominic Bonpensiero"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of Christopher's slasher film?",
+      "choices": [
+        "Cleaver",
+        "The Butcher",
+        "Blood Rain",
+        "Made Men"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What hobby does Bobby Baccalieri have?",
+      "choices": [
+        "Fishing",
+        "Painting",
+        "Gardening",
+        "Model trains"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Tony Blundetto?",
+      "choices": [
+        "Joe Pantoliano",
+        "Steve Buscemi",
+        "Frank Vincent",
+        "Vincent Curatola"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Ralph Cifaretto?",
+      "choices": [
+        "Joe Pantoliano",
+        "Steve Buscemi",
+        "Frank Vincent",
+        "Vincent Pastore"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actress plays Meadow Soprano?",
+      "choices": [
+        "Drea de Matteo",
+        "Edie Falco",
+        "Jamie-Lynn Sigler",
+        "Aida Turturro"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays A.J. Soprano?",
+      "choices": [
+        "Michael Imperioli",
+        "Robert Iler",
+        "Vincent Pastore",
+        "Steve Schirripa"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actress plays Livia Soprano?",
+      "choices": [
+        "Edie Falco",
+        "Aida Turturro",
+        "Lorraine Bracco",
+        "Nancy Marchand"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Uncle Junior?",
+      "choices": [
+        "Frank Vincent",
+        "Tony Sirico",
+        "Vincent Pastore",
+        "Dominic Chianese"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which New Jersey town do the Sopranos live?",
+      "choices": [
+        "Newark",
+        "North Caldwell",
+        "Hoboken",
+        "Princeton"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which family does Johnny Sack belong to?",
+      "choices": [
+        "The Lupertazzi crime family",
+        "The Gambino crime family",
+        "The Aprile crime family",
+        "The Cifaretto family"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "season": 1,
+      "episode": 5,
+      "prompt": "In the episode 'College', whom does Tony kill during a trip with Meadow?",
+      "choices": [
+        "Jackie Aprile",
+        "Richie Aprile",
+        "Fabian Petrulio, an informant",
+        "Big Pussy Bonpensiero"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Sopranolar hangi ABD eyaletinde geçer?",
+      "choices": [
+        "New York",
+        "Connecticut",
+        "New Jersey",
+        "Pennsylvania"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Tony Soprano'yu hangi oyuncu canlandırır?",
+      "choices": [
+        "Michael Imperioli",
+        "James Gandolfini",
+        "Steve Buscemi",
+        "Tony Sirico"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Tony'nin psikiyatristinin adı nedir?",
+      "choices": [
+        "Dr. Carmela Soprano",
+        "Dr. Livia Moltisanti",
+        "Dr. Adriana La Cerva",
+        "Dr. Jennifer Melfi"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Tony'nin ekibinin işlettiği striptiz kulübünün adı nedir?",
+      "choices": [
+        "Vesuvio",
+        "Satriale's",
+        "The Crazy Horse",
+        "Bada Bing"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Tony'nin karısının adı nedir?",
+      "choices": [
+        "Janice",
+        "Carmela",
+        "Adriana",
+        "Livia"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Sopranolar'ın yaratıcısı kimdir?",
+      "choices": [
+        "David Chase",
+        "David Simon",
+        "Vince Gilligan",
+        "Terence Winter"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Sopranolar hangi kanalda yayımlandı?",
+      "choices": [
+        "Showtime",
+        "AMC",
+        "HBO",
+        "FX"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Sopranolar kaç sezon sürdü?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Tony'nin iki çocuğunun adları nedir?",
+      "choices": [
+        "Janice ve Christopher",
+        "Adriana ve Bobby",
+        "Carmela ve Silvio",
+        "Meadow ve A.J."
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Tony hangi işi yasal paravan olarak kullanır?",
+      "choices": [
+        "Oto galeri",
+        "Restoran zinciri",
+        "Atık yönetimi",
+        "İnşaat firması"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dizinin son sahnesi nerede geçer?",
+      "choices": [
+        "Bir lokantada",
+        "Bir striptiz kulübünde",
+        "Bir şarküteride",
+        "Tony'nin evinde"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dizinin son bölümü nasıl biter?",
+      "choices": [
+        "Tony tutuklanır",
+        "Tony vurulur",
+        "Aniden siyah ekrana geçişle",
+        "Bir aile düğünüyle"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Livia Soprano kimdir?",
+      "choices": [
+        "Tony'nin annesi",
+        "Tony'nin kız kardeşi",
+        "Tony'nin karısı",
+        "Tony'nin teyzesi"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Son sahnede hangi şarkı çalar?",
+      "choices": [
+        "Bruce Springsteen'den Born to Run",
+        "Tom Cochrane'den Life Is a Highway",
+        "Journey'den Faithfully",
+        "Journey'den Don't Stop Believin'"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Tony'nin ilk panik atağını ne tetikler?",
+      "choices": [
+        "Şarküteride çıkan silahlı çatışma",
+        "Ördeklerin havuzundan ayrılması",
+        "Carmela ile bir kavga",
+        "Bir cenaze"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Tony'nin DiMeo ailesindeki konumu nedir?",
+      "choices": [
+        "Baba (patron)",
+        "Danışman (consigliere)",
+        "Yardımcı patron (underboss)",
+        "Asker"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Christopher Moltisanti'yi hangi oyuncu canlandırır?",
+      "choices": [
+        "Tony Sirico",
+        "Steven Van Zandt",
+        "Michael Imperioli",
+        "Vincent Pastore"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Paulie Walnuts'ı hangi oyuncu canlandırır?",
+      "choices": [
+        "Michael Imperioli",
+        "Tony Sirico",
+        "Steven Van Zandt",
+        "Joe Pantoliano"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "E Street Band üyesi olan, Silvio Dante'yi canlandıran oyuncu kimdir?",
+      "choices": [
+        "Tony Sirico",
+        "Michael Imperioli",
+        "Vincent Pastore",
+        "Steven Van Zandt"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Junior Amca'nın gerçek adı nedir?",
+      "choices": [
+        "Carmine",
+        "Giovanni",
+        "Salvatore",
+        "Corrado"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Carmela Soprano'yu hangi oyuncu canlandırır?",
+      "choices": [
+        "Lorraine Bracco",
+        "Edie Falco",
+        "Drea de Matteo",
+        "Aida Turturro"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dr. Melfi'yi hangi oyuncu canlandırır?",
+      "choices": [
+        "Lorraine Bracco",
+        "Edie Falco",
+        "Drea de Matteo",
+        "Jamie-Lynn Sigler"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Christopher'ın nişanlısının adı nedir?",
+      "choices": [
+        "Carmela Soprano",
+        "Janice Soprano",
+        "Adriana La Cerva",
+        "Rosalie Aprile"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Artie Bucco'nun restoranının adı nedir?",
+      "choices": [
+        "Satriale's",
+        "Vesuvio",
+        "Bada Bing",
+        "Holsten's"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ekibin takıldığı şarküterinin adı nedir?",
+      "choices": [
+        "Vesuvio",
+        "Bada Bing",
+        "Holsten's",
+        "Satriale's"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Tony'nin kız kardeşinin adı nedir?",
+      "choices": [
+        "Livia",
+        "Rosalie",
+        "Janice",
+        "Carmela"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Arkadaşları tarafından bir teknede öldürülen FBI muhbiri kimdir?",
+      "choices": [
+        "Big Pussy Bonpensiero",
+        "Adriana La Cerva",
+        "Richie Aprile",
+        "Jackie Aprile"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Altıncı sezonda Tony'yi kim vurur?",
+      "choices": [
+        "Phil Leotardo",
+        "Paulie Walnuts",
+        "Junior Amca",
+        "Christopher Moltisanti"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Sopranolar hangi yıl yayına başladı?",
+      "choices": [
+        "1999",
+        "1997",
+        "2001",
+        "2003"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Sopranolar hangi yıl sona erdi?",
+      "choices": [
+        "2005",
+        "2009",
+        "2006",
+        "2007"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "2021 yapımı hangi film Sopranolar'ın öncül hikâyesidir?",
+      "choices": [
+        "The Last Don",
+        "The Many Saints of Newark",
+        "Goodfellas 2",
+        "Jersey Boys"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Paulie ile Christopher'ın karlı bir ormanda kaybolduğu bölüm hangisidir?",
+      "choices": [
+        "Pine Barrens",
+        "College",
+        "Whitecaps",
+        "Isabella"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Tony koma düşünde hangi kimliğe bürünür?",
+      "choices": [
+        "Tony Blundetto",
+        "Anthony Cooper",
+        "Kevin Finnerty",
+        "Dominic Bonpensiero"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Christopher'ın korku filminin adı nedir?",
+      "choices": [
+        "The Butcher",
+        "Cleaver",
+        "Blood Rain",
+        "Made Men"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Bobby Baccalieri'nin hobisi nedir?",
+      "choices": [
+        "Balık tutma",
+        "Resim",
+        "Bahçecilik",
+        "Model trenler"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Tony Blundetto'yu hangi oyuncu canlandırır?",
+      "choices": [
+        "Joe Pantoliano",
+        "Frank Vincent",
+        "Vincent Curatola",
+        "Steve Buscemi"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ralph Cifaretto'yu hangi oyuncu canlandırır?",
+      "choices": [
+        "Steve Buscemi",
+        "Joe Pantoliano",
+        "Frank Vincent",
+        "Vincent Pastore"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Meadow Soprano'yu hangi oyuncu canlandırır?",
+      "choices": [
+        "Jamie-Lynn Sigler",
+        "Drea de Matteo",
+        "Edie Falco",
+        "Aida Turturro"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "A.J. Soprano'yu hangi oyuncu canlandırır?",
+      "choices": [
+        "Michael Imperioli",
+        "Vincent Pastore",
+        "Robert Iler",
+        "Steve Schirripa"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Livia Soprano'yu hangi oyuncu canlandırır?",
+      "choices": [
+        "Edie Falco",
+        "Nancy Marchand",
+        "Aida Turturro",
+        "Lorraine Bracco"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Junior Amca'yı hangi oyuncu canlandırır?",
+      "choices": [
+        "Frank Vincent",
+        "Tony Sirico",
+        "Vincent Pastore",
+        "Dominic Chianese"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Soprano ailesi New Jersey'nin hangi kasabasında yaşar?",
+      "choices": [
+        "Newark",
+        "Hoboken",
+        "North Caldwell",
+        "Princeton"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Johnny Sack hangi ailenin üyesidir?",
+      "choices": [
+        "Lupertazzi ailesi",
+        "Gambino ailesi",
+        "Aprile ailesi",
+        "Cifaretto ailesi"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "season": 1,
+      "episode": 5,
+      "prompt": "'College' bölümünde Tony, Meadow'la yaptığı gezide kimi öldürür?",
+      "choices": [
+        "Jackie Aprile'ı",
+        "Richie Aprile'ı",
+        "Muhbir Fabian Petrulio'yu",
+        "Big Pussy Bonpensiero'yu"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    }
+  ]
+}

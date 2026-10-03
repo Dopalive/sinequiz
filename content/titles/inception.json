@@ -1,0 +1,1215 @@
+{
+  "slug": "inception",
+  "kind": "movie",
+  "release_year": 2010,
+  "tmdb_id": null,
+  "poster_url": null,
+  "translations": {
+    "en": {
+      "name": "Inception",
+      "synopsis": "A skilled thief who steals secrets from within people's dreams is offered a chance to clear his name by planting an idea in a target's subconscious."
+    },
+    "tr": {
+      "name": "Başlangıç",
+      "synopsis": "İnsanların rüyalarından sır çalan usta bir hırsız, hedefin bilinçaltına bir fikir yerleştirirse geçmişinin temize çıkarılacağı bir teklifle karşılaşır."
+    }
+  },
+  "questions": [
+    {
+      "locale": "en",
+      "prompt": "Who directed Inception?",
+      "choices": [
+        "Denis Villeneuve",
+        "Ridley Scott",
+        "Christopher Nolan",
+        "Steven Spielberg"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Dom Cobb?",
+      "choices": [
+        "Leonardo DiCaprio",
+        "Joseph Gordon-Levitt",
+        "Tom Hardy",
+        "Cillian Murphy"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Cobb's totem?",
+      "choices": [
+        "A loaded die",
+        "A chess piece",
+        "A pocket watch",
+        "A spinning top"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the main goal of the final job?",
+      "choices": [
+        "To steal a diamond",
+        "To plant an idea in someone's mind",
+        "To rob a bank",
+        "To destroy a laboratory"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How does the film end?",
+      "choices": [
+        "It cuts to black while the top is still spinning",
+        "Cobb wakes up in the plane",
+        "The top falls over",
+        "Cobb stays in limbo"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which year was Inception released?",
+      "choices": [
+        "2008",
+        "2012",
+        "2010",
+        "2014"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which of these films was also directed by Christopher Nolan?",
+      "choices": [
+        "Gravity",
+        "Interstellar",
+        "Arrival",
+        "Blade Runner 2049"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who is the target of the final job?",
+      "choices": [
+        "Maurice Fischer",
+        "Peter Browning",
+        "Saito",
+        "Robert Fischer"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Cobb's role on the team?",
+      "choices": [
+        "Forger",
+        "Architect",
+        "Chemist",
+        "Extractor"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who hires Cobb for the final job?",
+      "choices": [
+        "Miles",
+        "Saito",
+        "Browning",
+        "Eames"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays Robert Fischer?",
+      "choices": [
+        "Cillian Murphy",
+        "Tom Berenger",
+        "Dileep Rao",
+        "Ken Watanabe"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays Ariadne?",
+      "choices": [
+        "Marion Cotillard",
+        "Rinko Kikuchi",
+        "Elliot Page",
+        "Jessica Chastain"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays Eames?",
+      "choices": [
+        "Joseph Gordon-Levitt",
+        "Tom Hardy",
+        "Cillian Murphy",
+        "Ken Watanabe"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays Arthur?",
+      "choices": [
+        "Tom Hardy",
+        "Cillian Murphy",
+        "Dileep Rao",
+        "Joseph Gordon-Levitt"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays Mal?",
+      "choices": [
+        "Elliot Page",
+        "Natalie Portman",
+        "Marion Cotillard",
+        "Rebecca Hall"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays Saito?",
+      "choices": [
+        "Ken Watanabe",
+        "Dileep Rao",
+        "Tom Berenger",
+        "Michael Caine"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who composed the score of Inception?",
+      "choices": [
+        "John Williams",
+        "Ludwig Göransson",
+        "Hans Zimmer",
+        "Howard Shore"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which song is used as the cue to wake up?",
+      "choices": [
+        "Non, je ne regrette rien",
+        "La Vie en Rose",
+        "Clair de Lune",
+        "Time"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many dream levels does the team descend through?",
+      "choices": [
+        "Two",
+        "Four",
+        "Five",
+        "Three"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Ariadne's job on the team?",
+      "choices": [
+        "Forger",
+        "Architect",
+        "Chemist",
+        "Point man"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Eames's specialty?",
+      "choices": [
+        "Forger",
+        "Architect",
+        "Chemist",
+        "Extractor"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Yusuf's specialty?",
+      "choices": [
+        "Forger",
+        "Architect",
+        "Chemist",
+        "Point man"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of the unconstructed dream space where Cobb and Mal once lived?",
+      "choices": [
+        "The Void",
+        "Limbo",
+        "The Abyss",
+        "The Maze"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How long did Cobb and Mal spend in limbo?",
+      "choices": [
+        "About ten years",
+        "About five years",
+        "A single day",
+        "About fifty years"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How does Mal die?",
+      "choices": [
+        "She is shot",
+        "She drowns",
+        "She is poisoned",
+        "She jumps from a hotel window"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What are the names of Cobb's two children?",
+      "choices": [
+        "Jack and Emma",
+        "James and Philippa",
+        "Michael and Sophie",
+        "Ben and Lily"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Why can't Cobb return to the United States?",
+      "choices": [
+        "He is wanted for the murder of his wife",
+        "He is a deserter",
+        "He stole from Saito",
+        "He broke out of prison"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What idea does the team plant in Robert Fischer's mind?",
+      "choices": [
+        "To sell his shares",
+        "To forgive his father",
+        "To break up his father's company",
+        "To move abroad"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the setting of the third dream level?",
+      "choices": [
+        "A rainy city",
+        "A snow-covered mountain fortress",
+        "A hotel",
+        "A desert"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which vehicle falls off a bridge in slow motion on the first level?",
+      "choices": [
+        "A taxi",
+        "A train",
+        "A motorcycle",
+        "A van"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who fights in the rotating hallway of the second level?",
+      "choices": [
+        "Eames",
+        "Cobb",
+        "Arthur",
+        "Yusuf"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many Oscars did Inception win?",
+      "choices": [
+        "4",
+        "2",
+        "6",
+        "8"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which Oscar did Inception win?",
+      "choices": [
+        "Best Picture",
+        "Best Director",
+        "Best Visual Effects",
+        "Best Original Screenplay"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the term for a sudden jolt used to wake a dreamer?",
+      "choices": [
+        "A kick",
+        "A shock",
+        "A jolt",
+        "A wake"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Dom Cobb's full first name?",
+      "choices": [
+        "Daniel",
+        "Damian",
+        "David",
+        "Dominick"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How does time in a dream compare to real time?",
+      "choices": [
+        "Dream time is slower than real time",
+        "A few minutes of real time feel like hours in a dream",
+        "They pass at the same rate",
+        "Dream time stops completely"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Cobb's father-in-law, Miles?",
+      "choices": [
+        "Michael Caine",
+        "Tom Berenger",
+        "Pete Postlethwaite",
+        "Ken Watanabe"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Yusuf?",
+      "choices": [
+        "Ken Watanabe",
+        "Tom Berenger",
+        "Dileep Rao",
+        "Cillian Murphy"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Browning?",
+      "choices": [
+        "Michael Caine",
+        "Tom Berenger",
+        "Dileep Rao",
+        "Pete Postlethwaite"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of Robert Fischer's dying father?",
+      "choices": [
+        "Peter Browning",
+        "Miles Cobb",
+        "Saito",
+        "Maurice Fischer"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What toy does Fischer find in the vault in the final reveal?",
+      "choices": [
+        "A teddy bear",
+        "A toy train",
+        "A wooden horse",
+        "A pinwheel"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Arthur's totem?",
+      "choices": [
+        "A spinning top",
+        "A loaded die",
+        "A chess piece",
+        "A coin"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Ariadne's totem?",
+      "choices": [
+        "A chess piece",
+        "A loaded die",
+        "A spinning top",
+        "A ring"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Whose totem was the spinning top originally?",
+      "choices": [
+        "Arthur's",
+        "Eames's",
+        "Mal's",
+        "Saito's"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of the sedative Yusuf prepares for the job?",
+      "choices": [
+        "Soporex",
+        "Somnacin",
+        "Dreamix",
+        "Narcosyn"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Roughly how much did Inception earn worldwide?",
+      "choices": [
+        "About $300 million",
+        "About $500 million",
+        "Nearly $1.5 billion",
+        "Over $800 million"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Başlangıç (Inception) filminin yönetmeni kimdir?",
+      "choices": [
+        "Denis Villeneuve",
+        "Ridley Scott",
+        "Christopher Nolan",
+        "Steven Spielberg"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dom Cobb'u hangi oyuncu canlandırır?",
+      "choices": [
+        "Joseph Gordon-Levitt",
+        "Leonardo DiCaprio",
+        "Tom Hardy",
+        "Cillian Murphy"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Cobb'un totemi nedir?",
+      "choices": [
+        "Hileli bir zar",
+        "Bir satranç taşı",
+        "Bir cep saati",
+        "Dönen bir topaç"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Son görevin asıl amacı nedir?",
+      "choices": [
+        "Bir elmas çalmak",
+        "Bir banka soymak",
+        "Bir laboratuvarı yok etmek",
+        "Birinin zihnine bir fikir yerleştirmek"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Film nasıl biter?",
+      "choices": [
+        "Cobb uçakta uyanır",
+        "Topaç hâlâ dönerken ekran kararır",
+        "Topaç devrilir",
+        "Cobb limbo'da kalır"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Başlangıç hangi yıl vizyona girdi?",
+      "choices": [
+        "2010",
+        "2008",
+        "2012",
+        "2014"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Aşağıdaki filmlerden hangisini de Christopher Nolan yönetmiştir?",
+      "choices": [
+        "Yerçekimi (Gravity)",
+        "Geliş (Arrival)",
+        "Yıldızlararası (Interstellar)",
+        "Blade Runner 2049"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Son görevin hedefi kimdir?",
+      "choices": [
+        "Maurice Fischer",
+        "Robert Fischer",
+        "Peter Browning",
+        "Saito"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Cobb'un ekipteki rolü nedir?",
+      "choices": [
+        "Taklitçi",
+        "Mimar",
+        "Kimyager",
+        "Ekstraktör (bilgi çalan)"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Cobb'u son görev için kim tutar?",
+      "choices": [
+        "Miles",
+        "Browning",
+        "Saito",
+        "Eames"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Robert Fischer'ı hangi oyuncu canlandırır?",
+      "choices": [
+        "Cillian Murphy",
+        "Tom Berenger",
+        "Dileep Rao",
+        "Ken Watanabe"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ariadne'yi hangi oyuncu canlandırır?",
+      "choices": [
+        "Marion Cotillard",
+        "Rinko Kikuchi",
+        "Elliot Page",
+        "Jessica Chastain"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Eames'i hangi oyuncu canlandırır?",
+      "choices": [
+        "Tom Hardy",
+        "Joseph Gordon-Levitt",
+        "Cillian Murphy",
+        "Ken Watanabe"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Arthur'u hangi oyuncu canlandırır?",
+      "choices": [
+        "Tom Hardy",
+        "Cillian Murphy",
+        "Dileep Rao",
+        "Joseph Gordon-Levitt"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Mal'i hangi oyuncu canlandırır?",
+      "choices": [
+        "Elliot Page",
+        "Marion Cotillard",
+        "Natalie Portman",
+        "Rebecca Hall"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Saito'yu hangi oyuncu canlandırır?",
+      "choices": [
+        "Ken Watanabe",
+        "Dileep Rao",
+        "Tom Berenger",
+        "Michael Caine"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Başlangıç'ın müziklerini kim besteledi?",
+      "choices": [
+        "John Williams",
+        "Ludwig Göransson",
+        "Hans Zimmer",
+        "Howard Shore"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Uyanma işareti olarak hangi şarkı kullanılır?",
+      "choices": [
+        "La Vie en Rose",
+        "Non, je ne regrette rien",
+        "Clair de Lune",
+        "Time"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ekip kaç rüya katmanına iner?",
+      "choices": [
+        "İki",
+        "Dört",
+        "Beş",
+        "Üç"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ariadne'nin ekipteki görevi nedir?",
+      "choices": [
+        "Taklitçi",
+        "Kimyager",
+        "Planlayıcı",
+        "Mimar"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Eames'in uzmanlığı nedir?",
+      "choices": [
+        "Mimarlık",
+        "Taklitçilik",
+        "Kimya",
+        "Ekstraksiyon"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Yusuf'un uzmanlığı nedir?",
+      "choices": [
+        "Kimya",
+        "Taklitçilik",
+        "Mimarlık",
+        "Planlama"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Cobb ile Mal'in bir zamanlar yaşadığı, inşa edilmemiş rüya alanının adı nedir?",
+      "choices": [
+        "Boşluk",
+        "Uçurum",
+        "Limbo",
+        "Labirent"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Cobb ile Mal limbo'da ne kadar kalmıştır?",
+      "choices": [
+        "Yaklaşık on yıl",
+        "Yaklaşık elli yıl",
+        "Yaklaşık beş yıl",
+        "Tek bir gün"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Mal nasıl ölür?",
+      "choices": [
+        "Vurulur",
+        "Boğulur",
+        "Zehirlenir",
+        "Otel penceresinden atlar"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Cobb'un iki çocuğunun adları nedir?",
+      "choices": [
+        "Jack ve Emma",
+        "Michael ve Sophie",
+        "James ve Philippa",
+        "Ben ve Lily"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Cobb neden Amerika'ya dönemez?",
+      "choices": [
+        "Karısının cinayetinden aranmaktadır",
+        "Asker kaçağıdır",
+        "Saito'dan hırsızlık yapmıştır",
+        "Hapisten kaçmıştır"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ekip, Robert Fischer'ın zihnine hangi fikri yerleştirir?",
+      "choices": [
+        "Hisselerini satmak",
+        "Babasını affetmek",
+        "Babasının şirketini bölmek",
+        "Yurtdışına taşınmak"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Üçüncü rüya katmanı nerede geçer?",
+      "choices": [
+        "Karla kaplı bir dağ kalesinde",
+        "Yağmurlu bir şehirde",
+        "Bir otelde",
+        "Bir çölde"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Birinci katmanda hangi araç ağır çekimde köprüden düşer?",
+      "choices": [
+        "Bir taksi",
+        "Bir tren",
+        "Bir motosiklet",
+        "Bir minibüs"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "İkinci katmanın dönen koridorunda kim dövüşür?",
+      "choices": [
+        "Eames",
+        "Arthur",
+        "Cobb",
+        "Yusuf"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Başlangıç kaç Oscar kazandı?",
+      "choices": [
+        "4",
+        "2",
+        "6",
+        "8"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Başlangıç hangi Oscar'ı kazandı?",
+      "choices": [
+        "En İyi Film",
+        "En İyi Yönetmen",
+        "En İyi Görsel Efekt",
+        "En İyi Orijinal Senaryo"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Rüya gören kişiyi uyandırmak için kullanılan ani sarsıntıya ne denir?",
+      "choices": [
+        "Şok",
+        "Kick (tekme)",
+        "Sarsıntı",
+        "Çağrı"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dom Cobb'un tam adı nedir?",
+      "choices": [
+        "Daniel",
+        "Damian",
+        "David",
+        "Dominick"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Rüyada zaman gerçek zamanla nasıl karşılaştırılır?",
+      "choices": [
+        "Rüya zamanı gerçekten yavaştır",
+        "Aynı hızda geçer",
+        "Rüyada zaman durur",
+        "Gerçekteki birkaç dakika rüyada saatler gibi geçer"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Cobb'un kayınpederi Miles'ı hangi oyuncu canlandırır?",
+      "choices": [
+        "Tom Berenger",
+        "Michael Caine",
+        "Pete Postlethwaite",
+        "Ken Watanabe"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Yusuf'u hangi oyuncu canlandırır?",
+      "choices": [
+        "Dileep Rao",
+        "Ken Watanabe",
+        "Tom Berenger",
+        "Cillian Murphy"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Browning'i hangi oyuncu canlandırır?",
+      "choices": [
+        "Michael Caine",
+        "Dileep Rao",
+        "Tom Berenger",
+        "Pete Postlethwaite"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Robert Fischer'ın ölmekte olan babasının adı nedir?",
+      "choices": [
+        "Peter Browning",
+        "Maurice Fischer",
+        "Miles Cobb",
+        "Saito"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Fischer, son sahnede kasada hangi oyuncağı bulur?",
+      "choices": [
+        "Bir oyuncak ayı",
+        "Bir oyuncak tren",
+        "Tahta bir at",
+        "Bir fırıldak (pinwheel)"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Arthur'un totemi nedir?",
+      "choices": [
+        "Dönen bir topaç",
+        "Bir satranç taşı",
+        "Hileli bir zar",
+        "Bir bozuk para"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ariadne'nin totemi nedir?",
+      "choices": [
+        "Bir satranç taşı",
+        "Hileli bir zar",
+        "Dönen bir topaç",
+        "Bir yüzük"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dönen topaç aslen kimin totemiydi?",
+      "choices": [
+        "Arthur'un",
+        "Eames'in",
+        "Mal'in",
+        "Saito'nun"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Yusuf'un görev için hazırladığı sakinleştiricinin adı nedir?",
+      "choices": [
+        "Somnacin",
+        "Soporex",
+        "Dreamix",
+        "Narcosyn"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Başlangıç dünya genelinde kabaca ne kadar hasılat yaptı?",
+      "choices": [
+        "Yaklaşık 300 milyon dolar",
+        "Yaklaşık 500 milyon dolar",
+        "Yaklaşık 1,5 milyar dolar",
+        "800 milyon doların üzerinde"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    }
+  ]
+}

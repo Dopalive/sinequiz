@@ -1,0 +1,1267 @@
+{
+  "slug": "the-godfather",
+  "kind": "movie",
+  "release_year": 1972,
+  "tmdb_id": null,
+  "poster_url": null,
+  "translations": {
+    "en": {
+      "name": "The Godfather",
+      "synopsis": "The aging patriarch of a New York crime dynasty hands control of his empire to his reluctant youngest son, who is drawn deeper into the family business."
+    },
+    "tr": {
+      "name": "Baba",
+      "synopsis": "New York'lu bir mafya hanedanının yaşlı patronu, imparatorluğunun kontrolünü isteksiz küçük oğluna devreder; oğul aile işine her geçen gün daha çok bulaşır."
+    }
+  },
+  "questions": [
+    {
+      "locale": "en",
+      "prompt": "Who directed The Godfather?",
+      "choices": [
+        "Martin Scorsese",
+        "Brian De Palma",
+        "Francis Ford Coppola",
+        "Sidney Lumet"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Vito Corleone?",
+      "choices": [
+        "Marlon Brando",
+        "Al Pacino",
+        "Robert Duvall",
+        "James Caan"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Michael Corleone?",
+      "choices": [
+        "James Caan",
+        "Robert De Niro",
+        "John Cazale",
+        "Al Pacino"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of the crime family at the center of the film?",
+      "choices": [
+        "The Barzini family",
+        "The Corleone family",
+        "The Tattaglia family",
+        "The Gambino family"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the famous line Vito says about making someone an offer?",
+      "choices": [
+        "I'm gonna make him an offer he can't refuse",
+        "I'll make him an offer he'll regret",
+        "Everyone has a price",
+        "Business is business"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is found in the bed of the Hollywood producer Jack Woltz?",
+      "choices": [
+        "A dead fish",
+        "A bag of money",
+        "A horse's head",
+        "A written threat"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which city does the Corleone family operate?",
+      "choices": [
+        "Chicago",
+        "New York",
+        "Los Angeles",
+        "Las Vegas"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Where does Michael hide after the killings at the restaurant?",
+      "choices": [
+        "Naples",
+        "Rome",
+        "Florence",
+        "Sicily"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which Corleone brother is known for his hot temper?",
+      "choices": [
+        "Fredo",
+        "Michael",
+        "Tom",
+        "Sonny"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Whom does Michael marry in America?",
+      "choices": [
+        "Apollonia",
+        "Kay Adams",
+        "Connie",
+        "Lucy Mancini"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which year was The Godfather released?",
+      "choices": [
+        "1972",
+        "1970",
+        "1974",
+        "1976"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Whose novel is The Godfather based on?",
+      "choices": [
+        "Don DeLillo",
+        "Gay Talese",
+        "Mario Puzo",
+        "Nicholas Pileggi"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What are the first words spoken in the film?",
+      "choices": [
+        "Don Corleone",
+        "I believe in America",
+        "It's a girl",
+        "Happy wedding day"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of the movie producer who gets the horse head?",
+      "choices": [
+        "Johnny Fontane",
+        "Luca Brasi",
+        "Virgil Sollozzo",
+        "Jack Woltz"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Where is Vito Corleone shot?",
+      "choices": [
+        "In his office",
+        "At a restaurant",
+        "At a fruit stand",
+        "At a wedding"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Where is Sonny Corleone killed?",
+      "choices": [
+        "At a toll booth",
+        "At a restaurant",
+        "At the Corleone compound",
+        "In a hospital"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Whom does Michael kill at the restaurant?",
+      "choices": [
+        "Tattaglia and Barzini",
+        "Moe Greene and Carlo",
+        "Sollozzo and Captain McCluskey",
+        "Tessio and Clemenza"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which military branch did Michael serve in World War II?",
+      "choices": [
+        "The Marine Corps",
+        "The Navy",
+        "The Air Force",
+        "The Army"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Whom does Michael marry in Sicily?",
+      "choices": [
+        "Kay",
+        "Lucia",
+        "Connie",
+        "Apollonia"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Sonny Corleone?",
+      "choices": [
+        "Robert Duvall",
+        "James Caan",
+        "John Cazale",
+        "Al Pacino"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Tom Hagen?",
+      "choices": [
+        "Robert Duvall",
+        "James Caan",
+        "John Cazale",
+        "Richard Castellano"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Tom Hagen's role in the family?",
+      "choices": [
+        "Underboss",
+        "Caporegime",
+        "Consigliere",
+        "Bodyguard"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which line does Clemenza say after a killing?",
+      "choices": [
+        "Take the gun, leave the cannoli",
+        "Leave the gun, take the cannoli",
+        "Remember this day",
+        "Never talk business"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What message does Sollozzo's gang send about Luca Brasi?",
+      "choices": [
+        "His watch",
+        "A letter",
+        "His gun",
+        "A dead fish wrapped in his bulletproof vest"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What animal sits on Vito's lap in the opening scene?",
+      "choices": [
+        "A dog",
+        "A bird",
+        "A rabbit",
+        "A cat"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many Oscars did The Godfather win?",
+      "choices": [
+        "5",
+        "3",
+        "7",
+        "1"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who composed the score?",
+      "choices": [
+        "Nino Rota",
+        "Ennio Morricone",
+        "John Williams",
+        "Bernard Herrmann"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which 1974 sequel won the Oscar for Best Picture?",
+      "choices": [
+        "Chinatown",
+        "The Conversation",
+        "The Godfather Part II",
+        "Serpico"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the Corleone family's legitimate business?",
+      "choices": [
+        "Trucking",
+        "Importing olive oil",
+        "Construction",
+        "A casino"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which celebration opens the film?",
+      "choices": [
+        "Michael's baptism",
+        "Vito's birthday",
+        "Christmas Eve",
+        "Connie's wedding"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What happens during the baptism sequence?",
+      "choices": [
+        "Vito dies",
+        "Michael is arrested",
+        "Michael's rivals are killed",
+        "Fredo is exiled"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Where does Vito die?",
+      "choices": [
+        "In his tomato garden while playing with his grandson",
+        "In his bed",
+        "At a hospital",
+        "On a street"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which caporegime betrays the family?",
+      "choices": [
+        "Clemenza",
+        "Luca Brasi",
+        "Tessio",
+        "Fredo"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Sollozzo's nickname?",
+      "choices": [
+        "The Turk",
+        "The Don",
+        "The Greek",
+        "The Snake"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which singer asks Vito for help to get a movie role?",
+      "choices": [
+        "Moe Greene",
+        "Carlo Rizzi",
+        "Peter Clemenza",
+        "Johnny Fontane"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of Jack Woltz's racehorse?",
+      "choices": [
+        "Seabiscuit",
+        "Khartoum",
+        "Secretariat",
+        "Citation"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Fredo Corleone?",
+      "choices": [
+        "John Cazale",
+        "James Caan",
+        "Robert Duvall",
+        "Gianni Russo"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actress plays Connie Corleone?",
+      "choices": [
+        "Diane Keaton",
+        "Simonetta Stefanelli",
+        "Talia Shire",
+        "Morgana King"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Carlo Rizzi?",
+      "choices": [
+        "Al Lettieri",
+        "Gianni Russo",
+        "Alex Rocco",
+        "Lenny Montana"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Peter Clemenza?",
+      "choices": [
+        "Abe Vigoda",
+        "Sterling Hayden",
+        "John Marley",
+        "Richard Castellano"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Tessio?",
+      "choices": [
+        "Richard Castellano",
+        "Al Lettieri",
+        "Alex Rocco",
+        "Abe Vigoda"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Captain McCluskey?",
+      "choices": [
+        "Al Lettieri",
+        "Sterling Hayden",
+        "John Marley",
+        "Richard Conte"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Virgil Sollozzo?",
+      "choices": [
+        "Al Lettieri",
+        "Lenny Montana",
+        "Alex Rocco",
+        "Gianni Russo"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Luca Brasi?",
+      "choices": [
+        "Al Lettieri",
+        "Sterling Hayden",
+        "Lenny Montana",
+        "Abe Vigoda"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who accepted Marlon Brando's refused Oscar on his behalf?",
+      "choices": [
+        "Raquel Welch",
+        "Sacheen Littlefeather",
+        "Jane Fonda",
+        "Tatum O'Neal"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who was the cinematographer, nicknamed 'the Prince of Darkness'?",
+      "choices": [
+        "Vittorio Storaro",
+        "Conrad Hall",
+        "Roger Deakins",
+        "Gordon Willis"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays the baby in the baptism scene?",
+      "choices": [
+        "Talia Shire",
+        "Francis Ford Coppola's nephew",
+        "Sofia Coppola",
+        "Diane Keaton"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which studio produced The Godfather?",
+      "choices": [
+        "Paramount Pictures",
+        "Warner Bros.",
+        "Universal Pictures",
+        "Columbia Pictures"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Baba filminin yönetmeni kimdir?",
+      "choices": [
+        "Martin Scorsese",
+        "Brian De Palma",
+        "Francis Ford Coppola",
+        "Sidney Lumet"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Vito Corleone'yi hangi oyuncu canlandırır?",
+      "choices": [
+        "Al Pacino",
+        "Marlon Brando",
+        "Robert Duvall",
+        "James Caan"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Michael Corleone'yi hangi oyuncu canlandırır?",
+      "choices": [
+        "James Caan",
+        "Robert De Niro",
+        "John Cazale",
+        "Al Pacino"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Filmin merkezindeki mafya ailesinin adı nedir?",
+      "choices": [
+        "Barzini ailesi",
+        "Tattaglia ailesi",
+        "Gambino ailesi",
+        "Corleone ailesi"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Vito'nun birine teklif yapmakla ilgili meşhur cümlesi hangisidir?",
+      "choices": [
+        "Ona pişman olacağı bir teklif sunacağım",
+        "Ona reddedemeyeceği bir teklif sunacağım",
+        "Herkesin bir fiyatı vardır",
+        "İş işdir"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Hollywood yapımcısı Jack Woltz'un yatağında ne bulunur?",
+      "choices": [
+        "Bir at kellesi",
+        "Ölü bir balık",
+        "Bir para çantası",
+        "Yazılı bir tehdit"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Corleone ailesi hangi şehirde faaliyet gösterir?",
+      "choices": [
+        "Chicago",
+        "Los Angeles",
+        "New York",
+        "Las Vegas"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Michael, restorandaki cinayetlerden sonra nereye saklanır?",
+      "choices": [
+        "Napoli'ye",
+        "Sicilya'ya",
+        "Roma'ya",
+        "Floransa'ya"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Corleone kardeşlerden hangisi sinirli mizacıyla bilinir?",
+      "choices": [
+        "Fredo",
+        "Michael",
+        "Tom",
+        "Sonny"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Michael Amerika'da kiminle evlenir?",
+      "choices": [
+        "Apollonia",
+        "Connie",
+        "Kay Adams",
+        "Lucy Mancini"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Baba hangi yıl vizyona girdi?",
+      "choices": [
+        "1972",
+        "1970",
+        "1974",
+        "1976"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Baba hangi yazarın romanından uyarlanmıştır?",
+      "choices": [
+        "Don DeLillo",
+        "Gay Talese",
+        "Mario Puzo",
+        "Nicholas Pileggi"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Filmde söylenen ilk sözler nelerdir?",
+      "choices": [
+        "Amerika'ya inanıyorum",
+        "Don Corleone",
+        "Kız oldu",
+        "Düğününüz kutlu olsun"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "At kellesi gönderilen film yapımcısının adı nedir?",
+      "choices": [
+        "Johnny Fontane",
+        "Luca Brasi",
+        "Virgil Sollozzo",
+        "Jack Woltz"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Vito Corleone nerede vurulur?",
+      "choices": [
+        "Ofisinde",
+        "Bir meyve tezgâhında",
+        "Bir restoranda",
+        "Bir düğünde"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Sonny Corleone nerede öldürülür?",
+      "choices": [
+        "Bir gişede (paralı yol gişesi)",
+        "Bir restoranda",
+        "Corleone malikânesinde",
+        "Bir hastanede"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Michael restoranda kimleri öldürür?",
+      "choices": [
+        "Tattaglia ve Barzini'yi",
+        "Moe Greene ve Carlo'yu",
+        "Sollozzo ve Yüzbaşı McCluskey'yi",
+        "Tessio ve Clemenza'yı"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Michael, II. Dünya Savaşı'nda hangi kuvvette görev yaptı?",
+      "choices": [
+        "Donanmada",
+        "Deniz Piyadeleri'nde",
+        "Hava Kuvvetleri'nde",
+        "Kara Ordusu'nda"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Michael Sicilya'da kiminle evlenir?",
+      "choices": [
+        "Kay",
+        "Lucia",
+        "Connie",
+        "Apollonia"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Sonny Corleone'yi hangi oyuncu canlandırır?",
+      "choices": [
+        "Robert Duvall",
+        "John Cazale",
+        "Al Pacino",
+        "James Caan"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Tom Hagen'ı hangi oyuncu canlandırır?",
+      "choices": [
+        "James Caan",
+        "Robert Duvall",
+        "John Cazale",
+        "Richard Castellano"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Tom Hagen'ın ailedeki görevi nedir?",
+      "choices": [
+        "Danışman (consigliere)",
+        "Yardımcı patron (underboss)",
+        "Bölge amiri (caporegime)",
+        "Koruma"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Clemenza bir cinayetten sonra hangi cümleyi söyler?",
+      "choices": [
+        "Silahı al, kanolyi bırak",
+        "Bu günü hatırla",
+        "Silahı bırak, kanolyi al",
+        "İşten asla bahsetme"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Sollozzo'nun adamları Luca Brasi hakkında hangi mesajı gönderir?",
+      "choices": [
+        "Saati",
+        "Kurşun geçirmez yeleğine sarılı ölü bir balık",
+        "Bir mektup",
+        "Silahı"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Açılış sahnesinde Vito'nun kucağında hangi hayvan vardır?",
+      "choices": [
+        "Bir köpek",
+        "Bir kuş",
+        "Bir tavşan",
+        "Bir kedi"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Baba kaç Oscar kazandı?",
+      "choices": [
+        "5",
+        "7",
+        "3",
+        "1"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Filmin müziklerini kim besteledi?",
+      "choices": [
+        "Nino Rota",
+        "Ennio Morricone",
+        "John Williams",
+        "Bernard Herrmann"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "1974'te En İyi Film Oscar'ını kazanan devam filmi hangisidir?",
+      "choices": [
+        "Chinatown",
+        "Konuşma (The Conversation)",
+        "Baba 2",
+        "Serpico"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Corleone ailesinin yasal işi nedir?",
+      "choices": [
+        "Zeytinyağı ithalatı",
+        "Nakliyecilik",
+        "İnşaat",
+        "Kumarhane"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Filmi hangi kutlama açar?",
+      "choices": [
+        "Michael'ın vaftizi",
+        "Vito'nun doğum günü",
+        "Noel arifesi",
+        "Connie'nin düğünü"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Vaftiz sahnesi sırasında ne olur?",
+      "choices": [
+        "Vito ölür",
+        "Michael'ın rakipleri öldürülür",
+        "Michael tutuklanır",
+        "Fredo sürgüne gönderilir"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Vito nerede ölür?",
+      "choices": [
+        "Domates bahçesinde torunuyla oynarken",
+        "Yatağında",
+        "Hastanede",
+        "Sokakta"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Hangi bölge amiri aileye ihanet eder?",
+      "choices": [
+        "Clemenza",
+        "Luca Brasi",
+        "Tessio",
+        "Fredo"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Sollozzo'nun lakabı nedir?",
+      "choices": [
+        "Don",
+        "Türk (The Turk)",
+        "Yunan",
+        "Yılan"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Vito'dan bir film rolü için yardım isteyen şarkıcı kimdir?",
+      "choices": [
+        "Moe Greene",
+        "Carlo Rizzi",
+        "Peter Clemenza",
+        "Johnny Fontane"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Jack Woltz'un yarış atının adı nedir?",
+      "choices": [
+        "Seabiscuit",
+        "Secretariat",
+        "Citation",
+        "Khartoum"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Fredo Corleone'yi hangi oyuncu canlandırır?",
+      "choices": [
+        "James Caan",
+        "John Cazale",
+        "Robert Duvall",
+        "Gianni Russo"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Connie Corleone'yi hangi oyuncu canlandırır?",
+      "choices": [
+        "Talia Shire",
+        "Diane Keaton",
+        "Simonetta Stefanelli",
+        "Morgana King"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Carlo Rizzi'yi hangi oyuncu canlandırır?",
+      "choices": [
+        "Al Lettieri",
+        "Alex Rocco",
+        "Gianni Russo",
+        "Lenny Montana"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Peter Clemenza'yı hangi oyuncu canlandırır?",
+      "choices": [
+        "Abe Vigoda",
+        "Richard Castellano",
+        "Sterling Hayden",
+        "John Marley"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Tessio'yu hangi oyuncu canlandırır?",
+      "choices": [
+        "Richard Castellano",
+        "Al Lettieri",
+        "Alex Rocco",
+        "Abe Vigoda"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Yüzbaşı McCluskey'yi hangi oyuncu canlandırır?",
+      "choices": [
+        "Al Lettieri",
+        "John Marley",
+        "Sterling Hayden",
+        "Richard Conte"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Virgil Sollozzo'yu hangi oyuncu canlandırır?",
+      "choices": [
+        "Al Lettieri",
+        "Lenny Montana",
+        "Alex Rocco",
+        "Gianni Russo"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Luca Brasi'yi hangi oyuncu canlandırır?",
+      "choices": [
+        "Al Lettieri",
+        "Sterling Hayden",
+        "Lenny Montana",
+        "Abe Vigoda"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Marlon Brando'nun reddettiği Oscar'ı onun adına kim aldı?",
+      "choices": [
+        "Sacheen Littlefeather",
+        "Raquel Welch",
+        "Jane Fonda",
+        "Tatum O'Neal"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "'Karanlıklar Prensi' lakaplı görüntü yönetmeni kimdir?",
+      "choices": [
+        "Vittorio Storaro",
+        "Conrad Hall",
+        "Roger Deakins",
+        "Gordon Willis"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Vaftiz sahnesindeki bebeği kim canlandırır?",
+      "choices": [
+        "Talia Shire",
+        "Sofia Coppola",
+        "Francis Ford Coppola'nın yeğeni",
+        "Diane Keaton"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Baba'yı hangi stüdyo yapımcılığını üstlendi?",
+      "choices": [
+        "Paramount Pictures",
+        "Warner Bros.",
+        "Universal Pictures",
+        "Columbia Pictures"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    }
+  ]
+}

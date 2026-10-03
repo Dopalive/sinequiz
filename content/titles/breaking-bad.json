@@ -1,0 +1,1591 @@
+{
+  "slug": "breaking-bad",
+  "kind": "series",
+  "release_year": 2008,
+  "tmdb_id": null,
+  "poster_url": null,
+  "translations": {
+    "en": {
+      "name": "Breaking Bad",
+      "synopsis": "A struggling high school chemistry teacher diagnosed with lung cancer turns to cooking methamphetamine with a former student to secure his family's future."
+    },
+    "tr": {
+      "name": "Breaking Bad",
+      "synopsis": "Akciğer kanseri teşhisi konan, para sıkıntısındaki bir lise kimya öğretmeni, ailesinin geleceğini güvenceye almak için eski öğrencisiyle birlikte metamfetamin üretmeye başlar."
+    }
+  },
+  "episodes": [
+    {
+      "season": 1,
+      "number": 1
+    },
+    {
+      "season": 1,
+      "number": 2
+    },
+    {
+      "season": 1,
+      "number": 3
+    },
+    {
+      "season": 1,
+      "number": 4
+    },
+    {
+      "season": 1,
+      "number": 5
+    },
+    {
+      "season": 1,
+      "number": 6
+    },
+    {
+      "season": 1,
+      "number": 7
+    },
+    {
+      "season": 2,
+      "number": 1
+    },
+    {
+      "season": 2,
+      "number": 2
+    },
+    {
+      "season": 2,
+      "number": 3
+    },
+    {
+      "season": 2,
+      "number": 4
+    },
+    {
+      "season": 2,
+      "number": 5
+    },
+    {
+      "season": 2,
+      "number": 6
+    },
+    {
+      "season": 2,
+      "number": 7
+    },
+    {
+      "season": 2,
+      "number": 8
+    },
+    {
+      "season": 2,
+      "number": 9
+    },
+    {
+      "season": 2,
+      "number": 10
+    },
+    {
+      "season": 2,
+      "number": 11
+    },
+    {
+      "season": 2,
+      "number": 12
+    },
+    {
+      "season": 2,
+      "number": 13
+    },
+    {
+      "season": 3,
+      "number": 1
+    },
+    {
+      "season": 3,
+      "number": 2
+    },
+    {
+      "season": 3,
+      "number": 3
+    },
+    {
+      "season": 3,
+      "number": 4
+    },
+    {
+      "season": 3,
+      "number": 5
+    },
+    {
+      "season": 3,
+      "number": 6
+    },
+    {
+      "season": 3,
+      "number": 7
+    },
+    {
+      "season": 3,
+      "number": 8
+    },
+    {
+      "season": 3,
+      "number": 9
+    },
+    {
+      "season": 3,
+      "number": 10
+    },
+    {
+      "season": 3,
+      "number": 11
+    },
+    {
+      "season": 3,
+      "number": 12
+    },
+    {
+      "season": 3,
+      "number": 13
+    },
+    {
+      "season": 4,
+      "number": 1
+    },
+    {
+      "season": 4,
+      "number": 2
+    },
+    {
+      "season": 4,
+      "number": 3
+    },
+    {
+      "season": 4,
+      "number": 4
+    },
+    {
+      "season": 4,
+      "number": 5
+    },
+    {
+      "season": 4,
+      "number": 6
+    },
+    {
+      "season": 4,
+      "number": 7
+    },
+    {
+      "season": 4,
+      "number": 8
+    },
+    {
+      "season": 4,
+      "number": 9
+    },
+    {
+      "season": 4,
+      "number": 10
+    },
+    {
+      "season": 4,
+      "number": 11
+    },
+    {
+      "season": 4,
+      "number": 12
+    },
+    {
+      "season": 4,
+      "number": 13
+    },
+    {
+      "season": 5,
+      "number": 1
+    },
+    {
+      "season": 5,
+      "number": 2
+    },
+    {
+      "season": 5,
+      "number": 3
+    },
+    {
+      "season": 5,
+      "number": 4
+    },
+    {
+      "season": 5,
+      "number": 5
+    },
+    {
+      "season": 5,
+      "number": 6
+    },
+    {
+      "season": 5,
+      "number": 7
+    },
+    {
+      "season": 5,
+      "number": 8
+    },
+    {
+      "season": 5,
+      "number": 9
+    },
+    {
+      "season": 5,
+      "number": 10
+    },
+    {
+      "season": 5,
+      "number": 11
+    },
+    {
+      "season": 5,
+      "number": 12
+    },
+    {
+      "season": 5,
+      "number": 13
+    },
+    {
+      "season": 5,
+      "number": 14
+    },
+    {
+      "season": 5,
+      "number": 15
+    },
+    {
+      "season": 5,
+      "number": 16
+    }
+  ],
+  "questions": [
+    {
+      "locale": "en",
+      "prompt": "What is Walter White's job when the series begins?",
+      "choices": [
+        "High school biology teacher",
+        "High school physics teacher",
+        "High school chemistry teacher",
+        "High school math teacher"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which city is Breaking Bad set?",
+      "choices": [
+        "Albuquerque",
+        "Phoenix",
+        "Santa Fe",
+        "Las Vegas"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What alias does Walter White adopt in the drug underworld?",
+      "choices": [
+        "Einstein",
+        "Schrödinger",
+        "Oppenheimer",
+        "Heisenberg"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "season": 1,
+      "episode": 1,
+      "prompt": "What illness is Walter diagnosed with in the pilot?",
+      "choices": [
+        "Pancreatic cancer",
+        "Lung cancer",
+        "Brain cancer",
+        "Liver cancer"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of Walter's wife?",
+      "choices": [
+        "Skyler",
+        "Marie",
+        "Lydia",
+        "Wendy"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Hank Schrader's job?",
+      "choices": [
+        "FBI agent",
+        "ATF agent",
+        "DEA agent",
+        "Albuquerque police detective"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who is Walter's partner in the early meth business, and a former student of his?",
+      "choices": [
+        "Todd Alquist",
+        "Jesse Pinkman",
+        "Badger",
+        "Skinny Pete"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What color is Walt's famous methamphetamine?",
+      "choices": [
+        "White",
+        "Green",
+        "Red",
+        "Blue"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "season": 1,
+      "episode": 1,
+      "prompt": "What is Walt wearing in the opening scene of the pilot, as he drives an RV in the desert?",
+      "choices": [
+        "A lab coat and goggles",
+        "A hazmat suit",
+        "A business suit",
+        "Underwear and a gas mask"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "season": 1,
+      "episode": 1,
+      "prompt": "How old does Walter turn in the pilot episode?",
+      "choices": [
+        "40",
+        "50",
+        "45",
+        "55"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What vehicle do Walt and Jesse use as their first mobile meth lab?",
+      "choices": [
+        "An RV",
+        "A school bus",
+        "A delivery van",
+        "A box truck"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who created Breaking Bad?",
+      "choices": [
+        "David Chase",
+        "Matthew Weiner",
+        "Vince Gilligan",
+        "Aaron Sorkin"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Walter White?",
+      "choices": [
+        "Aaron Paul",
+        "Bryan Cranston",
+        "Bob Odenkirk",
+        "Giancarlo Esposito"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Jesse Pinkman?",
+      "choices": [
+        "Dean Norris",
+        "RJ Mitte",
+        "Jonathan Banks",
+        "Aaron Paul"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which fast-food chain does Gus Fring own as a front?",
+      "choices": [
+        "Pollos del Norte",
+        "El Pollo Rico",
+        "Los Pollos Hermanos",
+        "Casa Pollo"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Saul Goodman's profession?",
+      "choices": [
+        "Criminal lawyer",
+        "Accountant",
+        "Private investigator",
+        "Real estate agent"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many seasons does Breaking Bad have?",
+      "choices": [
+        "4",
+        "6",
+        "5",
+        "7"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which series is a spin-off prequel built around Saul Goodman?",
+      "choices": [
+        "Better Call Saul",
+        "Ozark",
+        "Narcos",
+        "Justified"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of Walt and Skyler's baby daughter?",
+      "choices": [
+        "Kaylee",
+        "Lydia",
+        "Wendy",
+        "Holly"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What condition does Walt's son Walter Jr. live with?",
+      "choices": [
+        "Muscular dystrophy",
+        "Cerebral palsy",
+        "Epilepsy",
+        "Scoliosis"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "season": 1,
+      "episode": 1,
+      "prompt": "How does Walt describe chemistry to his class in the pilot?",
+      "choices": [
+        "The study of change",
+        "The study of life",
+        "The study of power",
+        "The study of risk"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "season": 1,
+      "episode": 6,
+      "prompt": "What does Walt use to blow up Tuco's office?",
+      "choices": [
+        "Nitroglycerin",
+        "C-4",
+        "Fulminated mercury",
+        "Thermite"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which color is Hank's wife Marie obsessed with?",
+      "choices": [
+        "Teal",
+        "Purple",
+        "Red",
+        "Green"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "season": 3,
+      "episode": 2,
+      "prompt": "What does Walt famously throw onto the roof of his house?",
+      "choices": [
+        "A television",
+        "A bag of cash",
+        "A phone",
+        "A pizza"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "season": 2,
+      "episode": 12,
+      "prompt": "What is the name of Jesse's girlfriend who dies of an overdose while Walt watches?",
+      "choices": [
+        "Andrea Cantillo",
+        "Lydia Rodarte-Quayle",
+        "Gretchen Schwartz",
+        "Jane Margolis"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What does Hector 'Tio' Salamanca use to communicate after his stroke?",
+      "choices": [
+        "A whiteboard",
+        "A bell",
+        "A laptop",
+        "Tapping on his cane"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "season": 4,
+      "episode": 13,
+      "prompt": "What device finally destroys Gus Fring?",
+      "choices": [
+        "A bomb attached to Hector's wheelchair",
+        "A car bomb",
+        "A sniper rifle",
+        "A poisoned drink"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "season": 5,
+      "episode": 7,
+      "prompt": "Who shoots Mike Ehrmantraut?",
+      "choices": [
+        "Jesse Pinkman",
+        "Todd Alquist",
+        "Walter White",
+        "Gus Fring"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What does Hank brew at home?",
+      "choices": [
+        "Wine",
+        "Beer",
+        "Kombucha",
+        "Whiskey"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Where is Gus Fring's secret superlab hidden?",
+      "choices": [
+        "Under a restaurant",
+        "Under a warehouse",
+        "Under a church",
+        "Under an industrial laundry"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "season": 5,
+      "episode": 14,
+      "prompt": "Which Breaking Bad episode shares its title with a poem by Percy Bysshe Shelley?",
+      "choices": [
+        "Felina",
+        "Granite State",
+        "Ozymandias",
+        "Face Off"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which object appears in black-and-white teasers throughout season 2?",
+      "choices": [
+        "A charred pink teddy bear",
+        "A rubber duck",
+        "A toy soldier",
+        "A rag doll"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Whom does Skyler have an affair with?",
+      "choices": [
+        "Elliott Schwartz",
+        "Gale Boetticher",
+        "Ted Beneke",
+        "Steven Gomez"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who is Hank's partner at the DEA?",
+      "choices": [
+        "Steven Gomez",
+        "Mike Ehrmantraut",
+        "Jack Welker",
+        "Tyrus Kitt"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Walt's car in the early seasons?",
+      "choices": [
+        "Buick LeSabre",
+        "Chevrolet Impala",
+        "Oldsmobile Alero",
+        "Pontiac Aztek"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which company's fumigation tents does Walt's crew use as a cover for cooking?",
+      "choices": [
+        "Madrigal Electromotive",
+        "Vamonos Pest",
+        "Gray Matter Technologies",
+        "Saul Goodman & Associates"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which poet's book 'Leaves of Grass' helps Hank realize who Heisenberg is?",
+      "choices": [
+        "Walt Whitman",
+        "Robert Frost",
+        "Edgar Allan Poe",
+        "Emily Dickinson"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of the company Walt co-founded and left early in his career?",
+      "choices": [
+        "Madrigal Electromotive",
+        "Vamonos Pest",
+        "Gray Matter Technologies",
+        "Pinkman Enterprises"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Gus Fring is originally from which country?",
+      "choices": [
+        "Mexico",
+        "Chile",
+        "Colombia",
+        "Argentina"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Mike Ehrmantraut was a police officer in which city before becoming a fixer?",
+      "choices": [
+        "Boston",
+        "Baltimore",
+        "Detroit",
+        "Philadelphia"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "season": 5,
+      "episode": 16,
+      "prompt": "The title 'Felina' hides the chemical symbols of which three elements?",
+      "choices": [
+        "Iron, lead, nitrogen",
+        "Fluorine, lithium, neon",
+        "Francium, lithium, nickel",
+        "Iron, lithium, sodium"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What does Walt hide in Lydia's sweetener to poison her?",
+      "choices": [
+        "Arsenic in a Splenda packet",
+        "Ricin in a Stevia packet",
+        "Cyanide in a Sweet'N Low packet",
+        "Ricin in her coffee creamer"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How does Gus Fring kill Don Eladio and his cartel leadership?",
+      "choices": [
+        "Poisoned tequila",
+        "A car bomb",
+        "Sniper fire",
+        "A gas leak"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "season": 5,
+      "episode": 16,
+      "prompt": "What does Walt give Skyler in the finale so she can bargain with the authorities?",
+      "choices": [
+        "A map hidden in a toy",
+        "A postcard",
+        "A lottery ticket with coordinates",
+        "A safe-deposit key"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which plant is used to poison Brock?",
+      "choices": [
+        "Oleander",
+        "Lily of the valley",
+        "Nightshade",
+        "Foxglove"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the day job of the man who 'disappears' people, Ed?",
+      "choices": [
+        "Plumber",
+        "Locksmith",
+        "Dry cleaner",
+        "Vacuum cleaner repairman"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Todd Alquist's uncle's name?",
+      "choices": [
+        "Hector Salamanca",
+        "Tuco Salamanca",
+        "Jack Welker",
+        "Ed Galbraith"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What does Hank collect as a hobby?",
+      "choices": [
+        "Minerals",
+        "Stamps",
+        "Coins",
+        "Baseball cards"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which company does Lydia Rodarte-Quayle work for as an executive?",
+      "choices": [
+        "Gray Matter Technologies",
+        "Vamonos Pest",
+        "Madrigal Electromotive",
+        "Los Pollos Hermanos"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dizi başladığında Walter White'ın mesleği nedir?",
+      "choices": [
+        "Lise biyoloji öğretmeni",
+        "Lise fizik öğretmeni",
+        "Lise kimya öğretmeni",
+        "Lise matematik öğretmeni"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Breaking Bad hangi şehirde geçer?",
+      "choices": [
+        "Phoenix",
+        "Albuquerque",
+        "Santa Fe",
+        "Las Vegas"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Walter White yeraltı dünyasında hangi takma adı kullanır?",
+      "choices": [
+        "Einstein",
+        "Schrödinger",
+        "Oppenheimer",
+        "Heisenberg"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "season": 1,
+      "episode": 1,
+      "prompt": "Walter'a pilot bölümde hangi hastalık teşhisi konur?",
+      "choices": [
+        "Pankreas kanseri",
+        "Beyin kanseri",
+        "Karaciğer kanseri",
+        "Akciğer kanseri"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Walter'ın karısının adı nedir?",
+      "choices": [
+        "Marie",
+        "Skyler",
+        "Lydia",
+        "Wendy"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Hank Schrader'ın mesleği nedir?",
+      "choices": [
+        "DEA ajanı",
+        "FBI ajanı",
+        "ATF ajanı",
+        "Albuquerque polis dedektifi"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Walter'ın ilk dönemdeki ortağı ve eski öğrencisi kimdir?",
+      "choices": [
+        "Todd Alquist",
+        "Badger",
+        "Jesse Pinkman",
+        "Skinny Pete"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Walt'ın ünlü metamfetamininin rengi nedir?",
+      "choices": [
+        "Beyaz",
+        "Mavi",
+        "Yeşil",
+        "Kırmızı"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "season": 1,
+      "episode": 1,
+      "prompt": "Pilot bölümün açılışında Walt çölde karavan sürerken ne giymektedir?",
+      "choices": [
+        "Laboratuvar önlüğü ve gözlük",
+        "Koruyucu tulum",
+        "Takım elbise",
+        "İç çamaşırı ve gaz maskesi"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "season": 1,
+      "episode": 1,
+      "prompt": "Walter pilot bölümde kaç yaşına girer?",
+      "choices": [
+        "40",
+        "45",
+        "50",
+        "55"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Walt ve Jesse'nin ilk gezici metamfetamin laboratuvarı hangi araçtır?",
+      "choices": [
+        "Karavan",
+        "Okul servisi",
+        "Teslimat minibüsü",
+        "Kamyon"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Breaking Bad'in yaratıcısı kimdir?",
+      "choices": [
+        "David Chase",
+        "Matthew Weiner",
+        "Vince Gilligan",
+        "Aaron Sorkin"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Walter White'ı hangi oyuncu canlandırır?",
+      "choices": [
+        "Bryan Cranston",
+        "Aaron Paul",
+        "Bob Odenkirk",
+        "Giancarlo Esposito"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Jesse Pinkman'ı hangi oyuncu canlandırır?",
+      "choices": [
+        "Dean Norris",
+        "RJ Mitte",
+        "Jonathan Banks",
+        "Aaron Paul"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Gus Fring'in paravan olarak işlettiği fast food zinciri hangisidir?",
+      "choices": [
+        "Pollos del Norte",
+        "Los Pollos Hermanos",
+        "El Pollo Rico",
+        "Casa Pollo"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Saul Goodman'ın mesleği nedir?",
+      "choices": [
+        "Ceza avukatı",
+        "Muhasebeci",
+        "Özel dedektif",
+        "Emlakçı"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Breaking Bad kaç sezon sürmüştür?",
+      "choices": [
+        "4",
+        "6",
+        "5",
+        "7"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Saul Goodman'ı merkeze alan öncül yan dizi hangisidir?",
+      "choices": [
+        "Ozark",
+        "Better Call Saul",
+        "Narcos",
+        "Justified"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Walt ile Skyler'ın bebek kızının adı nedir?",
+      "choices": [
+        "Kaylee",
+        "Lydia",
+        "Wendy",
+        "Holly"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Walt'ın oğlu Walter Jr. hangi rahatsızlıkla yaşar?",
+      "choices": [
+        "Kas distrofisi",
+        "Epilepsi",
+        "Skolyoz",
+        "Serebral palsi"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "season": 1,
+      "episode": 1,
+      "prompt": "Walt pilot bölümde sınıfına kimyayı nasıl tarif eder?",
+      "choices": [
+        "Yaşamın bilimi",
+        "Değişimin bilimi",
+        "Gücün bilimi",
+        "Riskin bilimi"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "season": 1,
+      "episode": 6,
+      "prompt": "Walt, Tuco'nun ofisini neyle havaya uçurur?",
+      "choices": [
+        "Cıva fulminat",
+        "Nitrogliserin",
+        "C-4",
+        "Termit"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Hank'in karısı Marie hangi renge takıntılıdır?",
+      "choices": [
+        "Turkuaz",
+        "Kırmızı",
+        "Mor",
+        "Yeşil"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "season": 3,
+      "episode": 2,
+      "prompt": "Walt öfkeyle evinin çatısına ne fırlatır?",
+      "choices": [
+        "Bir televizyon",
+        "Bir pizza",
+        "Bir para çantası",
+        "Bir telefon"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "season": 2,
+      "episode": 12,
+      "prompt": "Walt'ın seyrettiği, aşırı dozdan ölen Jesse'nin kız arkadaşının adı nedir?",
+      "choices": [
+        "Andrea Cantillo",
+        "Lydia Rodarte-Quayle",
+        "Gretchen Schwartz",
+        "Jane Margolis"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Hector 'Tio' Salamanca inme geçirdikten sonra iletişim için neyi kullanır?",
+      "choices": [
+        "Bir yazı tahtası",
+        "Bir dizüstü bilgisayar",
+        "Bir zil",
+        "Bastonuyla vurma"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "season": 4,
+      "episode": 13,
+      "prompt": "Gus Fring'i sonunda ne yok eder?",
+      "choices": [
+        "Hector'ın tekerlekli sandalyesine bağlı bomba",
+        "Araç bombası",
+        "Keskin nişancı tüfeği",
+        "Zehirli içki"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "season": 5,
+      "episode": 7,
+      "prompt": "Mike Ehrmantraut'u kim vurur?",
+      "choices": [
+        "Jesse Pinkman",
+        "Todd Alquist",
+        "Walter White",
+        "Gus Fring"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Hank evinde ne demler?",
+      "choices": [
+        "Bira",
+        "Şarap",
+        "Kombucha",
+        "Viski"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Gus Fring'in gizli süper laboratuvarı nerenin altındadır?",
+      "choices": [
+        "Bir restoranın",
+        "Bir deponun",
+        "Bir kilisenin",
+        "Endüstriyel bir çamaşırhanenin"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "season": 5,
+      "episode": 14,
+      "prompt": "Hangi Breaking Bad bölümünün adı Percy Bysshe Shelley'nin bir şiiriyle aynıdır?",
+      "choices": [
+        "Felina",
+        "Ozymandias",
+        "Granite State",
+        "Face Off"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "İkinci sezon boyunca siyah-beyaz ön sahnelerde hangi nesne görünür?",
+      "choices": [
+        "Yanmış pembe bir oyuncak ayı",
+        "Plastik bir ördek",
+        "Oyuncak bir asker",
+        "Bez bir bebek"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Skyler'ın ilişki yaşadığı kişi kimdir?",
+      "choices": [
+        "Elliott Schwartz",
+        "Gale Boetticher",
+        "Ted Beneke",
+        "Steven Gomez"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Hank'in DEA'deki ortağı kimdir?",
+      "choices": [
+        "Mike Ehrmantraut",
+        "Steven Gomez",
+        "Jack Welker",
+        "Tyrus Kitt"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Walt'ın ilk sezonlardaki arabası hangisidir?",
+      "choices": [
+        "Buick LeSabre",
+        "Chevrolet Impala",
+        "Oldsmobile Alero",
+        "Pontiac Aztek"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Walt'ın ekibi üretim yaparken hangi şirketin ilaçlama çadırlarını paravan olarak kullanır?",
+      "choices": [
+        "Madrigal Electromotive",
+        "Gray Matter Technologies",
+        "Saul Goodman & Associates",
+        "Vamonos Pest"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Hank, Heisenberg'in kim olduğunu hangi şairin 'Çimen Yaprakları' kitabı sayesinde çözer?",
+      "choices": [
+        "Robert Frost",
+        "Walt Whitman",
+        "Edgar Allan Poe",
+        "Emily Dickinson"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Walt'ın kariyerinin başında ortak kurup sonra ayrıldığı şirketin adı nedir?",
+      "choices": [
+        "Gray Matter Technologies",
+        "Madrigal Electromotive",
+        "Vamonos Pest",
+        "Pinkman Enterprises"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Gus Fring aslen hangi ülkedendir?",
+      "choices": [
+        "Meksika",
+        "Kolombiya",
+        "Şili",
+        "Arjantin"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Mike Ehrmantraut, çözümcü olmadan önce hangi şehirde polislik yapmıştır?",
+      "choices": [
+        "Boston",
+        "Philadelphia",
+        "Baltimore",
+        "Detroit"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "season": 5,
+      "episode": 16,
+      "prompt": "'Felina' adı hangi üç elementin sembolünü gizler?",
+      "choices": [
+        "Demir, kurşun, azot",
+        "Flor, lityum, neon",
+        "Fransiyum, lityum, nikel",
+        "Demir, lityum, sodyum"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Walt, Lydia'yı zehirlemek için tatlandırıcı paketine ne koyar?",
+      "choices": [
+        "Splenda paketine arsenik",
+        "Sweet'N Low paketine siyanür",
+        "Stevia paketine ricin",
+        "Kahve kreması içine ricin"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Gus Fring, Don Eladio ve kartel liderlerini nasıl öldürür?",
+      "choices": [
+        "Zehirli tekilayla",
+        "Araç bombasıyla",
+        "Keskin nişancı ateşiyle",
+        "Gaz kaçağıyla"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "season": 5,
+      "episode": 16,
+      "prompt": "Walt finalde yetkililerle pazarlık yapabilsin diye Skyler'a ne verir?",
+      "choices": [
+        "Oyuncağa gizlenmiş bir harita",
+        "Bir kartpostal",
+        "Koordinat yazılı bir piyango bileti",
+        "Bir kasa anahtarı"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Brock'u zehirlemek için hangi bitki kullanılır?",
+      "choices": [
+        "Vadi zambağı",
+        "Zakkum",
+        "Güzel avrat otu",
+        "Yüksükotu"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "İnsanları 'kaybeden' Ed'in gündüz mesleği nedir?",
+      "choices": [
+        "Tesisatçı",
+        "Çilingir",
+        "Kuru temizlemeci",
+        "Elektrikli süpürge tamircisi"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Todd Alquist'in amcasının adı nedir?",
+      "choices": [
+        "Hector Salamanca",
+        "Jack Welker",
+        "Tuco Salamanca",
+        "Ed Galbraith"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Hank hobi olarak neyi biriktirir?",
+      "choices": [
+        "Mineralleri",
+        "Pulları",
+        "Madeni paraları",
+        "Beyzbol kartlarını"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Lydia Rodarte-Quayle hangi şirketin yöneticisidir?",
+      "choices": [
+        "Gray Matter Technologies",
+        "Vamonos Pest",
+        "Madrigal Electromotive",
+        "Los Pollos Hermanos"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    }
+  ]
+}

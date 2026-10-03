@@ -1,0 +1,1111 @@
+{
+  "slug": "cukur",
+  "kind": "series",
+  "release_year": 2017,
+  "tmdb_id": null,
+  "poster_url": null,
+  "translations": {
+    "tr": {
+      "name": "Çukur",
+      "synopsis": "Genç müzisyen Yamaç Koçovalı, ağabeyinin öldürülmesinin ardından İstanbul’un Çukur mahallesine dönüp ailesinin liderliğini üstlenir ve mahallede uyuşturucuya izin vermeyen kuralı korumaya çalışır."
+    },
+    "en": {
+      "name": "Çukur (The Pit)",
+      "synopsis": "After his brother is murdered, young musician Yamaç Koçovalı returns to the Çukur neighborhood of Istanbul to lead his family and defend its rule against drugs."
+    }
+  },
+  "questions": [
+    {
+      "locale": "tr",
+      "prompt": "Çukur dizisinde Yamaç Koçovalı karakterini kim canlandırır?",
+      "choices": [
+        "Aras Bulut İynemli",
+        "Barış Arduç",
+        "Alperen Duymaz",
+        "Berkay Ateş"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Çukur hangi şehirde geçer?",
+      "choices": [
+        "Ankara",
+        "İstanbul",
+        "İzmir",
+        "Adana"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Çukur mahallesini kontrol eden aile hangisidir?",
+      "choices": [
+        "Erdenet",
+        "Kent",
+        "Koçovalı",
+        "Karakuzular"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Çukur mahallesinde en katı kural nedir?",
+      "choices": [
+        "Polise ihbar yasağı",
+        "Silah taşımak yasağı",
+        "Mahalle dışına çıkış yasağı",
+        "Uyuşturucuya izin yok"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Çukur hangi televizyon kanalında yayınlandı?",
+      "choices": [
+        "Show TV",
+        "Star TV",
+        "Kanal D",
+        "TRT 1"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Çukur'u hangi yapım şirketi üretti?",
+      "choices": [
+        "Pana Film",
+        "Ay Yapım",
+        "Plato Film",
+        "Med Yapım"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dizinin başında Yamaç'ın Çukur'a dönmesine yol açan olay nedir?",
+      "choices": [
+        "Babasının hastalanması",
+        "Evinin yanması",
+        "Ağabeyi Kahraman'ın öldürülmesi",
+        "Mahallenin satılması"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Yamaç, Çukur'a dönmeden önce ne yapmaktadır?",
+      "choices": [
+        "Avukatlık",
+        "Polislik",
+        "Doktorluk",
+        "Müzisyenlik"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Koçovalı ailesinin babası İdris'i kim oynar?",
+      "choices": [
+        "Ercan Kesal",
+        "Salih Kalyon",
+        "Nejat İşler",
+        "Mustafa Avkıran"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Sultan Koçovalı rolünü hangi oyuncu üstlenir?",
+      "choices": [
+        "Şenay Gürler",
+        "Perihan Savaş",
+        "Nur Sürer",
+        "Dilan Çiçek Deniz"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Yamaç'ın ilk sezondaki eşi Sena'yı kim canlandırır?",
+      "choices": [
+        "Damla Sönmez",
+        "Perihan Savaş",
+        "Dilan Çiçek Deniz",
+        "Şenay Gürler"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Efsun Kent karakterini hangi oyuncu oynar?",
+      "choices": [
+        "Dilan Çiçek Deniz",
+        "Nur Sürer",
+        "Şenay Gürler",
+        "Damla Sönmez"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Birinci sezonun ana düşmanı olan çete hangisidir?",
+      "choices": [
+        "Karakuzular",
+        "Erdenet'ler",
+        "Kent'ler",
+        "Vartolular"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Üçüncü sezonda Koçovalıların karşısına çıkan güçlü ailenin soyadı nedir?",
+      "choices": [
+        "Kent",
+        "Erdenet",
+        "Tansoy",
+        "Kurtuluş"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Baykal Kent'in kızı olan ve zamanla Yamaç'a aşık olan karakter kimdir?",
+      "choices": [
+        "Sena Koçovalı",
+        "Fadik Kurtuluş",
+        "Efsun Kent",
+        "Meliha Sancaklı"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Baykal Kent'in oğulları hangi iki karakterdir?",
+      "choices": [
+        "Cumali ve Selim",
+        "Çeto ve Mahsun",
+        "Arık Böke ve Kulkan",
+        "Nazım ve Emrah"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Çağatay Erdenet rolünde hangi oyuncu yer alır?",
+      "choices": [
+        "Nejat İşler",
+        "Mustafa Avkıran",
+        "Ercan Kesal",
+        "Burak Sergen"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Cengiz Erdenet'i hangi oyuncu canlandırır?",
+      "choices": [
+        "Nejat İşler",
+        "Mustafa Avkıran",
+        "Burak Sergen",
+        "Salih Kalyon"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Baykal Kent rolündeki oyuncu kimdir?",
+      "choices": [
+        "Ercan Kesal",
+        "Mustafa Avkıran",
+        "Burak Sergen",
+        "Ahmet Tansu Taşanlar"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Selim Koçovalı karakterini hangi oyuncu oynar?",
+      "choices": [
+        "Necip Memili",
+        "Rıza Kocaoğlu",
+        "Alperen Duymaz",
+        "Öner Erkan"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Çukur'da Aliço karakterini kim canlandırır?",
+      "choices": [
+        "Rıza Kocaoğlu",
+        "Öner Erkan",
+        "Erkan Kolçak Köstendil",
+        "Erkan Avcı"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Vartolu Saadettin rolündeki oyuncu kimdir?",
+      "choices": [
+        "Erkan Avcı",
+        "Erkan Kolçak Köstendil",
+        "Berkay Ateş",
+        "Necip Memili"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Cumali Koçovalı karakterini hangi oyuncu oynar?",
+      "choices": [
+        "Öner Erkan",
+        "Berkay Ateş",
+        "Necip Memili",
+        "Alperen Duymaz"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Çukur'da Mahsun karakterini kim canlandırır?",
+      "choices": [
+        "Erkan Avcı",
+        "Necip Memili",
+        "Alperen Duymaz",
+        "Berkay Ateş"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Emrah Kent karakterini hangi oyuncu canlandırır?",
+      "choices": [
+        "Alperen Duymaz",
+        "Ahmet Tansu Taşanlar",
+        "Berkay Ateş",
+        "Necip Memili"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Koçovalı kardeşlerden hangisi uzun yıllar hapis yattıktan sonra ikinci sezonda aileye döner?",
+      "choices": [
+        "Selim",
+        "Cumali",
+        "Kahraman",
+        "Mahsun"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Yamaç Koçovalı'nın babasının adı nedir?",
+      "choices": [
+        "Kahraman",
+        "Cumali",
+        "İdris",
+        "Selim"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Yamaç'ın annesinin adı nedir?",
+      "choices": [
+        "Meliha",
+        "Fadik",
+        "Sena",
+        "Sultan"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Çukur'un adı neyi ifade eder?",
+      "choices": [
+        "Dizideki mahallenin adı",
+        "Başrol karakterin lakabı",
+        "Bir gece kulübü",
+        "Bir hapishane"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Karakuzular çetesinin liderlerinden biri olan karakter kimdir?",
+      "choices": [
+        "Cengiz Erdenet",
+        "Yücel Tansoy",
+        "Baykal Kent",
+        "Aliço"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Çukur kaç sezon sürdü?",
+      "choices": [
+        "3",
+        "5",
+        "4",
+        "6"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Çukur toplam kaç bölüm sürdü?",
+      "choices": [
+        "100",
+        "112",
+        "150",
+        "131"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Çukur hangi yıl yayına başladı?",
+      "choices": [
+        "2017",
+        "2015",
+        "2016",
+        "2018"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Çukur'un yönetmenliğini büyük oranda hangi isim yapmıştır?",
+      "choices": [
+        "Serdar Akar",
+        "Sinan Öztürk",
+        "Hilal Saral",
+        "Uluç Bayraktar"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Çukur'un senaristlerinden biri kimdir?",
+      "choices": [
+        "Emrah Serbes",
+        "Kerem Deren",
+        "Gökhan Horzum",
+        "Raci Şaşmaz"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Çukur'un jenerik müziği 'Çukur Jenerik' kime aittir?",
+      "choices": [
+        "Gökhan Kırdar",
+        "Cem Kısmet",
+        "Fahir Atakoğlu",
+        "Toygar Işıklı"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Çukur'un çekimleri ağırlıklı olarak İstanbul'un hangi semtinde yapıldı?",
+      "choices": [
+        "Balat",
+        "Beşiktaş",
+        "Kadıköy",
+        "Üsküdar"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Çukur'un ilk sezonunun ilk bölümlerinde hangi şehirde çekim yapılmıştır?",
+      "choices": [
+        "Berlin",
+        "Paris",
+        "Londra",
+        "Roma"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Çukur, 2018'de hangi ödülü kazandı?",
+      "choices": [
+        "Altın Portakal En İyi Dizi",
+        "Antalya Televizyon Ödülü",
+        "Altın Kelebek En İyi Dizi",
+        "Yılın Dizisi Bafta"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dördüncü sezon sonunda Yamaç kiminle evlenir ve bir kızı olur?",
+      "choices": [
+        "Sena",
+        "Nehir",
+        "Yasmin",
+        "Efsun"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Yamaç, Koçovalı kardeşler arasında kaçıncıdır?",
+      "choices": [
+        "En küçük oğul",
+        "En büyük oğul",
+        "Ortanca oğul",
+        "Tek oğul"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ercüment Çözer rolüyle tanınan Nejat İşler, Çukur'da hangi karakteri oynar?",
+      "choices": [
+        "Cengiz Erdenet",
+        "Çağatay Erdenet",
+        "Baykal Kent",
+        "İdris Koçovalı"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays Yamaç Koçovalı in Çukur?",
+      "choices": [
+        "Barış Arduç",
+        "Alperen Duymaz",
+        "Aras Bulut İynemli",
+        "Berkay Ateş"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which city is Çukur set?",
+      "choices": [
+        "Ankara",
+        "İzmir",
+        "Adana",
+        "İstanbul"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which family controls the Çukur neighborhood?",
+      "choices": [
+        "Koçovalı",
+        "Erdenet",
+        "Kent",
+        "Karakuzular"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the strictest rule in the Çukur neighborhood?",
+      "choices": [
+        "No talking to the police",
+        "No drugs allowed",
+        "No carrying guns",
+        "No leaving the neighborhood"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "On which channel did Çukur air?",
+      "choices": [
+        "Star TV",
+        "Kanal D",
+        "Show TV",
+        "TRT 1"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which company produced Çukur?",
+      "choices": [
+        "Pana Film",
+        "Plato Film",
+        "Med Yapım",
+        "Ay Yapım"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What event forces Yamaç to return to Çukur at the start of the series?",
+      "choices": [
+        "His brother Kahraman's assassination",
+        "His father falling ill",
+        "His home burning down",
+        "The neighborhood being sold"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What was Yamaç doing before returning to Çukur?",
+      "choices": [
+        "Practicing law",
+        "Pursuing music",
+        "Working as a police officer",
+        "Studying medicine"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays the Koçovalı patriarch İdris?",
+      "choices": [
+        "Salih Kalyon",
+        "Nejat İşler",
+        "Ercan Kesal",
+        "Mustafa Avkıran"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actress plays Sultan Koçovalı?",
+      "choices": [
+        "Şenay Gürler",
+        "Nur Sürer",
+        "Dilan Çiçek Deniz",
+        "Perihan Savaş"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays Yamaç's wife Sena in the first season?",
+      "choices": [
+        "Dilan Çiçek Deniz",
+        "Damla Sönmez",
+        "Perihan Savaş",
+        "Şenay Gürler"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actress plays Efsun Kent?",
+      "choices": [
+        "Dilan Çiçek Deniz",
+        "Damla Sönmez",
+        "Nur Sürer",
+        "Şenay Gürler"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which gang is the main enemy in the first season?",
+      "choices": [
+        "Erdenet'ler",
+        "Kent'ler",
+        "Karakuzular",
+        "Vartolular"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which powerful family opposes the Koçovalıs in the third season?",
+      "choices": [
+        "Kent",
+        "Tansoy",
+        "Kurtuluş",
+        "Erdenet"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which daughter of Baykal Kent falls in love with Yamaç?",
+      "choices": [
+        "Efsun Kent",
+        "Sena Koçovalı",
+        "Fadik Kurtuluş",
+        "Meliha Sancaklı"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which two characters are Baykal Kent's sons?",
+      "choices": [
+        "Cumali and Selim",
+        "Nazım and Emrah",
+        "Çeto and Mahsun",
+        "Arık Böke and Kulkan"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Çağatay Erdenet?",
+      "choices": [
+        "Mustafa Avkıran",
+        "Ercan Kesal",
+        "Nejat İşler",
+        "Burak Sergen"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Cengiz Erdenet?",
+      "choices": [
+        "Nejat İşler",
+        "Burak Sergen",
+        "Salih Kalyon",
+        "Mustafa Avkıran"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Baykal Kent?",
+      "choices": [
+        "Burak Sergen",
+        "Ercan Kesal",
+        "Mustafa Avkıran",
+        "Ahmet Tansu Taşanlar"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Selim Koçovalı?",
+      "choices": [
+        "Necip Memili",
+        "Öner Erkan",
+        "Rıza Kocaoğlu",
+        "Alperen Duymaz"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays Aliço in Çukur?",
+      "choices": [
+        "Öner Erkan",
+        "Erkan Kolçak Köstendil",
+        "Rıza Kocaoğlu",
+        "Erkan Avcı"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays Vartolu Saadettin?",
+      "choices": [
+        "Erkan Avcı",
+        "Berkay Ateş",
+        "Necip Memili",
+        "Erkan Kolçak Köstendil"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Cumali Koçovalı?",
+      "choices": [
+        "Necip Memili",
+        "Öner Erkan",
+        "Berkay Ateş",
+        "Alperen Duymaz"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays Mahsun in Çukur?",
+      "choices": [
+        "Erkan Avcı",
+        "Berkay Ateş",
+        "Necip Memili",
+        "Alperen Duymaz"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Emrah Kent?",
+      "choices": [
+        "Ahmet Tansu Taşanlar",
+        "Berkay Ateş",
+        "Alperen Duymaz",
+        "Necip Memili"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which Koçovalı brother returns after many years in prison in the second season?",
+      "choices": [
+        "Selim",
+        "Kahraman",
+        "Mahsun",
+        "Cumali"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of Yamaç Koçovalı's father?",
+      "choices": [
+        "İdris",
+        "Kahraman",
+        "Cumali",
+        "Selim"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of Yamaç's mother?",
+      "choices": [
+        "Meliha",
+        "Sultan",
+        "Fadik",
+        "Sena"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What does the title Çukur refer to?",
+      "choices": [
+        "The nickname of the lead character",
+        "A nightclub",
+        "The name of the neighborhood where the story takes place",
+        "A prison"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which character is one of the leaders of the Karakuzular gang?",
+      "choices": [
+        "Cengiz Erdenet",
+        "Baykal Kent",
+        "Aliço",
+        "Yücel Tansoy"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many seasons does Çukur have?",
+      "choices": [
+        "4",
+        "3",
+        "5",
+        "6"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many episodes does Çukur have in total?",
+      "choices": [
+        "100",
+        "131",
+        "112",
+        "150"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which year did Çukur premiere?",
+      "choices": [
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who directed most of Çukur?",
+      "choices": [
+        "Serdar Akar",
+        "Hilal Saral",
+        "Uluç Bayraktar",
+        "Sinan Öztürk"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who is one of Çukur's main screenwriters?",
+      "choices": [
+        "Gökhan Horzum",
+        "Emrah Serbes",
+        "Kerem Deren",
+        "Raci Şaşmaz"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who composed the theme 'Çukur Jenerik'?",
+      "choices": [
+        "Gökhan Kırdar",
+        "Toygar Işıklı",
+        "Cem Kısmet",
+        "Fahir Atakoğlu"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which Istanbul district was Çukur mostly filmed?",
+      "choices": [
+        "Beşiktaş",
+        "Kadıköy",
+        "Balat",
+        "Üsküdar"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which foreign city were the first episodes of season one partly filmed?",
+      "choices": [
+        "Berlin",
+        "London",
+        "Rome",
+        "Paris"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which award did Çukur win in 2018?",
+      "choices": [
+        "Golden Butterfly Best Series",
+        "Golden Orange Best Series",
+        "Antalya Television Award",
+        "BAFTA Best Series"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "At the end of the final season Yamaç marries whom and has a daughter named Masal?",
+      "choices": [
+        "Sena",
+        "Efsun",
+        "Nehir",
+        "Yasmin"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which place does Yamaç hold among the Koçovalı sons?",
+      "choices": [
+        "The eldest son",
+        "The middle son",
+        "The youngest son",
+        "The only son"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Nejat İşler, known as Ercüment Çözer in Behzat Ç., plays which Çukur character?",
+      "choices": [
+        "Cengiz Erdenet",
+        "Baykal Kent",
+        "İdris Koçovalı",
+        "Çağatay Erdenet"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    }
+  ]
+}
