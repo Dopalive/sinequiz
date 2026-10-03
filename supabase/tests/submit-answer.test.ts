@@ -75,4 +75,50 @@ describe("submit-answer", () => {
     expect(r.status).toBe(400);
     expect(r.body.error).toBe("bad_request");
   });
+
+  it("rejects a missing chosen_index", async () => {
+    const { token } = await newUser();
+    const s = await start(token);
+    const r = await callFn<ApiError>("submit-answer", { session_id: s.session_id, question_id: s.questions[0]!.id }, token);
+    expect(r.status).toBe(400);
+    expect(r.body.error).toBe("bad_request");
+  });
+
+  it("rejects a JSON null body", async () => {
+    const { token } = await newUser();
+    const r = await callFn<ApiError>("submit-answer", null, token);
+    expect(r.status).toBe(400);
+    expect(r.body.error).toBe("bad_request");
+  });
+
+  it("stores the joker used on the question with the answer", async () => {
+    const { token } = await newUser();
+    const s = await start(token);
+    const q = s.questions[0]!;
+    const { error } = await adminClient().from("session_jokers").insert({ session_id: s.session_id, question_id: q.id, kind: "fifty_fifty" });
+    expect(error).toBeNull();
+    const r = await callFn<SubmitAnswerResponse>("submit-answer", { session_id: s.session_id, question_id: q.id, chosen_index: 0 }, token);
+    expect(r.status).toBe(200);
+    const { data } = await adminClient().from("answers").select("joker_used").eq("session_id", s.session_id).eq("question_id", q.id).single();
+    expect(data!.joker_used).toBe("fifty_fifty");
+  });
+
+  it("pays exactly once under concurrent identical submits", async () => {
+    const { token, userId } = await newUser();
+    const s = await start(token);
+    const q = s.questions[0]!;
+    const ci = await correctIndex(q.id);
+    const award = q.difficulty === 3 ? 15 : 10;
+    const body = { session_id: s.session_id, question_id: q.id, chosen_index: ci };
+    const rs = await Promise.all([1, 2, 3, 4].map(() => callFn<SubmitAnswerResponse>("submit-answer", body, token)));
+    for (const r of rs) {
+      expect(r.status).toBe(200);
+      expect(r.body.is_correct).toBe(true);
+    }
+    expect(rs.reduce((n, r) => n + r.body.coins_earned, 0)).toBe(award);
+    const { data } = await adminClient().from("coin_ledger").select("id")
+      .eq("user_id", userId).eq("reason", "correct_answer").eq("ref_id", q.id);
+    expect(data).toHaveLength(1);
+    expect(await balance(userId)).toBe(100 + award);
+  });
 });

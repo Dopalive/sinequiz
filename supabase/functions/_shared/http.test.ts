@@ -1,5 +1,5 @@
 import { assertEquals } from "jsr:@std/assert@1";
-import { AppError, handle, json } from "./http.ts";
+import { AppError, handle, json, readJson } from "./http.ts";
 
 Deno.test("json() sets status and content-type", async () => {
   const res = json({ ok: true }, 201);
@@ -27,4 +27,22 @@ Deno.test("handle() answers OPTIONS preflight", async () => {
   const res = await h(new Request("http://x", { method: "OPTIONS" }));
   assertEquals(res.status, 204);
   assertEquals(res.headers.get("access-control-allow-origin"), "*");
+});
+
+Deno.test("readJson() rejects a JSON null body as bad_request", async () => {
+  const req = new Request("http://x", { method: "POST", body: "null" });
+  const err = await readJson(req).then(() => null, (e) => e);
+  assertEquals(err instanceof AppError, true);
+  assertEquals((err as AppError).code, "bad_request");
+});
+
+Deno.test("readJson() rejects non-object JSON (array, string, number) as bad_request", async () => {
+  for (const body of ["[1,2]", "\"hi\"", "42", "true"]) {
+    const req = new Request("http://x", { method: "POST", body });
+    const err = await readJson(req).then(() => null, (e) => e);
+    assertEquals(err instanceof AppError, true, `body ${body}`);
+    assertEquals((err as AppError).code, "bad_request", `body ${body}`);
+  }
+  const ok = await readJson<{ a: number }>(new Request("http://x", { method: "POST", body: "{\"a\":1}" }));
+  assertEquals(ok, { a: 1 });
 });

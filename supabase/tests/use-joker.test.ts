@@ -86,4 +86,27 @@ describe("use-joker", () => {
     const r = await callFn<ApiError>("use-joker", { session_id: s.session_id, question_id: s.questions[0]!.id, kind: "wallhack" }, token);
     expect(r.status).toBe(400);
   });
+
+  it("rejects an invalid session_id uuid", async () => {
+    const { token } = await newUser();
+    const s = await start(token);
+    const r = await callFn<ApiError>("use-joker", { session_id: "not-a-uuid", question_id: s.questions[0]!.id, kind: "extra_time" }, token);
+    expect(r.status).toBe(400);
+    expect(r.body.error).toBe("bad_request");
+  });
+
+  it("never overspends under concurrent jokers", async () => {
+    const { token, userId } = await newUser();
+    const s = await start(token);
+    const rs = await Promise.all(s.questions.slice(0, 3).map((q) =>
+      callFn<UseJokerResponse | ApiError>("use-joker", { session_id: s.session_id, question_id: q.id, kind: "skip" }, token)));
+    expect(rs.filter((r) => r.status === 200)).toHaveLength(2);
+    const failed = rs.filter((r) => r.status !== 200);
+    expect(failed).toHaveLength(1);
+    expect(failed[0]!.status).toBe(402);
+    expect((failed[0]!.body as ApiError).error).toBe("insufficient_coins");
+    expect(await balance(userId)).toBe(20);
+    const { data } = await adminClient().from("session_jokers").select("question_id").eq("session_id", s.session_id);
+    expect(data).toHaveLength(2);
+  });
 });

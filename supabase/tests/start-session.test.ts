@@ -71,4 +71,25 @@ describe("start-session", () => {
     const { data } = await admin.from("quiz_sessions").select("status").eq("id", stale!.id).single();
     expect(data!.status).toBe("abandoned");
   });
+
+  it("rejects a malformed title_id", async () => {
+    const { token } = await newUser();
+    const r = await callFn<ApiError>("start-session", { title_id: "not-a-uuid" }, token);
+    expect(r.status).toBe(400);
+    expect(r.body.error).toBe("bad_request");
+  });
+
+  it("rejects a non-integer season", async () => {
+    const { token } = await newUser();
+    const r = await callFn<ApiError>("start-session", { title_id: SEED.titleId, season: "abc" }, token);
+    expect(r.status).toBe(400);
+    expect(r.body.error).toBe("bad_request");
+  });
+
+  it("rejects a JSON null body", async () => {
+    const { token } = await newUser();
+    const r = await callFn<ApiError>("start-session", null, token);
+    expect(r.status).toBe(400);
+    expect(r.body.error).toBe("bad_request");
+  });
 });

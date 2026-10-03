@@ -72,4 +72,56 @@ describe("finish-session", () => {
     const r = await callFn<ApiError>("finish-session", { session_id: s.session_id }, b.token);
     expect(r.status).toBe(404);
   });
+
+  it("pays the bonus exactly once under concurrent finishes", async () => {
+    const { token, userId } = await newUser();
+    const s = await start(token);
+    const earned = await answerAll(token, s, true);
+    const rs = await Promise.all([1, 2, 3, 4].map(() =>
+      callFn<FinishSessionResponse>("finish-session", { session_id: s.session_id }, token)));
+    for (const r of rs) {
+      expect(r.status).toBe(200);
+      expect(r.body.score).toBe(10);
+      expect(r.body.total).toBe(10);
+    }
+    expect(rs.reduce((n, r) => n + r.body.coins_earned, 0)).toBe(70);
+    const { data } = await adminClient().from("coin_ledger").select("id").eq("reason", "session_bonus").eq("ref_id", s.session_id);
+    expect(data).toHaveLength(1);
+    expect(await balance(userId)).toBe(100 + earned + 70);
+    expect(Math.max(...rs.map((r) => r.body.coin_balance))).toBe(100 + earned + 70);
+  });
+
+  it("refuses to finish an abandoned session", async () => {
+    const { token } = await newUser();
+    const s = await start(token);
+    const { error } = await adminClient().from("quiz_sessions").update({ status: "abandoned" }).eq("id", s.session_id);
+    expect(error).toBeNull();
+    const r = await callFn<ApiError>("finish-session", { session_id: s.session_id }, token);
+    expect(r.status).toBe(409);
+    expect(r.body.error).toBe("session_finished");
+  });
+
+  it("stays consistent when an answer races the finish", async () => {
+    const { token, userId } = await newUser();
+    const s = await start(token);
+    const q = s.questions[0]!;
+    const { data: qrow } = await adminClient().from("questions").select("correct_index").eq("id", q.id).single();
+    const [fin, sub] = await Promise.all([
+      callFn<FinishSessionResponse>("finish-session", { session_id: s.session_id }, token),
+      callFn<{ coins_earned?: number; error?: string }>("submit-answer", { session_id: s.session_id, question_id: q.id, chosen_index: qrow!.correct_index }, token),
+    ]);
+    expect(fin.status).toBe(200);
+    expect([200, 409]).toContain(sub.status);
+    if (sub.status === 409) expect(sub.body.error).toBe("session_finished");
+    const admin = adminClient();
+    const { data: session } = await admin.from("quiz_sessions").select("status, score").eq("id", s.session_id).single();
+    expect(session!.status).toBe("finished");
+    const { data: answers } = await admin.from("answers").select("is_correct").eq("session_id", s.session_id);
+    expect(answers).toHaveLength(10);
+    expect(session!.score).toBe(answers!.filter((a) => a.is_correct).length);
+    expect(fin.body.score).toBe(session!.score);
+    const { data: bonus } = await admin.from("coin_ledger").select("id").eq("reason", "session_bonus").eq("ref_id", s.session_id);
+    expect(bonus).toHaveLength(1);
+    expect(await balance(userId)).toBe(100 + (sub.status === 200 ? sub.body.coins_earned! : 0) + fin.body.coins_earned);
+  });
 });
