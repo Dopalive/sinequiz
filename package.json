@@ -9,7 +9,7 @@
     "supabase": "supabase",
     "sync:shared": "node scripts/sync-shared.mjs",
     "test:integration": "pnpm --filter @sinequiz/supabase-tests test",
-    "test:deno": "cd supabase/functions && deno test",
+    "test:deno": "cd supabase/functions && deno check */index.ts _shared/*.ts && deno test",
     "test:all": "pnpm test && pnpm typecheck && pnpm test:deno"
   },
   "devDependencies": {

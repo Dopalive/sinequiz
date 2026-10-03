@@ -178,7 +178,8 @@ enable_signup = true
 # Allow/disallow anonymous sign-ins to your project.
 enable_anonymous_sign_ins = true
 # Allow/disallow testing manual linking of accounts
-enable_manual_linking = false
+# Needed for anonymous -> Apple/Google linkIdentity; must also be enabled on the hosted project.
+enable_manual_linking = true
 # Passwords shorter than this value will be rejected as weak. Minimum 6, recommended 8 or more.
 minimum_password_length = 6
 # Passwords that do not meet the following requirements will be rejected as weak. Supported values
@@ -201,6 +202,7 @@ email_sent = 2
 # Number of SMS messages that can be sent per hour. Requires auth.sms to be enabled.
 sms_sent = 30
 # Number of anonymous sign-ins that can be made per hour per IP address. Requires enable_anonymous_sign_ins = true.
+# LOCAL ONLY: raised for the integration suite. Hosted default is 30/h/IP — do not config push this value.
 anonymous_users = 1000
 # Number of sessions that can be refreshed in a 5 minute interval per IP address.
 token_refresh = 150

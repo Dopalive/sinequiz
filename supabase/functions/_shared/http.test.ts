@@ -17,7 +17,16 @@ Deno.test("handle() maps AppError to its status and body", async () => {
 
 Deno.test("handle() maps unknown errors to 500 internal", async () => {
   const h = handle(async () => { throw new Error("boom"); });
-  const res = await h(new Request("http://x", { method: "POST" }));
+  const logged: unknown[] = [];
+  const original = console.error;
+  console.error = (...args: unknown[]) => { logged.push(args[0]); };
+  let res: Response;
+  try {
+    res = await h(new Request("http://x", { method: "POST" }));
+  } finally {
+    console.error = original;
+  }
+  assertEquals((logged[0] as Error).message, "boom");
   assertEquals(res.status, 500);
   assertEquals((await res.json()).error, "internal");
 });
