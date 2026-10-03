@@ -100,3 +100,9 @@ The service role key bypasses RLS; never commit it or put it in the app.
   and only for the titles being loaded.
 - Questions with other `source_ref` prefixes (for example pipeline output) are
   left untouched.
+
+## Testlerle ilişkisi
+
+`supabase/tests` entegrasyon testleri `supabase/seed.sql`'in saf halini varsayar (Breaking Bad için 30 placeholder soru).
+`content:load --retire-seed` çalıştırılmış bir lokal DB'de bu testler bozulur; testten önce `pnpm supabase db reset`
+yap, oyun için tekrar `pnpm content:load --retire-seed` çalıştır.
