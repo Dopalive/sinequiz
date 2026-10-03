@@ -65,17 +65,24 @@ end $$;
 
 -- Charges p_cost and records the joker. Returns the question's correct_index so the Edge Function can
 -- pick fifty_fifty removals; the Edge Function never sends it to the client.
+-- Idempotent per kind: if this question already has a joker of the SAME kind (a client retry), nothing is
+-- charged and the current balance is returned with replayed = true. A different kind is joker_already_used.
 create function use_joker(
   p_user_id uuid, p_session_id uuid, p_question_id uuid,
   p_kind text,                  -- validated in TS against JOKER_KINDS
   p_cost integer                -- jokerCost(kind), positive
-) returns table (coin_balance integer, correct_index smallint)
+) returns table (coin_balance integer, correct_index smallint, replayed boolean)
 language plpgsql security invoker set search_path = public as $$
 #variable_conflict use_column
 declare
   v_session quiz_sessions%rowtype;
   v_balance integer;
+  v_existing_kind text;
 begin
+  if p_cost is null or p_cost <= 0 then
+    raise exception using message = 'bad_request', errcode = 'P0001';
+  end if;
+
   select * into v_session from quiz_sessions s
    where s.id = p_session_id and s.user_id = p_user_id
    for update;
@@ -88,11 +95,21 @@ begin
   if not (p_question_id = any(v_session.question_ids)) then
     raise exception using message = 'question_not_in_session', errcode = 'P0001';
   end if;
+  -- Joker check before the answer check: a replayed skip already has its answer row.
+  select j.kind into v_existing_kind from session_jokers j
+   where j.session_id = p_session_id and j.question_id = p_question_id;
+  if found then
+    if v_existing_kind = p_kind then
+      return query select
+        (select p.coin_balance from profiles p where p.id = p_user_id),
+        (select q.correct_index from questions q where q.id = p_question_id),
+        true;
+      return;
+    end if;
+    raise exception using message = 'joker_already_used', errcode = 'P0001';
+  end if;
   if exists (select 1 from answers a where a.session_id = p_session_id and a.question_id = p_question_id) then
     raise exception using message = 'already_answered', errcode = 'P0001';
-  end if;
-  if exists (select 1 from session_jokers j where j.session_id = p_session_id and j.question_id = p_question_id) then
-    raise exception using message = 'joker_already_used', errcode = 'P0001';
   end if;
 
   select p.coin_balance into v_balance from profiles p where p.id = p_user_id for update;
@@ -110,7 +127,8 @@ begin
 
   return query select
     (select p.coin_balance from profiles p where p.id = p_user_id),
-    (select q.correct_index from questions q where q.id = p_question_id);
+    (select q.correct_index from questions q where q.id = p_question_id),
+    false;
 end $$;
 
 -- Closes the session, fills unanswered questions, pays the finish (+ perfect) bonus once.

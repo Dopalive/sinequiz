@@ -26,6 +26,36 @@ describe("use-joker", () => {
     expect(await balance(userId)).toBe(70);
   });
 
+  it("replays fifty_fifty idempotently: same removals, charged once", async () => {
+    const { token, userId } = await newUser();
+    const s = await start(token);
+    const q = s.questions[0]!;
+    const req = { session_id: s.session_id, question_id: q.id, kind: "fifty_fifty" };
+    const r1 = await callFn<UseJokerResponse>("use-joker", req, token);
+    const r2 = await callFn<UseJokerResponse>("use-joker", req, token);
+    expect(r1.status).toBe(200);
+    expect(r2.status).toBe(200);
+    expect(r2.body).toEqual(r1.body);
+    expect(r2.body.coin_balance).toBe(70);
+    expect(await balance(userId)).toBe(70);
+    const { data } = await adminClient().from("coin_ledger").select("id").eq("user_id", userId).eq("reason", "joker_fifty_fifty");
+    expect(data).toHaveLength(1);
+  });
+
+  it("replays extra_time and skip without charging again", async () => {
+    const { token, userId } = await newUser();
+    const s = await start(token);
+    const et = { session_id: s.session_id, question_id: s.questions[0]!.id, kind: "extra_time" };
+    await callFn("use-joker", et, token);
+    const r1 = await callFn<UseJokerResponse>("use-joker", et, token);
+    expect(r1.body).toEqual({ kind: "extra_time", extra_seconds: 10, coin_balance: 80 });
+    const sk = { session_id: s.session_id, question_id: s.questions[1]!.id, kind: "skip" };
+    await callFn("use-joker", sk, token);
+    const r2 = await callFn<UseJokerResponse>("use-joker", sk, token);
+    expect(r2.body).toEqual({ kind: "skip", skipped: true, coin_balance: 40 });
+    expect(await balance(userId)).toBe(40);
+  });
+
   it("extra_time costs 20 and returns 10 seconds", async () => {
     const { token } = await newUser();
     const s = await start(token);
@@ -45,6 +75,18 @@ describe("use-joker", () => {
     const again = await callFn<SubmitAnswerResponse>("submit-answer", { session_id: s.session_id, question_id: q.id, chosen_index: ci }, token);
     expect(again.body.is_correct).toBe(false);
     expect(again.body.coins_earned).toBe(0);
+  });
+
+  it("still refuses a different joker kind on the same question (extra_time then fifty_fifty)", async () => {
+    const { token, userId } = await newUser();
+    const s = await start(token);
+    const q = s.questions[0]!;
+    const first = await callFn("use-joker", { session_id: s.session_id, question_id: q.id, kind: "extra_time" }, token);
+    expect(first.status).toBe(200);
+    const r = await callFn<ApiError>("use-joker", { session_id: s.session_id, question_id: q.id, kind: "fifty_fifty" }, token);
+    expect(r.status).toBe(409);
+    expect(r.body.error).toBe("joker_already_used");
+    expect(await balance(userId)).toBe(80);
   });
 
   it("allows only one joker per question", async () => {
@@ -108,5 +150,7 @@ describe("use-joker", () => {
     expect(await balance(userId)).toBe(20);
     const { data } = await adminClient().from("session_jokers").select("question_id").eq("session_id", s.session_id);
     expect(data).toHaveLength(2);
+    const { data: ledger } = await adminClient().from("coin_ledger").select("id").eq("user_id", userId).eq("reason", "joker_skip");
+    expect(ledger).toHaveLength(2);
   });
 });

@@ -1,6 +1,7 @@
 import { handle, json, readJson, requireUuid, AppError } from "../_shared/http.ts";
 import { adminClient, requireUser } from "../_shared/supabase.ts";
 import { callRpc } from "../_shared/rpc.ts";
+import { fiftyFiftyRemovals } from "../_shared/fiftyFifty.ts";
 import { JOKER_KINDS, jokerCost, type JokerKind } from "../_shared/shared/coins.ts";
 import type { UseJokerRequest, UseJokerResponse } from "../_shared/shared/types.ts";
 
@@ -10,6 +11,8 @@ interface UseJokerRow {
   coin_balance: number;
   /** Used only to pick fifty_fifty removals; never sent to the client. */
   correct_index: number;
+  /** True when this exact joker was already used on the question (client retry); nothing was charged. */
+  replayed: boolean;
 }
 
 Deno.serve(handle(async (req) => {
@@ -30,10 +33,10 @@ Deno.serve(handle(async (req) => {
 
   let res: UseJokerResponse;
   if (kind === "fifty_fifty") {
-    const wrong = [0, 1, 2, 3].filter((i) => i !== correct_index);
-    // Pick two of the three wrong indices at random.
-    wrong.splice(Math.floor(Math.random() * wrong.length), 1);
-    res = { kind, remove_indices: [wrong[0]!, wrong[1]!], coin_balance };
+    // Deterministic per (session, question) so a replay (no second charge) returns the same pair.
+    const secret = Deno.env.get("SUPABASE_SERVICE_ROLE_KEY")!;
+    const remove_indices = await fiftyFiftyRemovals(correct_index, sessionId, questionId, secret);
+    res = { kind, remove_indices, coin_balance };
   } else if (kind === "extra_time") {
     res = { kind, extra_seconds: EXTRA_SECONDS, coin_balance };
   } else {
