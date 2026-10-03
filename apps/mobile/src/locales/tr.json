@@ -1,0 +1,82 @@
+{
+  "app": { "name": "SineQuiz", "tagline": "Dizilerini gerçekten ne kadar iyi biliyorsun?", "heroCta": "Bir yapım seç, kanıtla" },
+  "common": {
+    "loading": "Yükleniyor…",
+    "retry": "Tekrar dene",
+    "back": "Geri",
+    "coins": "coin",
+    "error": "Bir şeyler ters gitti."
+  },
+  "home": {
+    "search": "Yapım ara",
+    "empty": "Senin dilinde henüz yapım yok. Profilden dili değiştir.",
+    "noMatch": "“{{query}}” ile eşleşen yapım yok.",
+    "series": "Dizi",
+    "movie": "Film",
+    "questions": "{{count}} soru",
+    "titles": "Yapımlar",
+    "resume": "Oyununa devam et",
+    "resumeHint": "{{name}} · {{total}} sorudan {{n}}."
+  },
+  "title": {
+    "play": "Oyna",
+    "allSeasons": "Tüm sezonlar",
+    "season": "{{n}}. Sezon",
+    "rules": "10 soru · 4 şık · soru başı 15 sn",
+    "starting": "Başlıyor…"
+  },
+  "quiz": {
+    "question": "Soru {{n}} / {{total}}",
+    "timeUp": "Süre doldu!",
+    "correct": "Doğru!",
+    "wrong": "Yanlış",
+    "skipped": "Pas geçildi",
+    "next": "Sonraki",
+    "finish": "Sonucu gör",
+    "quit": "Çık",
+    "quitConfirm": "Oyundan çıkılsın mı? İlerlemen sunucuda 24 saat saklanır.",
+    "stay": "Kal",
+    "leave": "Çık",
+    "joker": {
+      "fifty_fifty": "50/50",
+      "extra_time": "+10 sn",
+      "skip": "Pas"
+    },
+    "difficulty": { "1": "Kolay", "2": "Orta", "3": "Zor" }
+  },
+  "result": {
+    "title": "Tur bitti",
+    "score": "{{score}} / {{total}} doğru",
+    "perfect": "Kusursuz tur!",
+    "earned": "+{{coins}} coin",
+    "balance": "Bakiye",
+    "again": "Tekrar oyna",
+    "other": "Başka yapım"
+  },
+  "profile": {
+    "title": "Profil",
+    "anonymous": "Misafir oyuncu",
+    "balance": "Coin bakiyesi",
+    "language": "Soru dili",
+    "protect": "Hesabını koru",
+    "protectHint": "Misafir olarak oynuyorsun. Uygulamayı silersen coin'lerin kaybolur. Apple veya Google ile bağlama yakında.",
+    "stats": "İstatistikler",
+    "games": "Oynanan oyun",
+    "correct": "Doğru cevap",
+    "home": "Ana sayfaya dön"
+  },
+  "errors": {
+    "insufficient_coins": "Bu joker için yeterli coin yok.",
+    "session_not_found": "Bu oyun artık yok.",
+    "session_finished": "Bu oyun zaten bitti.",
+    "question_not_in_session": "Bu soru bu oyuna ait değil.",
+    "already_answered": "Bu soruyu zaten cevapladın.",
+    "no_questions": "Bu yapım için senin dilinde henüz yeterli soru yok.",
+    "joker_already_used": "Bu soruda zaten joker kullandın.",
+    "title_not_found": "Yapım bulunamadı.",
+    "unauthorized": "Yeniden giriş için uygulamayı yeniden başlat.",
+    "bad_request": "Geçersiz istek.",
+    "network": "Bağlantı yok. İnternetini kontrol edip tekrar dene.",
+    "internal": "Sunucu hatası. Lütfen tekrar dene."
+  }
+}

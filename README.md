@@ -7,7 +7,8 @@ Dizi/film bilgi yarışması. Spec: `docs/superpowers/specs/2026-10-03-sinequiz-
 - `packages/shared` — saf domain kuralları (coin, soru seçimi, format, API tipleri). Sıfır bağımlılık.
 - `supabase/` — şema (`migrations/`), seed, Edge Functions (`functions/`), entegrasyon testleri (`tests/`).
 - `supabase/functions/_shared/shared/` — `packages/shared/src`'nin kopyası. Elle düzenleme; `pnpm sync:shared` çalıştır.
-- `packages/pipeline` (Plan 2), `apps/mobile` (Plan 3) — henüz yok.
+- `apps/mobile` — Expo (iOS/Android/web) uygulaması; bkz. `apps/mobile/README.md`.
+- `packages/pipeline` (Plan 2) — henüz yok.
 - `titles.json` — v1 yapım listesi ve her yapım için kaynak skill'lerinin argümanları (altyazı release adı, Fandom host/ad).
 - `data/subs/<slug>/`, `data/fandom/<slug>/` — toplanan kaynaklar (şimdilik gitignored; `titles.json`'dan türetilir).
   `scripts/fetch-sources.sh` listedeki her yapım için eksikleri toplar, `scripts/fetch-sources.sh --status` ne var ne yok tablosunu basar.
@@ -47,6 +48,7 @@ pnpm supabase start       # lokal Supabase (ilk seferde imaj indirir)
 pnpm supabase db reset    # migration + seed
 pnpm supabase functions serve   # ayrı terminalde
 pnpm test:integration     # Edge Function + şema testleri
+pnpm --filter @sinequiz/mobile web   # arayüz, http://localhost:8081 (önce apps/mobile/.env)
 ```
 
 ## Kurallar
