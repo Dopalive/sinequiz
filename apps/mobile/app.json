@@ -21,7 +21,11 @@
       "predictiveBackGestureEnabled": false
     },
     "web": { "favicon": "./assets/favicon.png", "bundler": "metro", "output": "single" },
-    "plugins": ["expo-router", "expo-localization"],
+    "plugins": [
+      "expo-router",
+      "expo-localization",
+      ["expo-audio", { "microphonePermission": false, "recordAudioAndroid": false, "enableBackgroundPlayback": false }]
+    ],
     "experiments": { "typedRoutes": true }
   }
 }

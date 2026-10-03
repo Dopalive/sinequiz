@@ -8,6 +8,7 @@
     "@sinequiz/shared": "workspace:*",
     "@supabase/supabase-js": "^2.117.2",
     "expo": "~57.0.26",
+    "expo-audio": "~57.0.5",
     "expo-constants": "~57.0.20",
     "expo-haptics": "~57.0.3",
     "expo-linear-gradient": "~57.0.2",
@@ -39,7 +40,8 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "typecheck": "tsc -p tsconfig.json --noEmit",
-    "lint": "expo lint"
+    "lint": "expo lint",
+    "gen:sfx": "node scripts/gen-sfx.mjs"
   },
   "private": true
 }

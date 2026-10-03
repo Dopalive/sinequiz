@@ -9,6 +9,7 @@ import { EmptyState, Notice } from "@/components/Notice";
 import { PressableScale } from "@/components/PressableScale";
 import { Screen } from "@/components/Screen";
 import { TitleCard } from "@/components/TitleCard";
+import { useAudio } from "@/lib/audio";
 import { useAuth } from "@/lib/auth";
 import { DUR, SPRING } from "@/lib/motion";
 import { loadActiveSession, nextOpenIndex, type ActiveSession } from "@/lib/session";
@@ -19,6 +20,7 @@ export default function Home() {
   const { t } = useTranslation();
   const router = useRouter();
   const { profile, refreshProfile } = useAuth();
+  const { startAmbient } = useAudio();
   const locale = profile?.locale ?? "en";
 
   const [titles, setTitles] = useState<TitleSummary[] | null>(null);
@@ -42,7 +44,9 @@ export default function Home() {
     useCallback(() => {
       void load();
       void refreshProfile();
-    }, [load, refreshProfile]),
+      // Ambient loop: plays on Home (on web it waits for the first tap/click/key anywhere on the page).
+      startAmbient();
+    }, [load, refreshProfile, startAmbient]),
   );
 
   const filtered = useMemo(() => {

@@ -1,6 +1,6 @@
 import type { JokerKind } from "@sinequiz/shared";
 import { JOKER_KINDS, jokerCost } from "@sinequiz/shared";
-import { useLocalSearchParams, useRouter } from "expo-router";
+import { useFocusEffect, useLocalSearchParams, useRouter } from "expo-router";
 import { useCallback, useEffect, useRef, useState } from "react";
 import { ActivityIndicator, StyleSheet, Text, View } from "react-native";
 import Animated, { FadeIn, FadeInDown, FadeInUp, FadeOut, FadeOutUp } from "react-native-reanimated";
@@ -14,6 +14,7 @@ import { PressableScale } from "@/components/PressableScale";
 import { Screen } from "@/components/Screen";
 import { TimerBar } from "@/components/TimerBar";
 import { api, ApiCallError } from "@/lib/api";
+import { useAudio } from "@/lib/audio";
 import { useAuth } from "@/lib/auth";
 import { DUR, SPRING } from "@/lib/motion";
 import { clearActiveSession, loadActiveSession, nextOpenIndex, saveActiveSession, type ActiveSession, type AnsweredQuestion } from "@/lib/session";
@@ -28,6 +29,7 @@ export default function QuizScreen() {
   const router = useRouter();
   const { t } = useTranslation();
   const { profile, setBalance } = useAuth();
+  const { play, stopAmbient } = useAudio();
 
   const [session, setSession] = useState<ActiveSession | null | undefined>(undefined);
   const [index, setIndex] = useState(0);
@@ -41,6 +43,14 @@ export default function QuizScreen() {
   const [confetti, setConfetti] = useState(0);
   const [confirmQuit, setConfirmQuit] = useState(false);
   const submittingRef = useRef(false);
+  const soundedRef = useRef<string | null>(null);
+
+  // The quiz is a clean stage: the ambient loop fades out while it has focus (Home/Result bring it back).
+  useFocusEffect(
+    useCallback(() => {
+      stopAmbient();
+    }, [stopAmbient]),
+  );
 
   // Load the mirrored session; a missing or foreign id sends the user home.
   useEffect(() => {
@@ -57,6 +67,22 @@ export default function QuizScreen() {
 
   const question = session && index < session.questions.length ? session.questions[index] : undefined;
   const result: AnsweredQuestion | undefined = question ? session?.answers[question.id] : undefined;
+
+  // Feedback sound, once per question, whichever path closed it (answer, time-out). Skips and crash
+  // replays (result.skipped) stay silent; the joker sound already covered a skip.
+  useEffect(() => {
+    if (phase !== "feedback" || !question || !result || result.skipped || soundedRef.current === question.id) return;
+    soundedRef.current = question.id;
+    play(result.is_correct ? "correct" : result.chosen_index === null ? "timeup" : "wrong");
+    if (result.coins_earned <= 0) return;
+    const id = setTimeout(() => play("coin"), 240);
+    return () => clearTimeout(id);
+  }, [phase, question, result, play]);
+
+  // Last five seconds: one soft tick per second.
+  useEffect(() => {
+    if (phase === "answering" && question && secondsLeft > 0 && secondsLeft <= 5) play("tick");
+  }, [phase, question, secondsLeft, play]);
 
   const persist = useCallback(async (next: ActiveSession) => {
     setSession(next);
@@ -160,6 +186,7 @@ export default function QuizScreen() {
       const res = await api.useJoker({ session_id: session.session_id, question_id: question.id, kind });
       setBalance(res.coin_balance);
       setJokerUsed(kind);
+      play("joker");
       if (res.kind === "fifty_fifty") setRemoved(res.remove_indices);
       if (res.kind === "extra_time") setSecondsLeft((s) => s + res.extra_seconds);
       if (res.kind === "skip") {

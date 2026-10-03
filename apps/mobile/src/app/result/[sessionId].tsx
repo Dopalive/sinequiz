@@ -1,6 +1,6 @@
 import { LinearGradient } from "expo-linear-gradient";
-import { useLocalSearchParams, useRouter } from "expo-router";
-import { useEffect, useState } from "react";
+import { useFocusEffect, useLocalSearchParams, useRouter } from "expo-router";
+import { useCallback, useEffect, useState } from "react";
 import { StyleSheet, Text, View } from "react-native";
 import Animated, { FadeInDown, FadeInUp, ZoomIn } from "react-native-reanimated";
 import { useTranslation } from "react-i18next";
@@ -8,6 +8,7 @@ import { Button } from "@/components/Button";
 import { CoinBadge } from "@/components/CoinBadge";
 import { Confetti } from "@/components/Confetti";
 import { Screen } from "@/components/Screen";
+import { useAudio } from "@/lib/audio";
 import { SPRING } from "@/lib/motion";
 import { colors, fonts, radius, spacing } from "@/theme";
 
@@ -24,6 +25,7 @@ export default function ResultScreen() {
   const params = useLocalSearchParams<{ sessionId: string; score?: string; total?: string; coins?: string; balance?: string; titleId?: string }>();
   const router = useRouter();
   const { t } = useTranslation();
+  const { play, startAmbient } = useAudio();
 
   const score = num(params.score);
   const total = num(params.total, 10);
@@ -53,6 +55,18 @@ export default function ResultScreen() {
       if (second) clearTimeout(second);
     };
   }, [score, balance, perfect]);
+
+  // Jingle lands with the first confetti burst; the ambient loop fades back in underneath.
+  useEffect(() => {
+    const id = setTimeout(() => play(perfect ? "perfect" : "fanfare"), 180);
+    return () => clearTimeout(id);
+  }, [perfect, play]);
+
+  useFocusEffect(
+    useCallback(() => {
+      startAmbient();
+    }, [startAmbient]),
+  );
 
   const ratio = total > 0 ? score / total : 0;
   const tone = ratio === 1 ? colors.gold : ratio >= 0.6 ? colors.success : ratio >= 0.3 ? colors.accent : colors.danger;

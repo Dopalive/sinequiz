@@ -6,6 +6,7 @@ import { SafeAreaProvider } from "react-native-safe-area-context";
 import Animated, { FadeIn } from "react-native-reanimated";
 import { useTranslation } from "react-i18next";
 import { Notice } from "@/components/Notice";
+import { AudioProvider } from "@/lib/audio";
 import { AuthProvider, useAuth } from "@/lib/auth";
 import { DUR } from "@/lib/motion";
 import { colors, fonts, spacing } from "@/theme";
@@ -15,8 +16,10 @@ export default function RootLayout() {
     <GestureHandlerRootView style={styles.root}>
       <SafeAreaProvider>
         <AuthProvider>
-          <StatusBar style="light" />
-          <Gate />
+          <AudioProvider>
+            <StatusBar style="light" />
+            <Gate />
+          </AudioProvider>
         </AuthProvider>
       </SafeAreaProvider>
     </GestureHandlerRootView>

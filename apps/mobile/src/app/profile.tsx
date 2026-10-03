@@ -8,6 +8,7 @@ import { CoinBadge } from "@/components/CoinBadge";
 import { Notice } from "@/components/Notice";
 import { PressableScale } from "@/components/PressableScale";
 import { Screen } from "@/components/Screen";
+import { useAudio } from "@/lib/audio";
 import { useAuth } from "@/lib/auth";
 import { SUPPORTED_LOCALES, type Locale } from "@/lib/i18n";
 import { SPRING, stagger } from "@/lib/motion";
@@ -20,6 +21,7 @@ export default function ProfileScreen() {
   const router = useRouter();
   const { t } = useTranslation();
   const { profile, setLocale } = useAuth();
+  const { muted, setMuted } = useAudio();
   const [stats, setStats] = useState<{ games: number; correct: number } | null>(null);
   const [error, setError] = useState<unknown>(null);
   const [switching, setSwitching] = useState(false);
@@ -96,6 +98,27 @@ export default function ProfileScreen() {
       </Animated.View>
 
       <Animated.View entering={enter(2)} style={styles.card}>
+        <Text style={styles.sectionTitle}>{t("profile.sound")}</Text>
+        <View style={styles.row}>
+          {([false, true] as const).map((off) => {
+            const selected = muted === off;
+            return (
+              <PressableScale
+                key={off ? "off" : "on"}
+                onPress={() => setMuted(off)}
+                style={[styles.chip, selected && styles.chipSelected]}
+                accessibilityRole="button"
+                accessibilityState={{ selected }}
+                testID={off ? "sound-off" : "sound-on"}
+              >
+                <Text style={[styles.chipText, selected && styles.chipTextSelected]}>{off ? t("profile.soundOff") : t("profile.soundOn")}</Text>
+              </PressableScale>
+            );
+          })}
+        </View>
+      </Animated.View>
+
+      <Animated.View entering={enter(3)} style={styles.card}>
         <Text style={styles.sectionTitle}>{t("profile.stats")}</Text>
         <View style={styles.statsRow}>
           <Stat value={stats?.games} label={t("profile.games")} />
@@ -103,7 +126,7 @@ export default function ProfileScreen() {
         </View>
       </Animated.View>
 
-      <Animated.View entering={enter(3)} style={[styles.card, styles.protect]}>
+      <Animated.View entering={enter(4)} style={[styles.card, styles.protect]}>
         <Text style={styles.sectionTitle}>{t("profile.protect")}</Text>
         <Text style={styles.hint}>{t("profile.protectHint")}</Text>
       </Animated.View>
