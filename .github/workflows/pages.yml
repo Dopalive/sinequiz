@@ -1,0 +1,49 @@
+# Publishes the Expo web export of apps/mobile to GitHub Pages.
+# Backend URL/key come from repository variables (both are public-by-design Supabase client values):
+#   gh variable set EXPO_PUBLIC_SUPABASE_URL      -R Dopalive/sinequiz --body "https://…"
+#   gh variable set EXPO_PUBLIC_SUPABASE_ANON_KEY -R Dopalive/sinequiz --body "eyJ…"
+name: pages
+on:
+  push:
+    branches: [main, plan3-mobile]
+    paths: [apps/mobile/**, packages/shared/**, .github/workflows/pages.yml, pnpm-lock.yaml]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency: { group: pages, cancel-in-progress: true }
+jobs:
+  build:
+    # Skips cleanly until the backend variables exist, so pushes don't produce red runs before deploy is set up.
+    if: vars.EXPO_PUBLIC_SUPABASE_URL != ''
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+        with: { version: 11 }
+      - uses: actions/setup-node@v4
+        with: { node-version: 24, cache: pnpm }
+      - run: pnpm install --frozen-lockfile
+      - name: Export web
+        working-directory: apps/mobile
+        env:
+          EXPO_WEB_BASE_URL: /sinequiz
+          EXPO_PUBLIC_SUPABASE_URL: ${{ vars.EXPO_PUBLIC_SUPABASE_URL }}
+          EXPO_PUBLIC_SUPABASE_ANON_KEY: ${{ vars.EXPO_PUBLIC_SUPABASE_ANON_KEY }}
+        run: |
+          test -n "$EXPO_PUBLIC_SUPABASE_URL" || { echo "EXPO_PUBLIC_SUPABASE_URL variable missing"; exit 1; }
+          npx expo export --platform web
+          cp dist/index.html dist/404.html   # SPA fallback: Pages has no rewrite rules
+          touch dist/.nojekyll
+      - uses: actions/upload-pages-artifact@v3
+        with: { path: apps/mobile/dist }
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
