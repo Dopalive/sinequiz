@@ -1,0 +1,36 @@
+{
+  "$comment": "SineQuiz v1 title list. One entry per title; the per-title arguments are exactly what the two source skills need (.claude/skills/stl-download, .claude/skills/fandom-fetch) so nobody re-discovers them. Run everything with scripts/fetch-sources.sh (see --help). data/ is gitignored: this file is the committed source of truth, data/ is derived from it.",
+  "titles": [
+    {
+      "slug": "fleabag",
+      "kind": "series",
+      "name": "Fleabag",
+      "year": 2016,
+      "seasons": [
+        { "season": 1, "episodes": 6 },
+        { "season": 2, "episodes": 6 }
+      ],
+      "subs": { "release": "Fleabag" },
+      "fandom": { "host": "fleabag", "series": "Fleabag", "note": "small wiki: ~2.3k chars/episode, pages named 'Episode 1.1'; WARN 'no Season N sections' on character pages is expected" }
+    },
+    {
+      "slug": "the-office-us",
+      "kind": "series",
+      "name": "The Office (US)",
+      "year": 2005,
+      "seasons": [
+        { "season": 1, "episodes": 6 }
+      ],
+      "subs": { "release": "The.Office.US", "note": "country tag disambiguates from the UK original" },
+      "fandom": { "host": "theoffice", "series": "The Office", "note": "pass 'The Office', not 'The Office (US)' - the wiki writes it without the suffix" }
+    },
+    {
+      "slug": "parasite",
+      "kind": "movie",
+      "name": "Parasite",
+      "year": 2019,
+      "subs": { "release": "Parasite.2019" },
+      "fandom": { "host": null, "series": "Parasite", "note": "no dedicated fandom wiki (parasite, parasite-film, parasite-2019, parasitemovie all 404). Only shared catalogue wikis exist (movies.fandom.com 'Parasite (2019)', ultimatepopculture, greatestmovies); host=null means fandom is skipped and reported as SKIP, not MISS. Set host to one of those to try it." }
+    }
+  ]
+}
