@@ -19,12 +19,28 @@ export function json(data: unknown, status = 200): Response {
   });
 }
 
+/** Parses the body as a JSON object; anything else (invalid JSON, null, array, scalar) is bad_request. */
 export async function readJson<T>(req: Request): Promise<T> {
+  let value: unknown;
   try {
-    return (await req.json()) as T;
+    value = await req.json();
   } catch {
     throw new AppError("bad_request", "invalid JSON body");
   }
+  if (value === null || typeof value !== "object" || Array.isArray(value)) {
+    throw new AppError("bad_request", "body must be a JSON object");
+  }
+  return value as T;
+}
+
+const UUID_RE = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i;
+
+/** Returns `value` if it is a uuid string; otherwise throws bad_request naming `field`. */
+export function requireUuid(value: unknown, field: string): string {
+  if (typeof value !== "string" || !UUID_RE.test(value)) {
+    throw new AppError("bad_request", `${field} must be a uuid`);
+  }
+  return value;
 }
 
 export function handle(fn: (req: Request) => Promise<Response>): (req: Request) => Promise<Response> {
