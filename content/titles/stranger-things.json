@@ -1,0 +1,1179 @@
+{
+  "slug": "stranger-things",
+  "kind": "series",
+  "release_year": 2016,
+  "tmdb_id": null,
+  "poster_url": null,
+  "translations": {
+    "en": {
+      "name": "Stranger Things",
+      "synopsis": "In 1980s Hawkins, Indiana, a boy vanishes and a girl with psychic powers appears, drawing a group of kids into a conspiracy involving a secret lab and a monstrous parallel dimension."
+    },
+    "tr": {
+      "name": "Stranger Things",
+      "synopsis": "1980'lerin Hawkins kasabasında bir çocuk kaybolur, doğaüstü güçlere sahip bir kız ortaya çıkar; bir grup çocuk gizli bir laboratuvarın ve canavarlarla dolu paralel bir boyutun peşine düşer."
+    }
+  },
+  "episodes": [
+    {
+      "season": 1,
+      "number": 1
+    },
+    {
+      "season": 1,
+      "number": 2
+    },
+    {
+      "season": 1,
+      "number": 3
+    },
+    {
+      "season": 1,
+      "number": 4
+    },
+    {
+      "season": 1,
+      "number": 5
+    },
+    {
+      "season": 1,
+      "number": 6
+    },
+    {
+      "season": 1,
+      "number": 7
+    },
+    {
+      "season": 1,
+      "number": 8
+    }
+  ],
+  "questions": [
+    {
+      "locale": "en",
+      "prompt": "In which town is Stranger Things set?",
+      "choices": [
+        "Castle Rock, Maine",
+        "Twin Peaks, Washington",
+        "Hawkins, Indiana",
+        "Silent Hill, West Virginia"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "season": 1,
+      "episode": 1,
+      "prompt": "Which boy disappears at the beginning of the series?",
+      "choices": [
+        "Will Byers",
+        "Mike Wheeler",
+        "Dustin Henderson",
+        "Lucas Sinclair"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What power does Eleven have?",
+      "choices": [
+        "Invisibility",
+        "Super strength",
+        "Flight",
+        "Telekinesis"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who created Stranger Things?",
+      "choices": [
+        "The Wachowskis",
+        "The Duffer Brothers",
+        "The Coen Brothers",
+        "J.J. Abrams and Damon Lindelof"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which streaming service produced Stranger Things?",
+      "choices": [
+        "Netflix",
+        "Hulu",
+        "HBO Max",
+        "Disney+"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of the alternate dimension in the series?",
+      "choices": [
+        "The Void",
+        "The Hollow",
+        "The Upside Down",
+        "The Mirror World"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of the monster in the first season?",
+      "choices": [
+        "The Mind Flayer",
+        "The Demogorgon",
+        "Vecna",
+        "The Thessalhydra"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Jim Hopper's job in Hawkins?",
+      "choices": [
+        "Doctor",
+        "Teacher",
+        "Mayor",
+        "Chief of police"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Eleven's favorite food?",
+      "choices": [
+        "Pancakes",
+        "Ice cream",
+        "Pizza",
+        "Eggo waffles"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which tabletop game do the boys play?",
+      "choices": [
+        "Monopoly",
+        "Dungeons & Dragons",
+        "Risk",
+        "Clue"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays Eleven?",
+      "choices": [
+        "Millie Bobby Brown",
+        "Sadie Sink",
+        "Finn Wolfhard",
+        "Natalia Dyer"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which decade is the series set?",
+      "choices": [
+        "The 1970s",
+        "The 1990s",
+        "The 1980s",
+        "The 1960s"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actress plays Joyce Byers?",
+      "choices": [
+        "Millie Bobby Brown",
+        "Winona Ryder",
+        "Natalia Dyer",
+        "Sadie Sink"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Jim Hopper?",
+      "choices": [
+        "Joe Keery",
+        "Matthew Modine",
+        "Finn Wolfhard",
+        "David Harbour"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How does Joyce communicate with Will in the Upside Down?",
+      "choices": [
+        "Through a radio",
+        "Through a telephone",
+        "Through Christmas lights",
+        "Through a mirror"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of Mike's older sister?",
+      "choices": [
+        "Nancy",
+        "Max",
+        "Robin",
+        "Joyce"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of Will's older brother?",
+      "choices": [
+        "Steve",
+        "Billy",
+        "Jonathan",
+        "Mike"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What number is tattooed on Eleven's wrist?",
+      "choices": [
+        "011",
+        "001",
+        "008",
+        "111"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Eleven's real first name?",
+      "choices": [
+        "Kali",
+        "Max",
+        "Nancy",
+        "Jane"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What does Eleven call Dr. Brenner?",
+      "choices": [
+        "Daddy",
+        "Papa",
+        "Doctor",
+        "Sir"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which facility held Eleven captive?",
+      "choices": [
+        "Hawkins National Laboratory",
+        "Starcourt Mall",
+        "Hawkins Middle School",
+        "Hawkins Hospital"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which monster controls Will in season 2?",
+      "choices": [
+        "The Demogorgon",
+        "Vecna",
+        "The Mind Flayer",
+        "The Shadow Monster"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which Kate Bush song saves Max in season 4?",
+      "choices": [
+        "Wuthering Heights",
+        "Running Up That Hill",
+        "Cloudbusting",
+        "Babooshka"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who is the main villain of season 4?",
+      "choices": [
+        "The Demogorgon",
+        "Billy Hargrove",
+        "Dr. Brenner",
+        "Vecna"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who leads the Hellfire Club?",
+      "choices": [
+        "Steve Harrington",
+        "Jonathan Byers",
+        "Billy Hargrove",
+        "Eddie Munson"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of the mall at the center of season 3?",
+      "choices": [
+        "Hawkins Mall",
+        "Starcourt Mall",
+        "Scoops Ahoy Plaza",
+        "Palace Mall"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Where do Steve and Robin work in season 3?",
+      "choices": [
+        "Scoops Ahoy",
+        "Family Video",
+        "The Palace Arcade",
+        "Benny's Burgers"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which friend of Nancy's is taken by the Demogorgon?",
+      "choices": [
+        "Robin",
+        "Erica",
+        "Barb",
+        "Karen"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of Dustin's pet from the Upside Down?",
+      "choices": [
+        "Mews",
+        "Dart",
+        "Demo",
+        "Kamikaze"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Joyce's boyfriend in season 2 called?",
+      "choices": [
+        "Jim Hopper",
+        "Murray Bauman",
+        "Scott Clarke",
+        "Bob Newby"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What rule does Mike repeat to Eleven?",
+      "choices": [
+        "Never go alone",
+        "Trust no one",
+        "Friends don't lie",
+        "Always keep going"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who is Max's stepbrother?",
+      "choices": [
+        "Billy Hargrove",
+        "Steve Harrington",
+        "Jonathan Byers",
+        "Eddie Munson"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Where is Hopper secretly held after the events of season 3?",
+      "choices": [
+        "A Soviet submarine",
+        "A hospital in Indiana",
+        "A Russian prison",
+        "A cabin in Montana"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Steve Harrington?",
+      "choices": [
+        "Joe Keery",
+        "Charlie Heaton",
+        "Noah Schnapp",
+        "Gaten Matarazzo"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which number is Eleven's fellow subject Kali?",
+      "choices": [
+        "Five",
+        "Nine",
+        "Ten",
+        "Eight"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Vecna's real name?",
+      "choices": [
+        "Peter Ballard",
+        "Henry Creel",
+        "Martin Brenner",
+        "Eddie Munson"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of Dustin's homemade ham radio?",
+      "choices": [
+        "Cerebro",
+        "Enterprise",
+        "Skynet",
+        "Nexus"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of Lucas's younger sister?",
+      "choices": [
+        "Karen",
+        "Holly",
+        "Erica",
+        "Suzie"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "season": 1,
+      "episode": 1,
+      "prompt": "At which restaurant does Eleven first appear in season 1?",
+      "choices": [
+        "Hawkins Diner",
+        "Benny's Burgers",
+        "Enzo's Pizza",
+        "Melvald's"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which font was used for the Stranger Things logo?",
+      "choices": [
+        "Helvetica",
+        "Times New Roman",
+        "Futura",
+        "ITC Benguiat"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which duo composed the original synth soundtrack?",
+      "choices": [
+        "Vangelis and Jean-Michel Jarre",
+        "Daft Punk",
+        "Trent Reznor and Atticus Ross",
+        "Kyle Dixon and Michael Stein"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Where does Joyce Byers work in season 1?",
+      "choices": [
+        "Hawkins Diner",
+        "Melvald's General Store",
+        "Hawkins Library",
+        "Hawkins Post Office"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who is the girlfriend whom Dustin speaks to over the radio?",
+      "choices": [
+        "Suzie",
+        "Erica",
+        "Robin",
+        "Nancy"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Stranger Things hangi kasabada geçer?",
+      "choices": [
+        "Castle Rock, Maine",
+        "Twin Peaks, Washington",
+        "Hawkins, Indiana",
+        "Silent Hill, Batı Virginia"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "season": 1,
+      "episode": 1,
+      "prompt": "Dizinin başında hangi çocuk kaybolur?",
+      "choices": [
+        "Mike Wheeler",
+        "Will Byers",
+        "Dustin Henderson",
+        "Lucas Sinclair"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Eleven'ın gücü nedir?",
+      "choices": [
+        "Görünmezlik",
+        "Süper güç",
+        "Uçma",
+        "Telekinezi"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Stranger Things'in yaratıcıları kimlerdir?",
+      "choices": [
+        "Wachowski Kardeşler",
+        "Coen Kardeşler",
+        "J.J. Abrams ve Damon Lindelof",
+        "Duffer Kardeşler"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Stranger Things'i hangi yayın platformu üretti?",
+      "choices": [
+        "Hulu",
+        "Netflix",
+        "HBO Max",
+        "Disney+"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dizideki paralel boyutun adı nedir?",
+      "choices": [
+        "Ters Dünya (The Upside Down)",
+        "Boşluk (The Void)",
+        "Çukur (The Hollow)",
+        "Ayna Dünyası"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "İlk sezondaki canavarın adı nedir?",
+      "choices": [
+        "Zihin Yiyen (Mind Flayer)",
+        "Vecna",
+        "Demogorgon",
+        "Thessalhydra"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Jim Hopper'ın Hawkins'teki görevi nedir?",
+      "choices": [
+        "Doktor",
+        "Emniyet müdürü (polis şefi)",
+        "Öğretmen",
+        "Belediye başkanı"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Eleven'ın en sevdiği yiyecek nedir?",
+      "choices": [
+        "Krep",
+        "Dondurma",
+        "Pizza",
+        "Eggo waffle"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Çocuklar hangi masa oyununu oynar?",
+      "choices": [
+        "Monopoly",
+        "Risk",
+        "Dungeons & Dragons",
+        "Cluedo"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Eleven'ı kim canlandırır?",
+      "choices": [
+        "Millie Bobby Brown",
+        "Sadie Sink",
+        "Finn Wolfhard",
+        "Natalia Dyer"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dizi hangi on yılda geçer?",
+      "choices": [
+        "1970'ler",
+        "1990'lar",
+        "1980'ler",
+        "1960'lar"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Joyce Byers'ı hangi oyuncu canlandırır?",
+      "choices": [
+        "Winona Ryder",
+        "Millie Bobby Brown",
+        "Natalia Dyer",
+        "Sadie Sink"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Jim Hopper'ı hangi oyuncu canlandırır?",
+      "choices": [
+        "Joe Keery",
+        "Matthew Modine",
+        "Finn Wolfhard",
+        "David Harbour"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Joyce, Ters Dünya'daki Will ile nasıl iletişim kurar?",
+      "choices": [
+        "Telsizle",
+        "Noel ışıklarıyla",
+        "Telefonla",
+        "Aynayla"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Mike'ın ablasının adı nedir?",
+      "choices": [
+        "Nancy",
+        "Max",
+        "Robin",
+        "Joyce"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Will'in ağabeyinin adı nedir?",
+      "choices": [
+        "Steve",
+        "Billy",
+        "Jonathan",
+        "Mike"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Eleven'ın bileğine dövmeyle yazılmış sayı nedir?",
+      "choices": [
+        "001",
+        "011",
+        "008",
+        "111"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Eleven'ın gerçek adı nedir?",
+      "choices": [
+        "Kali",
+        "Max",
+        "Nancy",
+        "Jane"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Eleven, Dr. Brenner'a ne diye seslenir?",
+      "choices": [
+        "Baba",
+        "Doktor",
+        "Efendim",
+        "Papa"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Eleven'ı hangi tesis tutsak etmişti?",
+      "choices": [
+        "Starcourt Alışveriş Merkezi",
+        "Hawkins Ulusal Laboratuvarı",
+        "Hawkins Ortaokulu",
+        "Hawkins Hastanesi"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "İkinci sezonda Will'i hangi canavar ele geçirir?",
+      "choices": [
+        "Zihin Yiyen (Mind Flayer)",
+        "Demogorgon",
+        "Vecna",
+        "Gölge Canavar"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dördüncü sezonda Max'i hangi Kate Bush şarkısı kurtarır?",
+      "choices": [
+        "Wuthering Heights",
+        "Cloudbusting",
+        "Running Up That Hill",
+        "Babooshka"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dördüncü sezonun ana kötüsü kimdir?",
+      "choices": [
+        "Demogorgon",
+        "Vecna",
+        "Billy Hargrove",
+        "Dr. Brenner"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Hellfire Club'ı kim yönetir?",
+      "choices": [
+        "Steve Harrington",
+        "Jonathan Byers",
+        "Billy Hargrove",
+        "Eddie Munson"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Üçüncü sezonun merkezindeki alışveriş merkezinin adı nedir?",
+      "choices": [
+        "Hawkins Mall",
+        "Scoops Ahoy Plaza",
+        "Starcourt Mall",
+        "Palace Mall"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Steve ile Robin üçüncü sezonda nerede çalışır?",
+      "choices": [
+        "Scoops Ahoy",
+        "Family Video",
+        "The Palace Arcade",
+        "Benny's Burgers"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Nancy'nin hangi arkadaşını Demogorgon kaçırır?",
+      "choices": [
+        "Robin",
+        "Erica",
+        "Barb",
+        "Karen"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dustin'in Ters Dünya'dan getirdiği evcil canlının adı nedir?",
+      "choices": [
+        "Dart",
+        "Mews",
+        "Demo",
+        "Kamikaze"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Joyce'un ikinci sezondaki erkek arkadaşının adı nedir?",
+      "choices": [
+        "Jim Hopper",
+        "Murray Bauman",
+        "Scott Clarke",
+        "Bob Newby"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Mike, Eleven'a hangi kuralı tekrarlar?",
+      "choices": [
+        "Asla yalnız gitme",
+        "Arkadaşlar yalan söylemez",
+        "Kimseye güvenme",
+        "Hep devam et"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Max'in üvey ağabeyi kimdir?",
+      "choices": [
+        "Billy Hargrove",
+        "Steve Harrington",
+        "Jonathan Byers",
+        "Eddie Munson"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Üçüncü sezonun olaylarından sonra Hopper gizlice nerede tutulur?",
+      "choices": [
+        "Bir Sovyet denizaltısında",
+        "Indiana'da bir hastanede",
+        "Bir Rus hapishanesinde",
+        "Montana'da bir kulübede"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Steve Harrington'ı hangi oyuncu canlandırır?",
+      "choices": [
+        "Charlie Heaton",
+        "Joe Keery",
+        "Noah Schnapp",
+        "Gaten Matarazzo"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Eleven'ın deney arkadaşı Kali'nin numarası kaçtır?",
+      "choices": [
+        "Beş",
+        "Dokuz",
+        "On",
+        "Sekiz"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Vecna'nın gerçek adı nedir?",
+      "choices": [
+        "Peter Ballard",
+        "Martin Brenner",
+        "Eddie Munson",
+        "Henry Creel"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dustin'in kendi yaptığı telsizin adı nedir?",
+      "choices": [
+        "Enterprise",
+        "Cerebro",
+        "Skynet",
+        "Nexus"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Lucas'ın küçük kız kardeşinin adı nedir?",
+      "choices": [
+        "Erica",
+        "Karen",
+        "Holly",
+        "Suzie"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "season": 1,
+      "episode": 1,
+      "prompt": "Eleven birinci sezonda ilk kez hangi restoranda görünür?",
+      "choices": [
+        "Hawkins Diner",
+        "Enzo's Pizza",
+        "Benny's Burgers",
+        "Melvald's"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Stranger Things logosunda hangi yazı tipi kullanılmıştır?",
+      "choices": [
+        "Helvetica",
+        "ITC Benguiat",
+        "Times New Roman",
+        "Futura"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Özgün sentezleyici müziklerini hangi ikili besteledi?",
+      "choices": [
+        "Vangelis ve Jean-Michel Jarre",
+        "Daft Punk",
+        "Trent Reznor ve Atticus Ross",
+        "Kyle Dixon ve Michael Stein"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Joyce Byers birinci sezonda nerede çalışır?",
+      "choices": [
+        "Hawkins Diner",
+        "Hawkins Kütüphanesi",
+        "Melvald's General Store",
+        "Hawkins Postanesi"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dustin'in telsizle konuştuğu kız arkadaşı kimdir?",
+      "choices": [
+        "Suzie",
+        "Erica",
+        "Robin",
+        "Nancy"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    }
+  ]
+}

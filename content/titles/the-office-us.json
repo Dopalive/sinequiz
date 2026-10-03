@@ -1,0 +1,1223 @@
+{
+  "slug": "the-office-us",
+  "kind": "series",
+  "release_year": 2005,
+  "tmdb_id": null,
+  "poster_url": null,
+  "translations": {
+    "en": {
+      "name": "The Office (US)",
+      "synopsis": "A mockumentary following the eccentric employees of the Scranton branch of the Dunder Mifflin paper company, led by the clueless but well-meaning regional manager Michael Scott."
+    },
+    "tr": {
+      "name": "The Office (ABD)",
+      "synopsis": "Dunder Mifflin kağıt şirketinin Scranton şubesindeki tuhaf çalışanları ve beceriksiz ama iyi niyetli müdürleri Michael Scott'ı belgesel tarzında anlatan komedi dizisi."
+    }
+  },
+  "episodes": [
+    {
+      "season": 1,
+      "number": 1
+    },
+    {
+      "season": 1,
+      "number": 2
+    },
+    {
+      "season": 1,
+      "number": 3
+    },
+    {
+      "season": 1,
+      "number": 4
+    },
+    {
+      "season": 1,
+      "number": 5
+    },
+    {
+      "season": 1,
+      "number": 6
+    }
+  ],
+  "questions": [
+    {
+      "locale": "en",
+      "prompt": "In which Pennsylvania city is the Dunder Mifflin branch located?",
+      "choices": [
+        "Harrisburg",
+        "Pittsburgh",
+        "Scranton",
+        "Allentown"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Michael Scott's job title?",
+      "choices": [
+        "Regional Manager",
+        "Sales Director",
+        "Vice President",
+        "Branch Owner"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays Michael Scott?",
+      "choices": [
+        "John Krasinski",
+        "Rainn Wilson",
+        "Ed Helms",
+        "Steve Carell"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Dwight Schrute's official title?",
+      "choices": [
+        "Head of Security",
+        "Assistant (to the) Regional Manager",
+        "Warehouse Supervisor",
+        "Sales Director"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What does Dwight grow on his farm?",
+      "choices": [
+        "Beets",
+        "Corn",
+        "Potatoes",
+        "Soybeans"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What famous prank does Jim play on Dwight, involving his stapler?",
+      "choices": [
+        "Hides it in the ceiling",
+        "Glues it to the desk",
+        "Puts it in Jell-O",
+        "Wraps it in tinfoil"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which two characters get married at Niagara Falls, in a celebrated episode?",
+      "choices": [
+        "Dwight and Angela",
+        "Jim and Pam",
+        "Michael and Holly",
+        "Andy and Erin"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Michael Scott's famous catchphrase?",
+      "choices": [
+        "Bears, beets, Battlestar Galactica",
+        "Identity theft is not a joke",
+        "Bazinga",
+        "That's what she said"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What does the mug on Michael's desk say?",
+      "choices": [
+        "Boss of the Year",
+        "Number One Manager",
+        "Dunder Mifflin Champion",
+        "World's Best Boss"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which network originally aired the US version of The Office?",
+      "choices": [
+        "ABC",
+        "NBC",
+        "CBS",
+        "FOX"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "The US Office is adapted from a British series created by which comedian?",
+      "choices": [
+        "Ricky Gervais",
+        "Stephen Merchant",
+        "Steve Coogan",
+        "Sacha Baron Cohen"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who is the receptionist at the start of the series?",
+      "choices": [
+        "Angela Martin",
+        "Kelly Kapoor",
+        "Pam Beesly",
+        "Erin Hannon"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which department does Toby Flenderson work in?",
+      "choices": [
+        "Accounting",
+        "Human Resources",
+        "Quality Assurance",
+        "Customer Service"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What hobby is Stanley Hudson most often seen doing at his desk?",
+      "choices": [
+        "Sudoku",
+        "Playing chess",
+        "Reading novels",
+        "Crossword puzzles"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "season": 1,
+      "episode": 2,
+      "prompt": "In which episode of season 1 does Michael do an impression of Chris Rock?",
+      "choices": [
+        "Basketball",
+        "Hot Girl",
+        "Diversity Day",
+        "Health Care"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "season": 1,
+      "episode": 5,
+      "prompt": "In the season 1 episode 'Basketball', who does the office play against?",
+      "choices": [
+        "The warehouse staff",
+        "A rival paper company",
+        "Corporate employees",
+        "A local high school team"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which Ivy League university did Andy Bernard attend?",
+      "choices": [
+        "Harvard",
+        "Yale",
+        "Cornell",
+        "Princeton"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of Michael's own company that he starts with Pam and Ryan?",
+      "choices": [
+        "The Michael Scott Paper Company",
+        "Scott's Tots",
+        "Scranton Paper Works",
+        "Prince Family Paper"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who does Michael fall in love with after she replaces Toby in HR?",
+      "choices": [
+        "Jan Levinson",
+        "Carol Stills",
+        "Pam Beesly",
+        "Holly Flax"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "To which state does Michael move at the end of his time on the show?",
+      "choices": [
+        "Florida",
+        "Colorado",
+        "California",
+        "Texas"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which company buys Dunder Mifflin during the show?",
+      "choices": [
+        "Sabre",
+        "Staples",
+        "Office Max",
+        "Prince Family Paper"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of the character Michael plays in his own movie 'Threat Level Midnight'?",
+      "choices": [
+        "Michael Scorn",
+        "Mike Spartan",
+        "Michael Scarn",
+        "Agent Scott"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Robert California?",
+      "choices": [
+        "Will Ferrell",
+        "James Spader",
+        "Ed Helms",
+        "Idris Elba"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which comedian plays Deangelo Vickers, Michael's brief successor as manager?",
+      "choices": [
+        "Jack Black",
+        "Adam Sandler",
+        "Ricky Gervais",
+        "Will Ferrell"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Phyllis Vance's husband's business called?",
+      "choices": [
+        "Vance Plumbing",
+        "Vance Paper",
+        "Bob's Appliances",
+        "Vance Refrigeration"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which character is the warehouse foreman who later joins Athlead?",
+      "choices": [
+        "Roy Anderson",
+        "Darryl Philbin",
+        "Creed Bratton",
+        "Nate"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which Dunder Mifflin employee is the temp who becomes a corporate executive and is later arrested?",
+      "choices": [
+        "Ryan Howard",
+        "Andy Bernard",
+        "Gabe Lewis",
+        "Toby Flenderson"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which of Dwight's relatives is Mose?",
+      "choices": [
+        "His brother",
+        "His father",
+        "His cousin",
+        "His uncle"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Where does Michael host the annual Dundies awards in 'The Dundies'?",
+      "choices": [
+        "Applebee's",
+        "Chili's",
+        "Hooters",
+        "TGI Fridays"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In the Prison Mike story, what is the worst thing about prison?",
+      "choices": [
+        "The food",
+        "The warden",
+        "The cold",
+        "The Dementors"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Andy Bernard?",
+      "choices": [
+        "B.J. Novak",
+        "Craig Robinson",
+        "Ed Helms",
+        "John Krasinski"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which cast member also served as a writer and plays Kelly Kapoor?",
+      "choices": [
+        "Mindy Kaling",
+        "Jenna Fischer",
+        "Angela Kinsey",
+        "Ellie Kemper"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which a cappella group did Andy sing with at college?",
+      "choices": [
+        "The Treble Makers",
+        "Pitch Perfect",
+        "Here Comes Treble",
+        "The Nard Dogs"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of Angela's cat that Dwight kills?",
+      "choices": [
+        "Sprinkles",
+        "Bandit",
+        "Garbage",
+        "Princess Lady"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Jan Levinson's candle company called?",
+      "choices": [
+        "Candles by Jan",
+        "Jan's Glow",
+        "Serenity Candles",
+        "Serenity by Jan"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the Dunder Mifflin slogan?",
+      "choices": [
+        "Paper for every need",
+        "Limitless paper in a paperless world",
+        "A cut above the rest",
+        "The paper people"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actress plays Holly Flax?",
+      "choices": [
+        "Amy Ryan",
+        "Kathy Bates",
+        "Rashida Jones",
+        "Mindy Kaling"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actress plays Sabre's CEO Jo Bennett?",
+      "choices": [
+        "Amy Ryan",
+        "Rashida Jones",
+        "Kathy Bates",
+        "Jenna Fischer"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Charles Miner?",
+      "choices": [
+        "Craig Robinson",
+        "Idris Elba",
+        "Will Ferrell",
+        "James Spader"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Darryl Philbin?",
+      "choices": [
+        "Idris Elba",
+        "Ed Helms",
+        "Brian Baumgartner",
+        "Craig Robinson"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actress plays Karen Filippelli, Jim's girlfriend?",
+      "choices": [
+        "Amy Ryan",
+        "Jenna Fischer",
+        "Kathy Bates",
+        "Rashida Jones"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Kevin Malone?",
+      "choices": [
+        "Oscar Nuñez",
+        "Brian Baumgartner",
+        "Creed Bratton",
+        "Craig Robinson"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actress plays Angela Martin?",
+      "choices": [
+        "Angela Kinsey",
+        "Phyllis Smith",
+        "Ellie Kemper",
+        "Jenna Fischer"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which year did The Office (US) premiere?",
+      "choices": [
+        "2003",
+        "2007",
+        "2005",
+        "2004"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many seasons does The Office (US) have?",
+      "choices": [
+        "7",
+        "9",
+        "8",
+        "10"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dunder Mifflin şubesi Pennsylvania'nın hangi şehrindedir?",
+      "choices": [
+        "Harrisburg",
+        "Pittsburgh",
+        "Scranton",
+        "Allentown"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Michael Scott'ın unvanı nedir?",
+      "choices": [
+        "Satış Direktörü",
+        "Bölge Müdürü",
+        "Başkan Yardımcısı",
+        "Şube Sahibi"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Michael Scott'ı kim canlandırır?",
+      "choices": [
+        "John Krasinski",
+        "Rainn Wilson",
+        "Ed Helms",
+        "Steve Carell"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dwight Schrute'un resmî unvanı nedir?",
+      "choices": [
+        "Güvenlik Şefi",
+        "Depo Sorumlusu",
+        "Satış Direktörü",
+        "Bölge Müdürü Yardımcısı (Asistanı)"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dwight çiftliğinde ne yetiştirir?",
+      "choices": [
+        "Mısır",
+        "Pancar",
+        "Patates",
+        "Soya"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Jim, Dwight'a zımbasıyla hangi ünlü şakayı yapar?",
+      "choices": [
+        "Zımbayı jöleye koyar",
+        "Tavana saklar",
+        "Masaya yapıştırır",
+        "Alüminyum folyoya sarar"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ünlü bir bölümde Niagara Şelalesi'nde hangi iki karakter evlenir?",
+      "choices": [
+        "Dwight ve Angela",
+        "Michael ve Holly",
+        "Jim ve Pam",
+        "Andy ve Erin"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Michael Scott'ın meşhur sözü hangisidir?",
+      "choices": [
+        "Ayılar, pancarlar, Battlestar Galactica",
+        "That's what she said",
+        "Kimlik hırsızlığı şaka değildir",
+        "Bazinga"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Michael'ın masasındaki kupada ne yazar?",
+      "choices": [
+        "Boss of the Year",
+        "Number One Manager",
+        "Dunder Mifflin Champion",
+        "World's Best Boss"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "The Office'in ABD versiyonu ilk olarak hangi kanalda yayımlandı?",
+      "choices": [
+        "ABC",
+        "CBS",
+        "NBC",
+        "FOX"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "ABD yapımı The Office, hangi komedyenin yarattığı İngiliz dizisinden uyarlanmıştır?",
+      "choices": [
+        "Ricky Gervais",
+        "Stephen Merchant",
+        "Steve Coogan",
+        "Sacha Baron Cohen"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dizinin başında resepsiyonist kimdir?",
+      "choices": [
+        "Angela Martin",
+        "Kelly Kapoor",
+        "Pam Beesly",
+        "Erin Hannon"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Toby Flenderson hangi departmanda çalışır?",
+      "choices": [
+        "İnsan Kaynakları",
+        "Muhasebe",
+        "Kalite Kontrol",
+        "Müşteri Hizmetleri"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Stanley Hudson masasında en çok hangi uğraşla görülür?",
+      "choices": [
+        "Sudoku yaparken",
+        "Satranç oynarken",
+        "Roman okurken",
+        "Bulmaca çözerken"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "season": 1,
+      "episode": 2,
+      "prompt": "Birinci sezonda Michael hangi bölümde Chris Rock taklidi yapar?",
+      "choices": [
+        "Basketball",
+        "Diversity Day",
+        "Hot Girl",
+        "Health Care"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "season": 1,
+      "episode": 5,
+      "prompt": "Birinci sezondaki 'Basketball' bölümünde ofis kiminle maç yapar?",
+      "choices": [
+        "Depo çalışanlarıyla",
+        "Rakip bir kağıt şirketiyle",
+        "Merkez ofis çalışanlarıyla",
+        "Yerel bir lise takımıyla"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Andy Bernard hangi Ivy League üniversitesinde okumuştur?",
+      "choices": [
+        "Harvard",
+        "Yale",
+        "Cornell",
+        "Princeton"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Michael'ın Pam ve Ryan'la kurduğu kendi şirketinin adı nedir?",
+      "choices": [
+        "Scott's Tots",
+        "The Michael Scott Paper Company",
+        "Scranton Paper Works",
+        "Prince Family Paper"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Toby'nin yerine gelen İK temsilcisine Michael âşık olur; kimdir bu kişi?",
+      "choices": [
+        "Jan Levinson",
+        "Carol Stills",
+        "Pam Beesly",
+        "Holly Flax"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Michael diziden ayrılırken hangi eyalete taşınır?",
+      "choices": [
+        "Florida",
+        "Kaliforniya",
+        "Teksas",
+        "Colorado"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dizide Dunder Mifflin'i hangi şirket satın alır?",
+      "choices": [
+        "Staples",
+        "Sabre",
+        "Office Max",
+        "Prince Family Paper"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Michael'ın 'Threat Level Midnight' filminde canlandırdığı karakterin adı nedir?",
+      "choices": [
+        "Michael Scarn",
+        "Michael Scorn",
+        "Mike Spartan",
+        "Ajan Scott"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Robert California'yı hangi oyuncu canlandırır?",
+      "choices": [
+        "Will Ferrell",
+        "Ed Helms",
+        "James Spader",
+        "Idris Elba"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Michael'ın kısa süreli halefi Deangelo Vickers'ı hangi komedyen canlandırır?",
+      "choices": [
+        "Jack Black",
+        "Will Ferrell",
+        "Adam Sandler",
+        "Ricky Gervais"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Phyllis Vance'in kocasının işletmesinin adı nedir?",
+      "choices": [
+        "Vance Plumbing",
+        "Vance Paper",
+        "Bob's Appliances",
+        "Vance Refrigeration"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Sonradan Athlead'e katılan depo sorumlusu kimdir?",
+      "choices": [
+        "Roy Anderson",
+        "Creed Bratton",
+        "Darryl Philbin",
+        "Nate"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Geçici personelken şirket yöneticisine yükselen, sonra tutuklanan çalışan kimdir?",
+      "choices": [
+        "Ryan Howard",
+        "Andy Bernard",
+        "Gabe Lewis",
+        "Toby Flenderson"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Mose, Dwight'ın nesidir?",
+      "choices": [
+        "Kardeşi",
+        "Babası",
+        "Kuzeni",
+        "Amcası"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Michael yıllık Dundies ödüllerini 'The Dundies' bölümünde nerede düzenler?",
+      "choices": [
+        "Chili's",
+        "Applebee's",
+        "Hooters",
+        "TGI Fridays"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Hapishane Mike hikâyesinde hapishanenin en kötü yanı nedir?",
+      "choices": [
+        "Yemekler",
+        "Müdür",
+        "Soğuk",
+        "Ruh emiciler (Dementor'lar)"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Andy Bernard'ı hangi oyuncu canlandırır?",
+      "choices": [
+        "B.J. Novak",
+        "Ed Helms",
+        "Craig Robinson",
+        "John Krasinski"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Aynı zamanda dizinin yazarlarından olan Kelly Kapoor'u kim canlandırır?",
+      "choices": [
+        "Mindy Kaling",
+        "Jenna Fischer",
+        "Angela Kinsey",
+        "Ellie Kemper"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Andy üniversitede hangi a cappella grubunda şarkı söylemiştir?",
+      "choices": [
+        "The Treble Makers",
+        "Pitch Perfect",
+        "Here Comes Treble",
+        "The Nard Dogs"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Angela'nın Dwight'ın öldürdüğü kedisinin adı nedir?",
+      "choices": [
+        "Bandit",
+        "Sprinkles",
+        "Garbage",
+        "Princess Lady"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Jan Levinson'ın mum şirketinin adı nedir?",
+      "choices": [
+        "Candles by Jan",
+        "Jan's Glow",
+        "Serenity Candles",
+        "Serenity by Jan"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dunder Mifflin'in sloganı nedir?",
+      "choices": [
+        "Her ihtiyaca kağıt",
+        "Hepsinden bir adım önde",
+        "Kağıt insanlar",
+        "Kağıtsız bir dünyada sınırsız kağıt"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Holly Flax'ı hangi oyuncu canlandırır?",
+      "choices": [
+        "Kathy Bates",
+        "Amy Ryan",
+        "Rashida Jones",
+        "Mindy Kaling"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Sabre'ın CEO'su Jo Bennett'i hangi oyuncu canlandırır?",
+      "choices": [
+        "Kathy Bates",
+        "Amy Ryan",
+        "Rashida Jones",
+        "Jenna Fischer"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Charles Miner'ı hangi oyuncu canlandırır?",
+      "choices": [
+        "Craig Robinson",
+        "Will Ferrell",
+        "Idris Elba",
+        "James Spader"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Darryl Philbin'i hangi oyuncu canlandırır?",
+      "choices": [
+        "Idris Elba",
+        "Craig Robinson",
+        "Ed Helms",
+        "Brian Baumgartner"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Jim'in kız arkadaşı Karen Filippelli'yi hangi oyuncu canlandırır?",
+      "choices": [
+        "Amy Ryan",
+        "Jenna Fischer",
+        "Kathy Bates",
+        "Rashida Jones"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Kevin Malone'u hangi oyuncu canlandırır?",
+      "choices": [
+        "Oscar Nuñez",
+        "Creed Bratton",
+        "Brian Baumgartner",
+        "Craig Robinson"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Angela Martin'i hangi oyuncu canlandırır?",
+      "choices": [
+        "Angela Kinsey",
+        "Phyllis Smith",
+        "Ellie Kemper",
+        "Jenna Fischer"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "The Office (ABD) hangi yıl yayına başladı?",
+      "choices": [
+        "2003",
+        "2007",
+        "2005",
+        "2004"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "The Office (ABD) kaç sezon sürmüştür?",
+      "choices": [
+        "9",
+        "7",
+        "8",
+        "10"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    }
+  ]
+}

@@ -1,0 +1,1139 @@
+{
+  "slug": "fleabag",
+  "kind": "series",
+  "release_year": 2016,
+  "tmdb_id": null,
+  "poster_url": null,
+  "translations": {
+    "en": {
+      "name": "Fleabag",
+      "synopsis": "A sharp-tongued, grieving young woman in London runs a struggling guinea pig café, navigates her dysfunctional family and sleeps her way through her problems, confiding in the audience."
+    },
+    "tr": {
+      "name": "Fleabag",
+      "synopsis": "Londra'da zor durumdaki bir kobay temalı kafe işleten, keskin dilli ve yas tutan genç bir kadın; kaotik ailesiyle ve kendi hatalarıyla uğraşırken izleyiciyle konuşarak içini döker."
+    }
+  },
+  "episodes": [
+    {
+      "season": 1,
+      "number": 1
+    },
+    {
+      "season": 1,
+      "number": 2
+    },
+    {
+      "season": 1,
+      "number": 3
+    },
+    {
+      "season": 1,
+      "number": 4
+    },
+    {
+      "season": 1,
+      "number": 5
+    },
+    {
+      "season": 1,
+      "number": 6
+    },
+    {
+      "season": 2,
+      "number": 1
+    },
+    {
+      "season": 2,
+      "number": 2
+    },
+    {
+      "season": 2,
+      "number": 3
+    },
+    {
+      "season": 2,
+      "number": 4
+    },
+    {
+      "season": 2,
+      "number": 5
+    },
+    {
+      "season": 2,
+      "number": 6
+    }
+  ],
+  "questions": [
+    {
+      "locale": "en",
+      "prompt": "Who created and stars in Fleabag?",
+      "choices": [
+        "Sian Clifford",
+        "Olivia Colman",
+        "Phoebe Waller-Bridge",
+        "Kristin Scott Thomas"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actress plays the Godmother?",
+      "choices": [
+        "Olivia Colman",
+        "Sian Clifford",
+        "Fiona Shaw",
+        "Kristin Scott Thomas"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays the Priest?",
+      "choices": [
+        "Brett Gelman",
+        "Bill Paterson",
+        "Hugh Skinner",
+        "Andrew Scott"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How does Fleabag usually communicate her thoughts to the audience?",
+      "choices": [
+        "Through a voice-over diary",
+        "By looking and speaking straight into the camera",
+        "With on-screen text messages",
+        "Through a therapist's notes"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the theme of the café Fleabag runs?",
+      "choices": [
+        "Guinea pigs",
+        "Cats",
+        "Books",
+        "Vintage dolls"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the job of the male lead of the second season?",
+      "choices": [
+        "Vicar of the Church of England",
+        "Family doctor",
+        "Catholic priest",
+        "Bartender"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which city is Fleabag set?",
+      "choices": [
+        "Manchester",
+        "London",
+        "Edinburgh",
+        "Dublin"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many seasons does Fleabag have?",
+      "choices": [
+        "1",
+        "3",
+        "4",
+        "2"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What nickname do fans (and Fleabag) give the Priest?",
+      "choices": [
+        "Father Fox",
+        "Holy Man",
+        "Mr. Collar",
+        "Hot Priest"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Whom does Fleabag's Dad marry?",
+      "choices": [
+        "Belinda",
+        "The Godmother",
+        "Claire",
+        "Boo"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which country was Fleabag made?",
+      "choices": [
+        "United Kingdom",
+        "United States",
+        "Ireland",
+        "Australia"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many sisters does Fleabag have?",
+      "choices": [
+        "None",
+        "Two",
+        "One",
+        "Three"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actress plays Fleabag's sister Claire?",
+      "choices": [
+        "Olivia Colman",
+        "Sian Clifford",
+        "Fiona Shaw",
+        "Jenny Rainsford"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which character's death fills Fleabag with guilt throughout the show?",
+      "choices": [
+        "Claire",
+        "Belinda",
+        "The Godmother",
+        "Boo"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who is Claire's husband?",
+      "choices": [
+        "Harry",
+        "The Priest",
+        "Martin",
+        "Dad"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the Godmother's profession?",
+      "choices": [
+        "Artist",
+        "Lawyer",
+        "Doctor",
+        "Teacher"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many episodes does each season of Fleabag have?",
+      "choices": [
+        "8",
+        "10",
+        "6",
+        "4"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which British channel originally aired Fleabag?",
+      "choices": [
+        "BBC Three",
+        "Channel 4",
+        "ITV",
+        "Sky Atlantic"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Where did Fleabag begin before it became a TV series?",
+      "choices": [
+        "A novel",
+        "A radio drama",
+        "A podcast",
+        "A one-woman show at the Edinburgh Fringe"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which character does Kristin Scott Thomas play?",
+      "choices": [
+        "Claire",
+        "Belinda",
+        "Boo",
+        "The Godmother"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which year did the first season of Fleabag air?",
+      "choices": [
+        "2016",
+        "2014",
+        "2015",
+        "2017"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which spy thriller did Phoebe Waller-Bridge also create?",
+      "choices": [
+        "Black Mirror",
+        "Sherlock",
+        "Killing Eve",
+        "Luther"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Andrew Scott is also famous for playing which villain in Sherlock?",
+      "choices": [
+        "Mycroft",
+        "Moriarty",
+        "Magnussen",
+        "Lestrade"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "For which film did Olivia Colman win the Best Actress Oscar?",
+      "choices": [
+        "The Father",
+        "The Lost Daughter",
+        "Empire of Light",
+        "The Favourite"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which streaming service co-produced Fleabag and carries it outside the UK?",
+      "choices": [
+        "Netflix",
+        "Hulu",
+        "Disney+",
+        "Amazon Prime Video"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What event do the family celebrate at the dinner that opens season 2?",
+      "choices": [
+        "Claire's birthday",
+        "Dad and the Godmother's engagement",
+        "The café's opening",
+        "Their mother's memorial"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the Priest's role at the wedding of Dad and the Godmother?",
+      "choices": [
+        "He officiates the ceremony",
+        "He is the best man",
+        "He is a witness only",
+        "He is the photographer"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Fleabag's Dad?",
+      "choices": [
+        "Brett Gelman",
+        "Andrew Scott",
+        "Bill Paterson",
+        "Hugh Dennis"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Claire's husband Martin?",
+      "choices": [
+        "Hugh Skinner",
+        "Brett Gelman",
+        "Andrew Scott",
+        "Bill Paterson"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actress plays Fleabag's counsellor in season 2?",
+      "choices": [
+        "Olivia Colman",
+        "Kristin Scott Thomas",
+        "Sian Clifford",
+        "Fiona Shaw"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Harry?",
+      "choices": [
+        "Brett Gelman",
+        "Bill Paterson",
+        "Hugh Skinner",
+        "Andrew Scott"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actress plays Fleabag's late best friend Boo?",
+      "choices": [
+        "Jenny Rainsford",
+        "Sian Clifford",
+        "Fiona Shaw",
+        "Olivia Colman"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which major award did Fleabag win at the 2019 Primetime Emmys?",
+      "choices": [
+        "Outstanding Drama Series",
+        "Outstanding Limited Series",
+        "Outstanding Comedy Series",
+        "Outstanding Variety Series"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which Star Wars film did Phoebe Waller-Bridge play the droid L3-37?",
+      "choices": [
+        "Solo: A Star Wars Story",
+        "Rogue One",
+        "The Force Awakens",
+        "The Last Jedi"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Phoebe Waller-Bridge co-wrote which James Bond film?",
+      "choices": [
+        "Skyfall",
+        "Spectre",
+        "Quantum of Solace",
+        "No Time to Die"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who directed both seasons of Fleabag?",
+      "choices": [
+        "Edgar Wright",
+        "Harry Bradbeer",
+        "Armando Iannucci",
+        "Joe Cornish"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which genre best describes Fleabag?",
+      "choices": [
+        "Comedy-drama",
+        "Fantasy",
+        "Science fiction",
+        "Western"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which wild animal appears to Fleabag and the Priest in season 2?",
+      "choices": [
+        "A deer",
+        "A badger",
+        "A fox",
+        "An owl"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which year did the second season of Fleabag air?",
+      "choices": [
+        "2017",
+        "2019",
+        "2018",
+        "2020"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "season": 2,
+      "episode": 6,
+      "prompt": "Where do Fleabag and the Priest part ways in the final scene?",
+      "choices": [
+        "In the café",
+        "On a bridge",
+        "Inside the church",
+        "At a bus stop"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which character tells Fleabag that women are born with pain built in?",
+      "choices": [
+        "Claire",
+        "The Godmother",
+        "The Counsellor",
+        "Belinda"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Fleabag'in yaratıcısı ve başrol oyuncusu kimdir?",
+      "choices": [
+        "Sian Clifford",
+        "Olivia Colman",
+        "Phoebe Waller-Bridge",
+        "Kristin Scott Thomas"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Vaftiz Anne'yi (Godmother) hangi oyuncu canlandırır?",
+      "choices": [
+        "Sian Clifford",
+        "Olivia Colman",
+        "Fiona Shaw",
+        "Kristin Scott Thomas"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Rahip karakterini hangi oyuncu canlandırır?",
+      "choices": [
+        "Brett Gelman",
+        "Bill Paterson",
+        "Hugh Skinner",
+        "Andrew Scott"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Fleabag düşüncelerini izleyiciyle genellikle nasıl paylaşır?",
+      "choices": [
+        "Günlük sesiyle",
+        "Ekranda beliren mesajlarla",
+        "Terapistinin notlarıyla",
+        "Doğrudan kameraya bakıp konuşarak"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Fleabag'in işlettiği kafenin teması nedir?",
+      "choices": [
+        "Kediler",
+        "Kobaylar",
+        "Kitaplar",
+        "Antika bebekler"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "İkinci sezonun erkek başrol karakterinin mesleği nedir?",
+      "choices": [
+        "Katolik rahip",
+        "Anglikan papaz",
+        "Aile hekimi",
+        "Barmen"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Fleabag hangi şehirde geçer?",
+      "choices": [
+        "Manchester",
+        "Edinburgh",
+        "Londra",
+        "Dublin"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Fleabag kaç sezon sürmüştür?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Hayranlar (ve Fleabag) Rahip'e hangi lakabı takar?",
+      "choices": [
+        "Father Fox",
+        "Kutsal Adam",
+        "Bay Yaka",
+        "Hot Priest (Çekici Rahip)"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Fleabag'in babası kiminle evlenir?",
+      "choices": [
+        "Belinda ile",
+        "Claire ile",
+        "Vaftiz Anne ile",
+        "Boo ile"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Fleabag hangi ülkenin yapımıdır?",
+      "choices": [
+        "Birleşik Krallık",
+        "Amerika Birleşik Devletleri",
+        "İrlanda",
+        "Avustralya"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Fleabag'in kaç kız kardeşi vardır?",
+      "choices": [
+        "Hiç",
+        "İki",
+        "Bir",
+        "Üç"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Fleabag'in kız kardeşi Claire'i hangi oyuncu canlandırır?",
+      "choices": [
+        "Sian Clifford",
+        "Olivia Colman",
+        "Fiona Shaw",
+        "Jenny Rainsford"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dizi boyunca Fleabag'i suçluluk duygusuyla dolduran ölüm hangi karaktere aittir?",
+      "choices": [
+        "Claire",
+        "Belinda",
+        "Vaftiz Anne",
+        "Boo"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Claire'in kocası kimdir?",
+      "choices": [
+        "Harry",
+        "Martin",
+        "Rahip",
+        "Baba"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Vaftiz Anne'nin mesleği nedir?",
+      "choices": [
+        "Sanatçı",
+        "Avukat",
+        "Doktor",
+        "Öğretmen"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Fleabag'in her sezonu kaç bölümden oluşur?",
+      "choices": [
+        "8",
+        "10",
+        "6",
+        "4"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Fleabag ilk olarak hangi İngiliz kanalında yayımlandı?",
+      "choices": [
+        "Channel 4",
+        "BBC Three",
+        "ITV",
+        "Sky Atlantic"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Fleabag diziye dönüşmeden önce nasıl başlamıştı?",
+      "choices": [
+        "Bir roman olarak",
+        "Bir radyo draması olarak",
+        "Bir podcast olarak",
+        "Edinburgh Fringe'de tek kişilik bir oyun olarak"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Kristin Scott Thomas hangi karakteri oynar?",
+      "choices": [
+        "Claire",
+        "Boo",
+        "Vaftiz Anne",
+        "Belinda"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Fleabag'in ilk sezonu hangi yıl yayımlandı?",
+      "choices": [
+        "2014",
+        "2016",
+        "2015",
+        "2017"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Phoebe Waller-Bridge'in yaratıcısı olduğu casusluk draması hangisidir?",
+      "choices": [
+        "Killing Eve",
+        "Black Mirror",
+        "Sherlock",
+        "Luther"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Andrew Scott, Sherlock dizisinde hangi kötü karakteri canlandırdı?",
+      "choices": [
+        "Mycroft",
+        "Magnussen",
+        "Moriarty",
+        "Lestrade"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Olivia Colman En İyi Kadın Oyuncu Oscar'ını hangi filmle kazandı?",
+      "choices": [
+        "Baba (The Father)",
+        "Gözde (The Favourite)",
+        "Kayıp Kız (The Lost Daughter)",
+        "Işığın İmparatorluğu (Empire of Light)"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Fleabag'i ortak yapan ve İngiltere dışında gösteren yayın platformu hangisidir?",
+      "choices": [
+        "Netflix",
+        "Hulu",
+        "Disney+",
+        "Amazon Prime Video"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "İkinci sezonu açan akşam yemeğinde aile neyi kutlar?",
+      "choices": [
+        "Claire'in doğum gününü",
+        "Kafenin açılışını",
+        "Baba ile Vaftiz Anne'nin nişanını",
+        "Anneleri için anma törenini"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Rahip, babanın ve Vaftiz Anne'nin düğününde hangi görevi üstlenir?",
+      "choices": [
+        "Nikâhı kıyar",
+        "Sağdıçlık yapar",
+        "Yalnızca şahit olur",
+        "Fotoğrafçılık yapar"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Fleabag'in babasını hangi oyuncu canlandırır?",
+      "choices": [
+        "Brett Gelman",
+        "Andrew Scott",
+        "Bill Paterson",
+        "Hugh Dennis"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Claire'in kocası Martin'i hangi oyuncu canlandırır?",
+      "choices": [
+        "Brett Gelman",
+        "Hugh Skinner",
+        "Andrew Scott",
+        "Bill Paterson"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "İkinci sezonda Fleabag'in terapistini hangi oyuncu canlandırır?",
+      "choices": [
+        "Olivia Colman",
+        "Kristin Scott Thomas",
+        "Sian Clifford",
+        "Fiona Shaw"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Harry karakterini hangi oyuncu canlandırır?",
+      "choices": [
+        "Brett Gelman",
+        "Hugh Skinner",
+        "Bill Paterson",
+        "Andrew Scott"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Fleabag'in kaybettiği en yakın arkadaşı Boo'yu hangi oyuncu canlandırır?",
+      "choices": [
+        "Jenny Rainsford",
+        "Sian Clifford",
+        "Fiona Shaw",
+        "Olivia Colman"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Fleabag 2019 Primetime Emmy ödüllerinde hangi büyük ödülü kazandı?",
+      "choices": [
+        "Üstün Dram Dizisi",
+        "Üstün Mini Dizi",
+        "Üstün Komedi Dizisi",
+        "Üstün Varyete Dizisi"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Phoebe Waller-Bridge hangi Star Wars filminde L3-37 adlı droidi canlandırdı?",
+      "choices": [
+        "Rogue One",
+        "Solo: Bir Star Wars Hikâyesi",
+        "The Force Awakens",
+        "The Last Jedi"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Phoebe Waller-Bridge hangi James Bond filminin senaryosuna katkıda bulundu?",
+      "choices": [
+        "Skyfall",
+        "Spectre",
+        "Quantum of Solace",
+        "No Time to Die"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Fleabag'in her iki sezonunu da kim yönetti?",
+      "choices": [
+        "Edgar Wright",
+        "Armando Iannucci",
+        "Joe Cornish",
+        "Harry Bradbeer"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Fleabag en iyi hangi türle tanımlanır?",
+      "choices": [
+        "Fantastik",
+        "Komedi-dram",
+        "Bilim kurgu",
+        "Western"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "İkinci sezonda Fleabag ile Rahip'in karşısına hangi yaban hayvanı çıkar?",
+      "choices": [
+        "Bir tilki",
+        "Bir geyik",
+        "Bir porsuk",
+        "Bir baykuş"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Fleabag'in ikinci sezonu hangi yıl yayımlandı?",
+      "choices": [
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "season": 2,
+      "episode": 6,
+      "prompt": "Final sahnesinde Fleabag ile Rahip nerede ayrılır?",
+      "choices": [
+        "Kafede",
+        "Bir otobüs durağında",
+        "Bir köprüde",
+        "Kilisenin içinde"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Fleabag'e kadınların acıyla birlikte doğduğunu söyleyen karakter kimdir?",
+      "choices": [
+        "Claire",
+        "Vaftiz Anne",
+        "Terapist",
+        "Belinda"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    }
+  ]
+}

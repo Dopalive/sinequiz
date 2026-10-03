@@ -10,9 +10,12 @@
     "sync:shared": "node scripts/sync-shared.mjs",
     "test:integration": "pnpm --filter @sinequiz/supabase-tests test",
     "test:deno": "cd supabase/functions && deno check */index.ts _shared/*.ts && deno test",
-    "test:all": "pnpm test && pnpm typecheck && pnpm test:deno"
+    "test:all": "pnpm test && pnpm typecheck && pnpm test:deno",
+    "content:validate": "node scripts/content-validate.mjs",
+    "content:load": "node scripts/content-load.mjs"
   },
   "devDependencies": {
+    "@supabase/supabase-js": "^2.117.2",
     "supabase": "^2.119.0",
     "typescript": "^5.6.0"
   }

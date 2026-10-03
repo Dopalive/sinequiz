@@ -1,0 +1,1111 @@
+{
+  "slug": "ezel",
+  "kind": "series",
+  "release_year": 2009,
+  "tmdb_id": null,
+  "poster_url": null,
+  "translations": {
+    "tr": {
+      "name": "Ezel",
+      "synopsis": "Haksız yere hapse atılan genç Ömer Uçar, cezaevinden yeni bir kimlikle çıkar ve ona ihanet edenlerden intikam almak için Ezel Bayraktar olarak geri döner."
+    },
+    "en": {
+      "name": "Ezel",
+      "synopsis": "Framed for a casino robbery by his closest friends, Ömer Uçar escapes prison with a new identity and returns as Ezel Bayraktar to take revenge on those who betrayed him."
+    }
+  },
+  "questions": [
+    {
+      "locale": "tr",
+      "prompt": "Ezel dizisinde Ezel Bayraktar karakterini kim canlandırır?",
+      "choices": [
+        "Kenan İmirzalıoğlu",
+        "Kıvanç Tatlıtuğ",
+        "Yiğit Özşener",
+        "Barış Falay"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ezel'in intikam planından önceki gerçek adı nedir?",
+      "choices": [
+        "Ali Kırgız",
+        "Ömer Uçar",
+        "Cengiz Atay",
+        "Kenan Birkan"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ezel dizisinde Eyşan Tezcan karakterini kim oynar?",
+      "choices": [
+        "Bade İşçil",
+        "Burçin Terzioğlu",
+        "Cansu Dere",
+        "Sedef Avcı"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ezel'de Cengiz Atay rolünde hangi oyuncu yer alır?",
+      "choices": [
+        "Barış Falay",
+        "Haluk Bilginer",
+        "Tuncel Kurtiz",
+        "Yiğit Özşener"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ezel'de Ali Kırgız karakterini hangi oyuncu canlandırır?",
+      "choices": [
+        "Barış Falay",
+        "Yiğit Özşener",
+        "Sarp Akkaya",
+        "Rıza Kocaoğlu"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ömer'i hapishanede himaye eden ve intikam yolunda ona yol gösteren karakter kimdir?",
+      "choices": [
+        "Kenan Birkan",
+        "Ramiz Karaeski",
+        "Serdar Tezcan",
+        "Tevfik Zaim"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ramiz Karaeski rolünü hangi usta oyuncu oynar?",
+      "choices": [
+        "Haluk Bilginer",
+        "Salih Kalyon",
+        "Tuncel Kurtiz",
+        "Beyazıt Gülercan"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ömer, dizinin başında hangi suçtan hüküm giyer?",
+      "choices": [
+        "Banka soygunu",
+        "Kuyumcu soygunu",
+        "Adam kaçırma",
+        "Kumarhane soygunu"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ezel dizisi hangi dünyaca ünlü romandan uyarlanmıştır?",
+      "choices": [
+        "Monte Kristo Kontu",
+        "Sefiller",
+        "Üç Silahşörler",
+        "Demir Maskeli Adam"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ezel'in ikinci sezonundaki ana düşman kimdir?",
+      "choices": [
+        "Serdar Tezcan",
+        "Kenan Birkan",
+        "Ali Kırgız",
+        "Cengiz Atay"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Kenan Birkan karakterini hangi oyuncu canlandırır?",
+      "choices": [
+        "Tuncel Kurtiz",
+        "Salih Kalyon",
+        "Haluk Bilginer",
+        "Sarp Akkaya"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Otuz yıl önce Ramiz ile Kenan'ın arasını açan, ikisinin de sevdiği kadın kimdir?",
+      "choices": [
+        "Azad Karaeski",
+        "Şebnem Sertuna",
+        "Bade Uysal",
+        "Selma Hünel"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Azad Karaeski, Ramiz Karaeski'nin neyidir?",
+      "choices": [
+        "Kızı",
+        "Yeğeni",
+        "Eşi",
+        "Kız kardeşi"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ezel'in yardımcısı olarak çalışan karakter kimdir?",
+      "choices": [
+        "Bade Uysal",
+        "Şebnem Sertuna",
+        "Bahar Tezcan",
+        "Azad Karaeski"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Soygun planını kurduğu ortaya çıkan, Eyşan'ın babası kimdir?",
+      "choices": [
+        "Kenan Birkan",
+        "Ramiz Karaeski",
+        "Serdar Tezcan",
+        "Temmuz Kocaoğlu"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ömer hapisten çıkarken kimliğini nasıl değiştirir?",
+      "choices": [
+        "Mahkemede beraat eder",
+        "Af kanunundan yararlanır",
+        "Başka bir mahkûmla yer değiştirir",
+        "Ölümünü sahneler ve yüzünü ameliyatla değiştirir"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Eyşan, Ömer'e ihanetinin sebebi olarak neyi gösterir?",
+      "choices": [
+        "Hasta kız kardeşinin tedavisi",
+        "Babasının borçları",
+        "Ömer'den nefreti",
+        "Evlenme isteği"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Eyşan'ın hasta kız kardeşinin adı nedir?",
+      "choices": [
+        "Bade",
+        "Bahar",
+        "Azad",
+        "Şebnem"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Bahar Tezcan karakterini kim canlandırır?",
+      "choices": [
+        "Bade İşçil",
+        "Berrak Tüzünataç",
+        "Sedef Avcı",
+        "Burçin Terzioğlu"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Serdar Tezcan karakterini hangi oyuncu oynar?",
+      "choices": [
+        "Sarp Akkaya",
+        "Rıza Kocaoğlu",
+        "Beyazıt Gülercan",
+        "Salih Kalyon"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Aşağıdakilerden hangisi Ömer'e ihanet eden üç kişiden biri DEĞİLDİR?",
+      "choices": [
+        "Ramiz Karaeski",
+        "Ali Kırgız",
+        "Cengiz Atay",
+        "Eyşan Tezcan"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ezel toplam kaç bölüm sürmüştür?",
+      "choices": [
+        "52",
+        "71",
+        "65",
+        "80"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ezel kaç sezon yayınlanmıştır?",
+      "choices": [
+        "3",
+        "4",
+        "2",
+        "1"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ezel, atv'ye geçmeden önce hangi kanalda yayınlanmaya başlar?",
+      "choices": [
+        "Kanal D",
+        "Star TV",
+        "TRT 1",
+        "Show TV"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ezel dizisini hangi yapım şirketi üretmiştir?",
+      "choices": [
+        "Ay Yapım",
+        "Pana Film",
+        "Med Yapım",
+        "Plato Film"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ezel'in yönetmeni kimdir?",
+      "choices": [
+        "Hilal Saral",
+        "Uluç Bayraktar",
+        "Sinan Öztürk",
+        "Serdar Akar"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ezel'in jenerik müziğini kim besteledi?",
+      "choices": [
+        "Gökhan Kırdar",
+        "Cem Kısmet",
+        "Toygar Işıklı",
+        "Fahir Atakoğlu"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ezel'de hapishane sahneleri hangi şehirdeki eski cezaevinde çekildi?",
+      "choices": [
+        "İstanbul",
+        "İzmir",
+        "Bursa",
+        "Ankara"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ezel'in finalinde Ezel'in içtiği sıvı hangi nesnenin içinde bulunur?",
+      "choices": [
+        "Yüzük",
+        "Kolye",
+        "Saat",
+        "Madalyon"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ezel ve Ali finalde Cengiz'i nerede yakalar?",
+      "choices": [
+        "Limanda",
+        "Deniz fenerinde",
+        "Terk edilmiş fabrikada",
+        "Köprü altında"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Eyşan ile Cengiz'in oğlunun adı nedir?",
+      "choices": [
+        "Ömer",
+        "Ali",
+        "Can",
+        "Kenan"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ömer'in annesi Meliha'nın belirgin özelliği nedir?",
+      "choices": [
+        "Sağır",
+        "Tekerlekli sandalye kullanır",
+        "Dilsiz",
+        "Görme engelli"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ömer'in babasının adı nedir?",
+      "choices": [
+        "Mümtaz",
+        "Ramiz",
+        "Serdar",
+        "Temmuz"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ezel dizisi ağırlıklı olarak hangi şehirde geçer?",
+      "choices": [
+        "Ankara",
+        "İstanbul",
+        "İzmir",
+        "Antalya"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ezel, 2010'da En İyi Türk Dizisi ödülünü hangi ödül töreninde aldı?",
+      "choices": [
+        "Altın Portakal",
+        "Antalya Televizyon Ödülleri",
+        "Altın Kelebek",
+        "Yılın Yıldızları"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ezel'deki rolüyle 2010 Altın Kelebek'te En İyi Erkek Oyuncu ödülünü kim aldı?",
+      "choices": [
+        "Yiğit Özşener",
+        "Barış Falay",
+        "Haluk Bilginer",
+        "Kenan İmirzalıoğlu"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ezel'in Meksika uyarlamasının adı nedir?",
+      "choices": [
+        "Yago",
+        "Venganza",
+        "Ismael",
+        "Ezequiel"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ezel'in Romanya uyarlamasının adı nedir?",
+      "choices": [
+        "Ezel",
+        "Vlad",
+        "Răzbunare",
+        "Ömer"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ali Kırgız'ın lakabı nedir?",
+      "choices": [
+        "Pense",
+        "Çekiç",
+        "Kerpeten",
+        "Anahtar"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ezel'in çekimleri Türkiye dışında aşağıdaki ülkelerden hangisinde yapıldı?",
+      "choices": [
+        "Fransa",
+        "Almanya",
+        "İtalya",
+        "Hırvatistan"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ezel dizisinin senaryosunu hangi ikili yazmıştır?",
+      "choices": [
+        "Kerem Deren ve Pınar Bulut",
+        "Ece Yörenç ve Melek Gençoğlu",
+        "Gökhan Horzum ve Damla Serim",
+        "Raci Şaşmaz ve Bahadır Özdener"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ramiz Karaeski'nin Ömer'i yetiştirmesinin asıl amacı nedir?",
+      "choices": [
+        "Onu kızıyla evlendirmek",
+        "Eski dostu Kenan Birkan'a karşı bir silah yaratmak",
+        "Kendini hapisten kurtarmak",
+        "Çalınan parayı geri almak"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays Ezel Bayraktar in the series Ezel?",
+      "choices": [
+        "Kıvanç Tatlıtuğ",
+        "Yiğit Özşener",
+        "Kenan İmirzalıoğlu",
+        "Barış Falay"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What was Ezel's real name before he took on his new identity?",
+      "choices": [
+        "Ali Kırgız",
+        "Cengiz Atay",
+        "Kenan Birkan",
+        "Ömer Uçar"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays Eyşan Tezcan in Ezel?",
+      "choices": [
+        "Cansu Dere",
+        "Bade İşçil",
+        "Burçin Terzioğlu",
+        "Sedef Avcı"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Cengiz Atay in Ezel?",
+      "choices": [
+        "Barış Falay",
+        "Yiğit Özşener",
+        "Haluk Bilginer",
+        "Tuncel Kurtiz"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Ali Kırgız in Ezel?",
+      "choices": [
+        "Yiğit Özşener",
+        "Sarp Akkaya",
+        "Barış Falay",
+        "Rıza Kocaoğlu"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who is the mafia mentor who protects Ömer in prison and guides his revenge?",
+      "choices": [
+        "Kenan Birkan",
+        "Serdar Tezcan",
+        "Tevfik Zaim",
+        "Ramiz Karaeski"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which veteran actor plays Ramiz Karaeski?",
+      "choices": [
+        "Tuncel Kurtiz",
+        "Haluk Bilginer",
+        "Salih Kalyon",
+        "Beyazıt Gülercan"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What crime is Ömer framed for at the start of the series?",
+      "choices": [
+        "A bank robbery",
+        "A casino robbery",
+        "A jewelry store heist",
+        "A kidnapping"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Ezel is an adaptation of which classic novel?",
+      "choices": [
+        "Les Misérables",
+        "The Three Musketeers",
+        "The Count of Monte Cristo",
+        "The Man in the Iron Mask"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who is the main antagonist of Ezel's second season?",
+      "choices": [
+        "Serdar Tezcan",
+        "Ali Kırgız",
+        "Cengiz Atay",
+        "Kenan Birkan"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Kenan Birkan?",
+      "choices": [
+        "Haluk Bilginer",
+        "Tuncel Kurtiz",
+        "Salih Kalyon",
+        "Sarp Akkaya"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who is the woman both Ramiz and Kenan loved thirty years earlier, which drove them apart?",
+      "choices": [
+        "Azad Karaeski",
+        "Selma Hünel",
+        "Şebnem Sertuna",
+        "Bade Uysal"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How is Azad Karaeski related to Ramiz Karaeski?",
+      "choices": [
+        "Niece",
+        "Wife",
+        "Daughter",
+        "Sister"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which character works as Ezel's assistant?",
+      "choices": [
+        "Bade Uysal",
+        "Bahar Tezcan",
+        "Azad Karaeski",
+        "Şebnem Sertuna"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who, Eyşan's father, turns out to have orchestrated the robbery plot?",
+      "choices": [
+        "Serdar Tezcan",
+        "Kenan Birkan",
+        "Ramiz Karaeski",
+        "Temmuz Kocaoğlu"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How does Ömer leave prison with a new identity?",
+      "choices": [
+        "He is acquitted in court",
+        "He fakes his death and has plastic surgery",
+        "He is released under an amnesty",
+        "He swaps places with another inmate"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What drives Eyşan to take part in the betrayal?",
+      "choices": [
+        "Her father's debts",
+        "Her hatred of Ömer",
+        "Her sick sister's treatment",
+        "Her wish to marry"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of Eyşan's sick younger sister?",
+      "choices": [
+        "Bade",
+        "Azad",
+        "Şebnem",
+        "Bahar"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays Bahar Tezcan?",
+      "choices": [
+        "Sedef Avcı",
+        "Bade İşçil",
+        "Berrak Tüzünataç",
+        "Burçin Terzioğlu"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Serdar Tezcan?",
+      "choices": [
+        "Sarp Akkaya",
+        "Salih Kalyon",
+        "Rıza Kocaoğlu",
+        "Beyazıt Gülercan"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which of these is NOT one of the three who betray Ömer?",
+      "choices": [
+        "Ali Kırgız",
+        "Cengiz Atay",
+        "Ramiz Karaeski",
+        "Eyşan Tezcan"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many episodes does Ezel have in total?",
+      "choices": [
+        "52",
+        "65",
+        "80",
+        "71"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many seasons did Ezel run?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "1"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "On which channel did Ezel first air before moving to atv?",
+      "choices": [
+        "Kanal D",
+        "Show TV",
+        "Star TV",
+        "TRT 1"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which production company made Ezel?",
+      "choices": [
+        "Pana Film",
+        "Med Yapım",
+        "Ay Yapım",
+        "Plato Film"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who directed Ezel?",
+      "choices": [
+        "Hilal Saral",
+        "Sinan Öztürk",
+        "Serdar Akar",
+        "Uluç Bayraktar"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who composed Ezel's theme music?",
+      "choices": [
+        "Toygar Işıklı",
+        "Gökhan Kırdar",
+        "Cem Kısmet",
+        "Fahir Atakoğlu"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Prison scenes in Ezel were shot at the old Ulucanlar Prison in which city?",
+      "choices": [
+        "İstanbul",
+        "Ankara",
+        "İzmir",
+        "Bursa"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In the finale, Ezel drinks a liquid from inside which object?",
+      "choices": [
+        "A necklace",
+        "A watch",
+        "A ring",
+        "A locket"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Where do Ezel and Ali finally catch up with Cengiz?",
+      "choices": [
+        "At a harbor",
+        "In an abandoned factory",
+        "Under a bridge",
+        "At a lighthouse"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of Eyşan and Cengiz's son?",
+      "choices": [
+        "Can",
+        "Ömer",
+        "Ali",
+        "Kenan"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What notable trait does Ömer's mother, Meliha, have?",
+      "choices": [
+        "She is deaf",
+        "She is blind",
+        "She uses a wheelchair",
+        "She is mute"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Ömer's father called?",
+      "choices": [
+        "Ramiz",
+        "Serdar",
+        "Mümtaz",
+        "Temmuz"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which city is Ezel mainly set?",
+      "choices": [
+        "Ankara",
+        "İzmir",
+        "Antalya",
+        "İstanbul"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Ezel won Best Turkish Series in 2010 at which awards?",
+      "choices": [
+        "Golden Butterfly",
+        "Golden Orange",
+        "Antalya Television Awards",
+        "Stars of the Year"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who won the 2010 Golden Butterfly for Best Actor for Ezel?",
+      "choices": [
+        "Yiğit Özşener",
+        "Kenan İmirzalıoğlu",
+        "Barış Falay",
+        "Haluk Bilginer"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the title of the Mexican remake of Ezel?",
+      "choices": [
+        "Venganza",
+        "Ismael",
+        "Yago",
+        "Ezequiel"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the Romanian remake of Ezel called?",
+      "choices": [
+        "Ezel",
+        "Răzbunare",
+        "Ömer",
+        "Vlad"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Ali Kırgız's nickname?",
+      "choices": [
+        "Kerpeten",
+        "Pense",
+        "Çekiç",
+        "Anahtar"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Besides Turkey, which of these countries was used for filming Ezel?",
+      "choices": [
+        "France",
+        "Croatia",
+        "Germany",
+        "Italy"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who wrote the screenplay of Ezel?",
+      "choices": [
+        "Ece Yörenç and Melek Gençoğlu",
+        "Gökhan Horzum and Damla Serim",
+        "Kerem Deren and Pınar Bulut",
+        "Raci Şaşmaz and Bahadır Özdener"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Ramiz's deeper aim in shaping Ömer into Ezel?",
+      "choices": [
+        "To marry him to his daughter",
+        "To get himself out of prison",
+        "To recover the stolen money",
+        "To create a weapon against his old friend Kenan Birkan"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    }
+  ]
+}

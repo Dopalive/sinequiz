@@ -1,0 +1,1085 @@
+{
+  "slug": "avrupa-yakasi",
+  "kind": "series",
+  "release_year": 2004,
+  "tmdb_id": null,
+  "poster_url": null,
+  "translations": {
+    "tr": {
+      "name": "Avrupa Yakası",
+      "synopsis": "Nişantaşı’nda bir moda dergisinde editör olan Aslı Sütçüoğlu’nun aile, iş ve aşk karmaşasını anlatan, altı sezon süren popüler komedi dizisi."
+    },
+    "en": {
+      "name": "Avrupa Yakası (The European Side)",
+      "synopsis": "A hit sitcom about Aslı Sütçüoğlu, an editor at a fashion magazine in Nişantaşı, and the chaos of her family, office and love life."
+    }
+  },
+  "questions": [
+    {
+      "locale": "tr",
+      "prompt": "Avrupa Yakası'nda Aslı Sütçüoğlu karakterini kim canlandırır?",
+      "choices": [
+        "Gülse Birsel",
+        "Binnur Kaya",
+        "Hasibe Eren",
+        "Hale Caneroğlu"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Aslı'nın ağabeyi Volkan'ı hangi oyuncu oynar?",
+      "choices": [
+        "Engin Günaydın",
+        "Ata Demirer",
+        "Levent Üzümcü",
+        "Tolga Çevik"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Avrupa Yakası, hangi türde bir dizidir?",
+      "choices": [
+        "Polisiye dizi",
+        "Tarihi dizi",
+        "Durum komedisi",
+        "Mafya dizisi"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Aslı Sütçüoğlu'nun mesleği nedir?",
+      "choices": [
+        "Avukat",
+        "Öğretmen",
+        "Doktor",
+        "Moda dergisi editörü"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dizideki ana aile hangi soyadını taşır?",
+      "choices": [
+        "Sütçüoğlu",
+        "Altıntop",
+        "Onaran",
+        "Yerebakan"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Avrupa Yakası'nda hangi karakterin çizgili pijaması büyük moda oldu?",
+      "choices": [
+        "Burhan",
+        "Gaffur",
+        "Volkan",
+        "Tacettin"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Gaffur Aksoy karakterini kim canlandırdı?",
+      "choices": [
+        "Engin Günaydın",
+        "Veysel Diker",
+        "Peker Açıkalın",
+        "Vural Çelik"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Cem Onaran rolünde hangi oyuncu yer alır?",
+      "choices": [
+        "Ata Demirer",
+        "Engin Günaydın",
+        "Yıldırım Öcek",
+        "Levent Üzümcü"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Burhan Altıntop karakterini hangi oyuncu canlandırır?",
+      "choices": [
+        "Engin Günaydın",
+        "Tolga Çevik",
+        "Levent Üzümcü",
+        "Peker Açıkalın"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Makbule Kıral karakterini kim canlandırır?",
+      "choices": [
+        "Binnur Kaya",
+        "Hasibe Eren",
+        "Şenay Gürler",
+        "Hale Caneroğlu"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Aslı'nın babası Tahsin Bey'i hangi usta oyuncu canlandırır?",
+      "choices": [
+        "Müşfik Kenter",
+        "Yıldırım Öcek",
+        "Gazanfer Özcan",
+        "Rutkay Aziz"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Aslı'nın annesi İffet Hanım rolündeki oyuncu kimdir?",
+      "choices": [
+        "Gönül Ülkü",
+        "Hasibe Eren",
+        "Şenay Gürler",
+        "Hümeyra"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dergi editörü Fatoş rolündeki oyuncu kimdir?",
+      "choices": [
+        "Şenay Gürler",
+        "Hale Caneroğlu",
+        "Binnur Kaya",
+        "Evrim Akın"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Derginin sahibi Sadettin Yerebakan'ı kim canlandırır?",
+      "choices": [
+        "Levent Üzümcü",
+        "Yıldırım Öcek",
+        "Engin Günaydın",
+        "Vural Çelik"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Binnur Kaya dizide hangi karakterlerden birini oynar?",
+      "choices": [
+        "Makbule Kıral",
+        "Yaprak İzmirli",
+        "Şahika Koçarslanlı",
+        "Selin Yerebakan"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Aslı'ya talip olan, kendini nişanlısı sanan Tacettin Antepli'yi kim oynar?",
+      "choices": [
+        "Vural Çelik",
+        "Tolga Çevik",
+        "Sarp Apak",
+        "Veysel Diker"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Yaprak İzmirli karakterini hangi oyuncu canlandırır?",
+      "choices": [
+        "Hale Caneroğlu",
+        "Evrim Akın",
+        "Hasibe Eren",
+        "Binnur Kaya"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Selin Yerebakan rolündeki oyuncu kimdir?",
+      "choices": [
+        "Hale Caneroğlu",
+        "Evrim Akın",
+        "Binnur Kaya",
+        "Şenay Gürler"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Avrupa Yakası dergisinin ofisi dizide hangi semtte yer alır?",
+      "choices": [
+        "Kadıköy",
+        "Beşiktaş",
+        "Nişantaşı",
+        "Üsküdar"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Sütçüoğlu ailesinin işlettiği dükkân nedir?",
+      "choices": [
+        "Kuyumcu",
+        "Kitapçı",
+        "Çiçekçi",
+        "Muhallebici"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "İffet Hanım'ın en büyük derdi nedir?",
+      "choices": [
+        "Aslı'yı evlendirmek",
+        "Volkan'ı askere göndermek",
+        "Dükkânı büyütmek",
+        "Taşınmak"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Avrupa Yakası hangi kanalda yayınlandı?",
+      "choices": [
+        "Show TV",
+        "ATV",
+        "Kanal D",
+        "TRT 1"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Avrupa Yakası hangi yıl yayına başladı?",
+      "choices": [
+        "2001",
+        "2006",
+        "2004",
+        "2008"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Avrupa Yakası kaç sezon sürdü?",
+      "choices": [
+        "3",
+        "4",
+        "8",
+        "6"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Avrupa Yakası toplam kaç bölüm sürdü?",
+      "choices": [
+        "190",
+        "120",
+        "150",
+        "220"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Avrupa Yakası'nı hangi yapımcı üstlendi?",
+      "choices": [
+        "Kerem Çatay",
+        "Sinan Çetin",
+        "Raci Şaşmaz",
+        "Tarkan Karlıdağ"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Avrupa Yakası'nın tüm senaryolarını kim yazdı?",
+      "choices": [
+        "Emrah Serbes",
+        "Ata Demirer",
+        "Gülse Birsel",
+        "Feyyaz Yiğit"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Gülse Birsel'in, ATV'de reklamları parodi eden önceki programının adı nedir?",
+      "choices": [
+        "Komedi Dükkanı",
+        "Yalan Dünya",
+        "Beyaz Show",
+        "g.a.g."
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Aslı ve Cem hangi sezonda evlenir?",
+      "choices": [
+        "3. sezon",
+        "1. sezon",
+        "5. sezon",
+        "6. sezon"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Üçüncü sezonda Volkan askerlik görevini hangi şehirde yapar?",
+      "choices": [
+        "Erzurum",
+        "Trabzon",
+        "Van",
+        "Edirne"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Makbule ve Sacit dördüncü sezonda hangi şehirden gelir?",
+      "choices": [
+        "Adana",
+        "Trabzon",
+        "Gaziantep",
+        "Konya"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Fatoş, dördüncü sezonda ofisin çaycısı olan hangi karaktere ilgi duyar?",
+      "choices": [
+        "Burhan",
+        "Kubilay",
+        "Tacettin",
+        "Tanrıverdi"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Yaprak İzmirli, sonunda kiminle evlenir?",
+      "choices": [
+        "Kubilay",
+        "Volkan",
+        "Tacettin",
+        "Burhan"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Gaffur pijamalarının orijinal markası hangisidir?",
+      "choices": [
+        "Koton",
+        "Sümerbank",
+        "Yeşilçam",
+        "Vakko"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Burhan Altıntop hangi sezonda kadroya katılır?",
+      "choices": [
+        "1. sezon",
+        "2. sezon",
+        "3. sezon",
+        "5. sezon"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Gazanfer Özcan'ın vefatından sonra Makbule'nin ailesini hangi iki oyuncu canlandırır?",
+      "choices": [
+        "Rutkay Aziz ve Hümeyra",
+        "Tolga Çevik ve Binnur Kaya",
+        "Yıldırım Öcek ve Şenay Gürler",
+        "Müşfik Kenter ve Gönül Ülkü"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ata Demirer'in sonradan başrolünü üstlendiği film serisi hangisidir?",
+      "choices": [
+        "Eyyvah Eyvah",
+        "G.O.R.A.",
+        "Vizontele",
+        "Babam ve Oğlum"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Avrupa Yakası'nda Altın Kelebek En İyi Komedi Dizisi ödülünü hangi yıllar aldı?",
+      "choices": [
+        "2004 ve 2005",
+        "2005, 2006 ve 2007",
+        "2008 ve 2009",
+        "2010 ve 2011"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Avrupa Yakası'nın bütçesi, dönemin hangi dizisinden sonra en yüksek ikinci bütçe sayılırdı?",
+      "choices": [
+        "Ezel",
+        "Aşk-ı Memnu",
+        "Kurtlar Vadisi",
+        "Behzat Ç."
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Avrupa Yakası'nın çekildiği stüdyolar nerede yer alır?",
+      "choices": [
+        "Beykoz Kundura",
+        "Ankara TRT stüdyoları",
+        "Sarıyer yalısı",
+        "Plato stüdyoları, Taksim"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Volkan'ın en büyük hayali nedir?",
+      "choices": [
+        "Ünlü olmak",
+        "Politikacı olmak",
+        "Yurt dışına yerleşmek",
+        "Ordu mensubu olmak"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays Aslı Sütçüoğlu in Avrupa Yakası?",
+      "choices": [
+        "Binnur Kaya",
+        "Hasibe Eren",
+        "Gülse Birsel",
+        "Hale Caneroğlu"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Aslı's brother Volkan?",
+      "choices": [
+        "Engin Günaydın",
+        "Levent Üzümcü",
+        "Tolga Çevik",
+        "Ata Demirer"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What kind of show is Avrupa Yakası?",
+      "choices": [
+        "A sitcom",
+        "A crime drama",
+        "A historical drama",
+        "A mafia drama"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Aslı Sütçüoğlu's job?",
+      "choices": [
+        "A lawyer",
+        "A magazine editor",
+        "A teacher",
+        "A doctor"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the surname of the main family in the show?",
+      "choices": [
+        "Altıntop",
+        "Onaran",
+        "Sütçüoğlu",
+        "Yerebakan"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Whose striped pajamas became a nationwide fashion in Avrupa Yakası?",
+      "choices": [
+        "Burhan",
+        "Volkan",
+        "Tacettin",
+        "Gaffur"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who played Gaffur Aksoy?",
+      "choices": [
+        "Peker Açıkalın",
+        "Engin Günaydın",
+        "Veysel Diker",
+        "Vural Çelik"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Cem Onaran?",
+      "choices": [
+        "Ata Demirer",
+        "Levent Üzümcü",
+        "Engin Günaydın",
+        "Yıldırım Öcek"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Burhan Altıntop?",
+      "choices": [
+        "Tolga Çevik",
+        "Levent Üzümcü",
+        "Engin Günaydın",
+        "Peker Açıkalın"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays Makbule Kıral?",
+      "choices": [
+        "Binnur Kaya",
+        "Şenay Gürler",
+        "Hale Caneroğlu",
+        "Hasibe Eren"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which veteran actor plays Aslı's father, Tahsin Bey?",
+      "choices": [
+        "Gazanfer Özcan",
+        "Müşfik Kenter",
+        "Yıldırım Öcek",
+        "Rutkay Aziz"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actress plays Aslı's mother, İffet?",
+      "choices": [
+        "Gönül Ülkü",
+        "Hümeyra",
+        "Hasibe Eren",
+        "Şenay Gürler"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actress plays Fatoş at the magazine?",
+      "choices": [
+        "Hale Caneroğlu",
+        "Binnur Kaya",
+        "Şenay Gürler",
+        "Evrim Akın"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays the magazine owner Sadettin Yerebakan?",
+      "choices": [
+        "Levent Üzümcü",
+        "Engin Günaydın",
+        "Vural Çelik",
+        "Yıldırım Öcek"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which of these characters does Binnur Kaya play?",
+      "choices": [
+        "Şahika Koçarslanlı",
+        "Makbule Kıral",
+        "Yaprak İzmirli",
+        "Selin Yerebakan"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays Tacettin Antepli, the family-approved suitor who calls himself Aslı's fiancé?",
+      "choices": [
+        "Vural Çelik",
+        "Veysel Diker",
+        "Tolga Çevik",
+        "Sarp Apak"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actress plays Yaprak İzmirli?",
+      "choices": [
+        "Evrim Akın",
+        "Hasibe Eren",
+        "Hale Caneroğlu",
+        "Binnur Kaya"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actress plays Selin Yerebakan, the magazine owner's daughter?",
+      "choices": [
+        "Hale Caneroğlu",
+        "Binnur Kaya",
+        "Şenay Gürler",
+        "Evrim Akın"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which Istanbul district is the Avrupa Yakası magazine office set?",
+      "choices": [
+        "Nişantaşı",
+        "Kadıköy",
+        "Beşiktaş",
+        "Üsküdar"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What business does the Sütçüoğlu family run?",
+      "choices": [
+        "A jeweler's",
+        "A milk-pudding shop",
+        "A bookshop",
+        "A flower shop"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Aslı's mother İffet most eager to see happen?",
+      "choices": [
+        "To send Volkan to the army",
+        "To expand the shop",
+        "To get Aslı married",
+        "To move house"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "On which channel did Avrupa Yakası air?",
+      "choices": [
+        "Show TV",
+        "Kanal D",
+        "TRT 1",
+        "ATV"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which year did Avrupa Yakası premiere?",
+      "choices": [
+        "2004",
+        "2001",
+        "2006",
+        "2008"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many seasons did Avrupa Yakası run?",
+      "choices": [
+        "3",
+        "6",
+        "4",
+        "8"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many episodes does Avrupa Yakası have in total?",
+      "choices": [
+        "120",
+        "150",
+        "190",
+        "220"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which producer was behind Avrupa Yakası?",
+      "choices": [
+        "Kerem Çatay",
+        "Raci Şaşmaz",
+        "Tarkan Karlıdağ",
+        "Sinan Çetin"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who wrote all of the scripts for Avrupa Yakası?",
+      "choices": [
+        "Gülse Birsel",
+        "Emrah Serbes",
+        "Ata Demirer",
+        "Feyyaz Yiğit"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What was the name of Gülse Birsel's earlier ATV show that parodied TV commercials?",
+      "choices": [
+        "Komedi Dükkanı",
+        "g.a.g.",
+        "Yalan Dünya",
+        "Beyaz Show"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which season do Aslı and Cem get married?",
+      "choices": [
+        "Season 1",
+        "Season 5",
+        "Season 3",
+        "Season 6"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which city does Volkan do his military service in season three?",
+      "choices": [
+        "Erzurum",
+        "Van",
+        "Edirne",
+        "Trabzon"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "From which city do Makbule and Sacit arrive in season four?",
+      "choices": [
+        "Gaziantep",
+        "Adana",
+        "Trabzon",
+        "Konya"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which office tea server does Fatoş develop feelings for in season four?",
+      "choices": [
+        "Burhan",
+        "Tanrıverdi",
+        "Kubilay",
+        "Tacettin"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Whom does Yaprak İzmirli eventually marry?",
+      "choices": [
+        "Volkan",
+        "Tacettin",
+        "Kubilay",
+        "Burhan"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which original brand made the striped pajamas made famous by Gaffur?",
+      "choices": [
+        "Koton",
+        "Yeşilçam",
+        "Vakko",
+        "Sümerbank"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which season does Burhan Altıntop join the cast?",
+      "choices": [
+        "Season 3",
+        "Season 1",
+        "Season 2",
+        "Season 5"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "After Gazanfer Özcan's death, which two veteran actors join as Makbule's parents?",
+      "choices": [
+        "Rutkay Aziz and Hümeyra",
+        "Müşfik Kenter and Gönül Ülkü",
+        "Tolga Çevik and Binnur Kaya",
+        "Yıldırım Öcek and Şenay Gürler"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which film series later starred Ata Demirer in the lead?",
+      "choices": [
+        "G.O.R.A.",
+        "Vizontele",
+        "Eyyvah Eyvah",
+        "Babam ve Oğlum"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which years did Avrupa Yakası win the Golden Butterfly for Best Comedy Series?",
+      "choices": [
+        "2004 ve 2005",
+        "2008 ve 2009",
+        "2010 ve 2011",
+        "2005, 2006 ve 2007"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which series had a higher budget than Avrupa Yakası, which was ranked second?",
+      "choices": [
+        "Kurtlar Vadisi",
+        "Ezel",
+        "Aşk-ı Memnu",
+        "Behzat Ç."
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Where were Avrupa Yakası's studio scenes filmed?",
+      "choices": [
+        "Beykoz Kundura",
+        "Plato Studios in Taksim",
+        "TRT studios in Ankara",
+        "A Sarıyer mansion"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Volkan most keen to achieve?",
+      "choices": [
+        "Becoming a politician",
+        "Moving abroad",
+        "Becoming famous",
+        "Making a career in the army"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    }
+  ]
+}

@@ -1,0 +1,1137 @@
+{
+  "slug": "parasite",
+  "kind": "movie",
+  "release_year": 2019,
+  "tmdb_id": null,
+  "poster_url": null,
+  "translations": {
+    "en": {
+      "name": "Parasite",
+      "synopsis": "A poor Seoul family schemes its way into the employ of a wealthy household, until a hidden secret in the house turns the con into a tragedy."
+    },
+    "tr": {
+      "name": "Parazit",
+      "synopsis": "Yoksul bir Seul ailesi, zengin bir ailenin evine tek tek sızmayı başarır; ancak evin gizli bir sırrı bu planı trajediye çevirir."
+    }
+  },
+  "questions": [
+    {
+      "locale": "en",
+      "prompt": "Who directed Parasite?",
+      "choices": [
+        "Park Chan-wook",
+        "Kim Ki-duk",
+        "Bong Joon-ho",
+        "Lee Chang-dong"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which country is Parasite set?",
+      "choices": [
+        "South Korea",
+        "Japan",
+        "China",
+        "Thailand"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What historic first did Parasite achieve at the 2020 Oscars?",
+      "choices": [
+        "First animated film to win Best Picture",
+        "First documentary to win Best Picture",
+        "First silent film to win Best Picture since 1929",
+        "First non-English-language film to win Best Picture"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the surname of the poor family in the film?",
+      "choices": [
+        "Park",
+        "Kim",
+        "Lee",
+        "Choi"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the surname of the wealthy family in the film?",
+      "choices": [
+        "Park",
+        "Kim",
+        "Song",
+        "Jung"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What are the Kims folding for money in the opening scenes?",
+      "choices": [
+        "Paper bags",
+        "Cardboard cartons",
+        "Pizza boxes",
+        "Origami cranes"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What kind of home do the Kims live in?",
+      "choices": [
+        "A rooftop shack",
+        "A semi-basement flat",
+        "A traditional hanok",
+        "A high-rise apartment"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which job does Ki-taek get at the Park house?",
+      "choices": [
+        "Gardener",
+        "Private security guard",
+        "Chef",
+        "Chauffeur"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which job does Chung-sook get at the Park house?",
+      "choices": [
+        "Cook",
+        "Nanny",
+        "Driver",
+        "Housekeeper"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What does Ki-woo first tutor in the Park house?",
+      "choices": [
+        "Mathematics",
+        "English",
+        "Art",
+        "Piano"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which city does the story take place?",
+      "choices": [
+        "Seoul",
+        "Busan",
+        "Incheon",
+        "Daegu"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which of these films was also directed by Bong Joon-ho?",
+      "choices": [
+        "Oldboy",
+        "Train to Busan",
+        "Snowpiercer",
+        "The Handmaiden"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which language are most of Parasite's dialogues spoken?",
+      "choices": [
+        "Japanese",
+        "Korean",
+        "Mandarin",
+        "English"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "According to Ki-taek, which kind of plan never fails?",
+      "choices": [
+        "A plan with a backup",
+        "A plan made in secret",
+        "A plan made by the rich",
+        "No plan at all"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What English name does Ki-woo use when he starts tutoring?",
+      "choices": [
+        "Jason",
+        "Daniel",
+        "Kevin",
+        "Jessica"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What English name does Ki-jung use as an art therapist?",
+      "choices": [
+        "Jessica",
+        "Kevin",
+        "Rachel",
+        "Emily"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which allergen do the Kims use to make housekeeper Moon-gwang cough?",
+      "choices": [
+        "Pollen",
+        "Dust",
+        "Peach fuzz",
+        "Pepper"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which illness do the Kims make Mr. Park believe Moon-gwang has?",
+      "choices": [
+        "Tuberculosis",
+        "The flu",
+        "Cancer",
+        "Pneumonia"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How does Ki-jung get the Parks' previous driver fired?",
+      "choices": [
+        "She accuses him of theft",
+        "She damages the car",
+        "She reports him to the police",
+        "She leaves her underwear in the car"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What gift does Min-hyuk give Ki-woo at the beginning of the film?",
+      "choices": [
+        "A gold watch",
+        "A scholar's rock",
+        "A painting",
+        "A pair of shoes"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Where do the Kims find a free Wi-Fi signal at home?",
+      "choices": [
+        "Near the toilet",
+        "On the roof",
+        "At the kitchen window",
+        "In the bedroom"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What secret hides beneath the Park house?",
+      "choices": [
+        "A wine cellar",
+        "A basement garage",
+        "A hidden bunker",
+        "A tunnel to the garden"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Where do the Kims spend the night after their home floods?",
+      "choices": [
+        "A hotel",
+        "A gymnasium",
+        "A church",
+        "The Parks' garage"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What event is held in the Parks' garden when the climax takes place?",
+      "choices": [
+        "Mr. Park's retirement party",
+        "A wedding",
+        "A charity dinner",
+        "Da-song's birthday party"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the Park son Da-song obsessed with playing?",
+      "choices": [
+        "Pirates",
+        "Astronauts",
+        "Samurai",
+        "Native Americans"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who is the daughter Ki-woo tutors?",
+      "choices": [
+        "Ki-jung",
+        "Da-hye",
+        "Yeon-kyo",
+        "Moon-gwang"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which industry does Mr. Park work?",
+      "choices": [
+        "Technology",
+        "Banking",
+        "Construction",
+        "Advertising"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many Oscars did Parasite win?",
+      "choices": [
+        "3",
+        "5",
+        "4",
+        "6"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which top prize did Parasite win at Cannes in 2019?",
+      "choices": [
+        "Grand Prix",
+        "Palme d'Or",
+        "Jury Prize",
+        "Best Director"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays the father, Ki-taek?",
+      "choices": [
+        "Choi Woo-shik",
+        "Lee Sun-kyun",
+        "Park Myung-hoon",
+        "Song Kang-ho"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Whom do the Kims replace at the Park house as housekeeper?",
+      "choices": [
+        "Yeon-kyo",
+        "Da-hye",
+        "Moon-gwang",
+        "Geun-sae"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who forges the university certificate used to get Ki-woo hired?",
+      "choices": [
+        "Ki-jung",
+        "Chung-sook",
+        "Min-hyuk",
+        "Ki-taek"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What does Ki-woo vow at the end of the film?",
+      "choices": [
+        "To move to another country",
+        "To turn himself in",
+        "To earn enough money to buy the house",
+        "To take revenge on Mr. Park"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of Moon-gwang's husband, who hides in the bunker?",
+      "choices": [
+        "Geun-sae",
+        "Min-hyuk",
+        "Dong-ik",
+        "Ki-taek"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Mr. Park's first name?",
+      "choices": [
+        "Min-hyuk",
+        "Geun-sae",
+        "Ki-taek",
+        "Dong-ik"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Mr. Park?",
+      "choices": [
+        "Song Kang-ho",
+        "Lee Sun-kyun",
+        "Choi Woo-shik",
+        "Park Myung-hoon"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actress plays Yeon-kyo, Mrs. Park?",
+      "choices": [
+        "Cho Yeo-jeong",
+        "Jang Hye-jin",
+        "Lee Jung-eun",
+        "Park So-dam"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actress plays Ki-jung?",
+      "choices": [
+        "Jang Hye-jin",
+        "Cho Yeo-jeong",
+        "Park So-dam",
+        "Lee Jung-eun"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Ki-woo?",
+      "choices": [
+        "Song Kang-ho",
+        "Choi Woo-shik",
+        "Lee Sun-kyun",
+        "Park Myung-hoon"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actress plays Moon-gwang?",
+      "choices": [
+        "Jang Hye-jin",
+        "Cho Yeo-jeong",
+        "Park So-dam",
+        "Lee Jung-eun"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actress plays the Kim mother, Chung-sook?",
+      "choices": [
+        "Lee Jung-eun",
+        "Cho Yeo-jeong",
+        "Park So-dam",
+        "Jang Hye-jin"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the film's original Korean title?",
+      "choices": [
+        "Sonyeon",
+        "Gisaengchung",
+        "Hangang",
+        "Gaeul"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which alternate version of the film was released in 2020?",
+      "choices": [
+        "A black-and-white edition",
+        "A director's cut with a new ending",
+        "An animated version",
+        "A silent version"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Parazit filminin yönetmeni kimdir?",
+      "choices": [
+        "Park Chan-wook",
+        "Kim Ki-duk",
+        "Bong Joon-ho",
+        "Lee Chang-dong"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Parazit hangi ülkede geçer?",
+      "choices": [
+        "Japonya",
+        "Güney Kore",
+        "Çin",
+        "Tayland"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Parazit 2020 Oscar töreninde hangi tarihî başarıya imza attı?",
+      "choices": [
+        "En İyi Film ödülünü alan ilk animasyon oldu",
+        "En İyi Film ödülünü alan ilk belgesel oldu",
+        "1929'dan beri En İyi Film'i alan ilk sessiz film oldu",
+        "En İyi Film ödülünü alan ilk İngilizce olmayan film oldu"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Filmdeki yoksul ailenin soyadı nedir?",
+      "choices": [
+        "Park",
+        "Lee",
+        "Choi",
+        "Kim"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Filmdeki zengin ailenin soyadı nedir?",
+      "choices": [
+        "Kim",
+        "Park",
+        "Song",
+        "Jung"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Kim ailesi filmin başında para karşılığı ne katlar?",
+      "choices": [
+        "Pizza kutuları",
+        "Kâğıt poşetler",
+        "Karton kolileri",
+        "Origami turnaları"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Kim ailesi nasıl bir evde yaşar?",
+      "choices": [
+        "Çatıdaki bir barakada",
+        "Geleneksel bir hanok'ta",
+        "Yarı bodrum bir dairede",
+        "Bir gökdelen dairesinde"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ki-taek, Park'ların evinde hangi işe girer?",
+      "choices": [
+        "Bahçıvanlık",
+        "Şoförlük",
+        "Özel güvenlik",
+        "Aşçılık"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Chung-sook, Park'ların evinde hangi işe girer?",
+      "choices": [
+        "Aşçılık",
+        "Dadılık",
+        "Şoförlük",
+        "Hizmetçilik (ev işleri)"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ki-woo, Park'ların evinde ilk olarak hangi dersi verir?",
+      "choices": [
+        "Matematik",
+        "Resim",
+        "İngilizce",
+        "Piyano"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Hikâye hangi şehirde geçer?",
+      "choices": [
+        "Seul",
+        "Busan",
+        "Incheon",
+        "Daegu"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Aşağıdaki filmlerden hangisi de Bong Joon-ho'nun yönetmenliğindedir?",
+      "choices": [
+        "Oldboy",
+        "Busan'a Tren",
+        "Snowpiercer",
+        "Hizmetçi (The Handmaiden)"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Parazit'te diyaloglar ağırlıklı olarak hangi dilde konuşulur?",
+      "choices": [
+        "Korece",
+        "Japonca",
+        "Mandarin",
+        "İngilizce"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ki-taek'e göre hiçbir zaman başarısız olmayan plan nasıl bir plandır?",
+      "choices": [
+        "Yedek planı olan",
+        "Gizli yapılan",
+        "Zenginlerin yaptığı",
+        "Hiç plan yapmamak"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ki-woo ders vermeye başlarken hangi İngilizce adı kullanır?",
+      "choices": [
+        "Jason",
+        "Kevin",
+        "Daniel",
+        "Jessica"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ki-jung sanat terapisti olarak hangi İngilizce adı kullanır?",
+      "choices": [
+        "Jessica",
+        "Kevin",
+        "Rachel",
+        "Emily"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Kim ailesi, Moon-gwang'ı öksürtmek için neyi kullanır?",
+      "choices": [
+        "Polen",
+        "Toz",
+        "Şeftali tüyü",
+        "Biber"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Kim ailesi Bay Park'a Moon-gwang'ın hangi hastalığa yakalandığını sandırır?",
+      "choices": [
+        "Grip",
+        "Verem",
+        "Kanser",
+        "Zatürre"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ki-jung, Park'ların eski şoförünü işten nasıl attırır?",
+      "choices": [
+        "Onu hırsızlıkla suçlayarak",
+        "Arabaya zarar vererek",
+        "Polise şikâyet ederek",
+        "İç çamaşırını arabada bırakarak"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Min-hyuk, film başında Ki-woo'ya hangi hediyeyi verir?",
+      "choices": [
+        "Altın bir saat",
+        "Bir tablo",
+        "Bir çift ayakkabı",
+        "Bir bilge taşı (suseok)"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Kim ailesi evde bedava Wi-Fi sinyalini nerede yakalar?",
+      "choices": [
+        "Çatıda",
+        "Tuvaletin yanında",
+        "Mutfak penceresinde",
+        "Yatak odasında"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Park'ların evinin altında hangi sır gizlidir?",
+      "choices": [
+        "Gizli bir sığınak",
+        "Bir şarap mahzeni",
+        "Bir bodrum garajı",
+        "Bahçeye açılan bir tünel"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Evlerini su bastıktan sonra Kim ailesi geceyi nerede geçirir?",
+      "choices": [
+        "Bir otelde",
+        "Bir kilisede",
+        "Bir spor salonunda",
+        "Park'ların garajında"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Final sahnesinde Park'ların bahçesinde hangi etkinlik yapılır?",
+      "choices": [
+        "Bay Park'ın emeklilik partisi",
+        "Da-song'un doğum günü partisi",
+        "Bir düğün",
+        "Bir yardım yemeği"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Park ailesinin oğlu Da-song hangi oyuna takıntılıdır?",
+      "choices": [
+        "Korsan oyununa",
+        "Astronot oyununa",
+        "Samuray oyununa",
+        "Kızılderili oyununa"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ki-woo'nun ders verdiği kız kimdir?",
+      "choices": [
+        "Ki-jung",
+        "Yeon-kyo",
+        "Da-hye",
+        "Moon-gwang"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Bay Park hangi sektörde çalışır?",
+      "choices": [
+        "Teknoloji",
+        "Bankacılık",
+        "İnşaat",
+        "Reklamcılık"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Parazit kaç Oscar kazandı?",
+      "choices": [
+        "3",
+        "5",
+        "4",
+        "6"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Parazit 2019'da Cannes'da hangi büyük ödülü aldı?",
+      "choices": [
+        "Altın Palmiye",
+        "Büyük Jüri Ödülü",
+        "Jüri Ödülü",
+        "En İyi Yönetmen"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Baba Ki-taek'i hangi oyuncu canlandırır?",
+      "choices": [
+        "Choi Woo-shik",
+        "Lee Sun-kyun",
+        "Park Myung-hoon",
+        "Song Kang-ho"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Kim ailesi, Park'ların evinde hangi hizmetçinin yerine geçer?",
+      "choices": [
+        "Yeon-kyo",
+        "Moon-gwang",
+        "Da-hye",
+        "Geun-sae"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ki-woo'nun işe alınmasını sağlayan üniversite belgesini kim sahte olarak hazırlar?",
+      "choices": [
+        "Ki-jung",
+        "Chung-sook",
+        "Min-hyuk",
+        "Ki-taek"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ki-woo, filmin sonunda ne yapmaya karar verir?",
+      "choices": [
+        "Başka bir ülkeye taşınmaya",
+        "Polise teslim olmaya",
+        "Evi satın alacak kadar para kazanmaya",
+        "Bay Park'tan intikam almaya"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Sığınakta saklanan Moon-gwang'ın kocasının adı nedir?",
+      "choices": [
+        "Min-hyuk",
+        "Geun-sae",
+        "Dong-ik",
+        "Ki-taek"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Bay Park'ın adı nedir?",
+      "choices": [
+        "Min-hyuk",
+        "Geun-sae",
+        "Ki-taek",
+        "Dong-ik"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Bay Park'ı hangi oyuncu canlandırır?",
+      "choices": [
+        "Song Kang-ho",
+        "Choi Woo-shik",
+        "Park Myung-hoon",
+        "Lee Sun-kyun"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Bayan Park (Yeon-kyo) rolünü hangi oyuncu üstlenir?",
+      "choices": [
+        "Jang Hye-jin",
+        "Cho Yeo-jeong",
+        "Lee Jung-eun",
+        "Park So-dam"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ki-jung'u hangi oyuncu canlandırır?",
+      "choices": [
+        "Park So-dam",
+        "Jang Hye-jin",
+        "Cho Yeo-jeong",
+        "Lee Jung-eun"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ki-woo'yu hangi oyuncu canlandırır?",
+      "choices": [
+        "Song Kang-ho",
+        "Lee Sun-kyun",
+        "Choi Woo-shik",
+        "Park Myung-hoon"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Moon-gwang'ı hangi oyuncu canlandırır?",
+      "choices": [
+        "Jang Hye-jin",
+        "Lee Jung-eun",
+        "Cho Yeo-jeong",
+        "Park So-dam"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Kim ailesinin annesi Chung-sook'u hangi oyuncu canlandırır?",
+      "choices": [
+        "Lee Jung-eun",
+        "Cho Yeo-jeong",
+        "Park So-dam",
+        "Jang Hye-jin"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Filmin orijinal Korece adı nedir?",
+      "choices": [
+        "Sonyeon",
+        "Hangang",
+        "Gisaengchung",
+        "Gaeul"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Filmin 2020'de çıkan alternatif sürümü hangisidir?",
+      "choices": [
+        "Siyah-beyaz sürüm",
+        "Yeni sonlu yönetmen kurgusu",
+        "Animasyon sürüm",
+        "Sessiz sürüm"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    }
+  ]
+}

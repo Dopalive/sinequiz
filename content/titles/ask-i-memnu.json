@@ -1,0 +1,1111 @@
+{
+  "slug": "ask-i-memnu",
+  "kind": "series",
+  "release_year": 2008,
+  "tmdb_id": null,
+  "poster_url": null,
+  "translations": {
+    "tr": {
+      "name": "Aşk-ı Memnu",
+      "synopsis": "Halit Ziya Uşaklıgil’in romanından uyarlanan dizi, zengin dul Adnan Ziyagil ile evlenen Bihter’in, Adnan’ın yeğeni Behlül’e duyduğu yasak aşkı anlatır."
+    },
+    "en": {
+      "name": "Aşk-ı Memnu (Forbidden Love)",
+      "synopsis": "Adapted from Halit Ziya Uşaklıgil’s novel, the series follows Bihter, who marries the wealthy widower Adnan Ziyagil and falls into a forbidden love with his nephew Behlül."
+    }
+  },
+  "questions": [
+    {
+      "locale": "tr",
+      "prompt": "Aşk-ı Memnu dizisinin uyarlandığı romanın yazarı kimdir?",
+      "choices": [
+        "Halit Ziya Uşaklıgil",
+        "Reşat Nuri Güntekin",
+        "Yakup Kadri Karaosmanoğlu",
+        "Ahmet Hamdi Tanpınar"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "'Aşk-ı Memnu' ifadesi ne anlama gelir?",
+      "choices": [
+        "Son aşk",
+        "Yasak aşk",
+        "Gizli aşk",
+        "Büyük aşk"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Aşk-ı Memnu'da Bihter karakterini kim canlandırır?",
+      "choices": [
+        "Hazal Kaya",
+        "Nur Fettahoğlu",
+        "Beren Saat",
+        "Zerrin Tekindor"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Aşk-ı Memnu'da Behlül Haznedar rolünü hangi oyuncu oynar?",
+      "choices": [
+        "Selçuk Yöntem",
+        "İlker Kızmaz",
+        "Baran Akbulut",
+        "Kıvanç Tatlıtuğ"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Adnan Ziyagil karakterini hangi oyuncu canlandırır?",
+      "choices": [
+        "Selçuk Yöntem",
+        "Kıvanç Tatlıtuğ",
+        "İlker Kızmaz",
+        "Recep Aktuğ"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Adnan'ın kızı Nihal'i hangi oyuncu canlandırır?",
+      "choices": [
+        "Beren Saat",
+        "Hazal Kaya",
+        "Nur Fettahoğlu",
+        "Zerrin Tekindor"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Bihter'in annesi Firdevs Yöreoğlu rolünde hangi oyuncu yer alır?",
+      "choices": [
+        "Zerrin Tekindor",
+        "Nur Fettahoğlu",
+        "Nebahat Çehre",
+        "Beren Saat"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Fransız mürebbiye Madmazel Deniz de Courton'u kim canlandırır?",
+      "choices": [
+        "Nebahat Çehre",
+        "Hazal Kaya",
+        "Nur Fettahoğlu",
+        "Zerrin Tekindor"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Bihter'in ablası Peyker'i hangi oyuncu oynar?",
+      "choices": [
+        "Nur Fettahoğlu",
+        "Hazal Kaya",
+        "Zerrin Tekindor",
+        "Nebahat Çehre"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Nihat Önal karakterini hangi oyuncu canlandırır?",
+      "choices": [
+        "Recep Aktuğ",
+        "İlker Kızmaz",
+        "Baran Akbulut",
+        "Selçuk Yöntem"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Beşir Elçi rolündeki oyuncu kimdir?",
+      "choices": [
+        "İlker Kızmaz",
+        "Batuhan Karacakaya",
+        "Baran Akbulut",
+        "Recep Aktuğ"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Adnan'ın küçük oğlu Bülent'i hangi çocuk oyuncu canlandırdı?",
+      "choices": [
+        "Baran Akbulut",
+        "Recep Aktuğ",
+        "İlker Kızmaz",
+        "Batuhan Karacakaya"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Aşk-ı Memnu hangi kanalda yayınlandı?",
+      "choices": [
+        "Kanal D",
+        "Show TV",
+        "Star TV",
+        "ATV"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Aşk-ı Memnu hangi yıl yayına başladı?",
+      "choices": [
+        "2006",
+        "2008",
+        "2007",
+        "2010"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Aşk-ı Memnu toplam kaç bölüm sürdü?",
+      "choices": [
+        "65",
+        "92",
+        "79",
+        "100"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Aşk-ı Memnu kaç sezon sürdü?",
+      "choices": [
+        "1",
+        "3",
+        "4",
+        "2"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Aşk-ı Memnu dizisini hangi yapım şirketi üretti?",
+      "choices": [
+        "Ay Yapım",
+        "Pana Film",
+        "Plato Film",
+        "Med Yapım"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Aşk-ı Memnu'nun yönetmeni kimdir?",
+      "choices": [
+        "Uluç Bayraktar",
+        "Hilal Saral",
+        "Sinan Öztürk",
+        "Serdar Akar"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Aşk-ı Memnu'nun senaryosunu hangi ikili yazdı?",
+      "choices": [
+        "Kerem Deren ve Pınar Bulut",
+        "Gökhan Horzum ve Damla Serim",
+        "Ece Yörenç ve Melek Gençoğlu",
+        "Raci Şaşmaz ve Bahadır Özdener"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Aşk-ı Memnu'nun müziklerini kim besteledi?",
+      "choices": [
+        "Gökhan Kırdar",
+        "Cem Kısmet",
+        "Fahir Atakoğlu",
+        "Toygar Işıklı"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ziyagil ailesi dizide nerede yaşar?",
+      "choices": [
+        "Boğaz'da bir yalıda",
+        "Ankara'da bir apartmanda",
+        "Bodrum'da bir villada",
+        "Beyoğlu'nda bir pasajda"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Ziyagil Köşkü sahneleri hangi semtteki köşkte çekildi?",
+      "choices": [
+        "Beykoz",
+        "Sarıyer",
+        "Üsküdar",
+        "Kadıköy"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Bihter, dizinin başında kimle evlenir?",
+      "choices": [
+        "Behlül Haznedar",
+        "Nihat Önal",
+        "Adnan Ziyagil",
+        "Beşir Elçi"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Adnan Ziyagil'in medeni durumu dizinin başında nedir?",
+      "choices": [
+        "Bekâr",
+        "Boşanmış",
+        "Nişanlı",
+        "Dul"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Bihter'in annesinin adı nedir?",
+      "choices": [
+        "Firdevs",
+        "Peyker",
+        "Nihal",
+        "Deniz"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Bihter'in ablasının adı nedir?",
+      "choices": [
+        "Nihal",
+        "Peyker",
+        "Deniz",
+        "Firdevs"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Nihal, Behlül'e karşı nasıl hisler besler?",
+      "choices": [
+        "Beşir",
+        "Nihat",
+        "Behlül",
+        "Bülent"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Şoför Beşir kime aşıktır?",
+      "choices": [
+        "Bihter",
+        "Peyker",
+        "Deniz",
+        "Nihal"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Behlül, Bihter ile tanışmadan önce hangi karakterle ilişki yaşamıştı?",
+      "choices": [
+        "Peyker",
+        "Nihal",
+        "Deniz",
+        "Firdevs"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Bihter'in babası Melih'in ölümüne ne yol açar?",
+      "choices": [
+        "Trafik kazası",
+        "Eşinin ihanetini öğrenince kalp krizi geçirmesi",
+        "İş yerindeki cinayet",
+        "İntihar"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Bihter, babasının ölümünden dolayı kimi suçlar?",
+      "choices": [
+        "Ablasını",
+        "Adnan'ı",
+        "Annesini",
+        "Behlül'ü"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Adnan Ziyagil'in çocukları kimlerdir?",
+      "choices": [
+        "Behlül ve Nihal",
+        "Peyker ve Bülent",
+        "Beşir ve Nihal",
+        "Nihal ve Bülent"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Behlül'ün dizinin başındaki imajı nedir?",
+      "choices": [
+        "Çapkın bir genç",
+        "Kaçak bir suçlu",
+        "Başarılı bir doktor",
+        "Dindar bir öğrenci"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Nihat Önal, Peyker'in neyidir?",
+      "choices": [
+        "Kuzeni",
+        "Eşi",
+        "Kardeşi",
+        "Nişanlısı"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dizinin finalinde Bihter'e ne olur?",
+      "choices": [
+        "Behlül ile kaçar",
+        "Paris'e taşınır",
+        "Hayatına son verir",
+        "Hapse girer"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Aşk-ı Memnu'nun 2013'te Telemundo tarafından yapılan İspanyolca uyarlamasının adı nedir?",
+      "choices": [
+        "Amor prohibido",
+        "Secretos de familia",
+        "Fruto prohibido",
+        "Pasión prohibida"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Aşk-ı Memnu'nun Romanya uyarlamasının adı nedir?",
+      "choices": [
+        "Fructul oprit",
+        "Dragoste interzisă",
+        "Păcatul",
+        "Iubirea mea"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Adnan Ziyagil'i canlandıran Selçuk Yöntem, Kurtlar Vadisi'nde hangi karakteri oynar?",
+      "choices": [
+        "Polat Alemdar",
+        "Aslan Akbey",
+        "Memati Baş",
+        "Mehmet Karahanlı"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Aşk-ı Memnu ile hangi başka ünlü dizi aynı yapım şirketine (Ay Yapım) aittir?",
+      "choices": [
+        "Kurtlar Vadisi",
+        "Avrupa Yakası",
+        "Ezel",
+        "Behzat Ç."
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Romanın 1975'teki sinema uyarlamasında Bihter'i kim canlandırmıştır?",
+      "choices": [
+        "Türkan Şoray",
+        "Hülya Koçyiğit",
+        "Filiz Akın",
+        "Müjde Ar"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Deniz de Courton, Ziyagil evinde hangi görevi üstlenir?",
+      "choices": [
+        "Çocukların mürebbiyesi",
+        "Aşçı",
+        "Şoför",
+        "Muhasebeci"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Aşk-ı Memnu'daki yasak aşk hangi iki kişi arasındadır?",
+      "choices": [
+        "Nihal ve Beşir",
+        "Bihter ve Behlül",
+        "Adnan ve Deniz",
+        "Peyker ve Nihat"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who wrote the novel that Aşk-ı Memnu is adapted from?",
+      "choices": [
+        "Reşat Nuri Güntekin",
+        "Yakup Kadri Karaosmanoğlu",
+        "Halit Ziya Uşaklıgil",
+        "Ahmet Hamdi Tanpınar"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What does 'Aşk-ı Memnu' mean in English?",
+      "choices": [
+        "Last love",
+        "Secret love",
+        "Great love",
+        "Forbidden love"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays Bihter in Aşk-ı Memnu?",
+      "choices": [
+        "Beren Saat",
+        "Hazal Kaya",
+        "Nur Fettahoğlu",
+        "Zerrin Tekindor"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Behlül Haznedar in Aşk-ı Memnu?",
+      "choices": [
+        "Selçuk Yöntem",
+        "Kıvanç Tatlıtuğ",
+        "İlker Kızmaz",
+        "Baran Akbulut"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Adnan Ziyagil?",
+      "choices": [
+        "Kıvanç Tatlıtuğ",
+        "İlker Kızmaz",
+        "Selçuk Yöntem",
+        "Recep Aktuğ"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actress plays Adnan's daughter Nihal?",
+      "choices": [
+        "Beren Saat",
+        "Nur Fettahoğlu",
+        "Zerrin Tekindor",
+        "Hazal Kaya"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actress plays Bihter's mother, Firdevs Yöreoğlu?",
+      "choices": [
+        "Nebahat Çehre",
+        "Zerrin Tekindor",
+        "Nur Fettahoğlu",
+        "Beren Saat"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays the French governess Mademoiselle Deniz de Courton?",
+      "choices": [
+        "Nebahat Çehre",
+        "Zerrin Tekindor",
+        "Hazal Kaya",
+        "Nur Fettahoğlu"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actress plays Bihter's older sister Peyker?",
+      "choices": [
+        "Hazal Kaya",
+        "Zerrin Tekindor",
+        "Nur Fettahoğlu",
+        "Nebahat Çehre"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Nihat Önal?",
+      "choices": [
+        "Recep Aktuğ",
+        "Baran Akbulut",
+        "Selçuk Yöntem",
+        "İlker Kızmaz"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Beşir Elçi?",
+      "choices": [
+        "Baran Akbulut",
+        "İlker Kızmaz",
+        "Batuhan Karacakaya",
+        "Recep Aktuğ"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which child actor played Adnan's young son Bülent?",
+      "choices": [
+        "Baran Akbulut",
+        "Batuhan Karacakaya",
+        "Recep Aktuğ",
+        "İlker Kızmaz"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "On which channel did Aşk-ı Memnu air?",
+      "choices": [
+        "Show TV",
+        "Star TV",
+        "Kanal D",
+        "ATV"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which year did Aşk-ı Memnu premiere?",
+      "choices": [
+        "2006",
+        "2007",
+        "2010",
+        "2008"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many episodes does Aşk-ı Memnu have in total?",
+      "choices": [
+        "79",
+        "65",
+        "92",
+        "100"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many seasons did Aşk-ı Memnu run?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which company produced Aşk-ı Memnu?",
+      "choices": [
+        "Pana Film",
+        "Plato Film",
+        "Ay Yapım",
+        "Med Yapım"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who directed Aşk-ı Memnu?",
+      "choices": [
+        "Uluç Bayraktar",
+        "Sinan Öztürk",
+        "Serdar Akar",
+        "Hilal Saral"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which duo wrote the screenplay of Aşk-ı Memnu?",
+      "choices": [
+        "Ece Yörenç and Melek Gençoğlu",
+        "Kerem Deren and Pınar Bulut",
+        "Gökhan Horzum and Damla Serim",
+        "Raci Şaşmaz and Bahadır Özdener"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who composed the music of Aşk-ı Memnu?",
+      "choices": [
+        "Gökhan Kırdar",
+        "Toygar Işıklı",
+        "Cem Kısmet",
+        "Fahir Atakoğlu"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Where does the Ziyagil family live in the series?",
+      "choices": [
+        "In an apartment in Ankara",
+        "In a villa in Bodrum",
+        "In a mansion on the Bosphorus",
+        "In a passage in Beyoğlu"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which Istanbul district is the mansion used as the Ziyagil home located?",
+      "choices": [
+        "Beykoz",
+        "Üsküdar",
+        "Kadıköy",
+        "Sarıyer"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Whom does Bihter marry at the start of the story?",
+      "choices": [
+        "Adnan Ziyagil",
+        "Behlül Haznedar",
+        "Nihat Önal",
+        "Beşir Elçi"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Adnan Ziyagil's marital status when the story begins?",
+      "choices": [
+        "Single",
+        "Widower",
+        "Divorced",
+        "Engaged"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of Bihter's mother?",
+      "choices": [
+        "Peyker",
+        "Nihal",
+        "Firdevs",
+        "Deniz"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of Bihter's older sister?",
+      "choices": [
+        "Nihal",
+        "Deniz",
+        "Firdevs",
+        "Peyker"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Nihal develops romantic feelings for which character?",
+      "choices": [
+        "Behlül",
+        "Beşir",
+        "Nihat",
+        "Bülent"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Whom is the driver Beşir secretly in love with?",
+      "choices": [
+        "Bihter",
+        "Nihal",
+        "Peyker",
+        "Deniz"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which character had Behlül been involved with before he met Bihter?",
+      "choices": [
+        "Nihal",
+        "Deniz",
+        "Peyker",
+        "Firdevs"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What causes the death of Bihter's father Melih?",
+      "choices": [
+        "A car accident",
+        "A murder at his workplace",
+        "Suicide",
+        "A heart attack after discovering his wife's infidelity"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Whom does Bihter blame for her father's death?",
+      "choices": [
+        "Her mother",
+        "Her sister",
+        "Adnan",
+        "Behlül"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who are Adnan Ziyagil's two children?",
+      "choices": [
+        "Behlül and Nihal",
+        "Nihal and Bülent",
+        "Peyker and Bülent",
+        "Beşir and Nihal"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How is Behlül characterized early in the series?",
+      "choices": [
+        "A fugitive criminal",
+        "A successful doctor",
+        "A charming womanizer",
+        "A devout student"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How is Nihat Önal related to Peyker?",
+      "choices": [
+        "Her cousin",
+        "Her brother",
+        "Her fiancé",
+        "Her husband"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What happens to Bihter in the series finale?",
+      "choices": [
+        "She takes her own life",
+        "She runs away with Behlül",
+        "She moves to Paris",
+        "She goes to prison"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the title of Telemundo's 2013 Spanish-language remake of Aşk-ı Memnu?",
+      "choices": [
+        "Amor prohibido",
+        "Pasión prohibida",
+        "Secretos de familia",
+        "Fruto prohibido"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the Romanian remake of Aşk-ı Memnu called?",
+      "choices": [
+        "Dragoste interzisă",
+        "Păcatul",
+        "Fructul oprit",
+        "Iubirea mea"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Selçuk Yöntem, who plays Adnan Ziyagil, plays which character in Kurtlar Vadisi (Valley of the Wolves)?",
+      "choices": [
+        "Polat Alemdar",
+        "Memati Baş",
+        "Mehmet Karahanlı",
+        "Aslan Akbey"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which other hit series was made by the same company as Aşk-ı Memnu, Ay Yapım?",
+      "choices": [
+        "Ezel",
+        "Kurtlar Vadisi",
+        "Avrupa Yakası",
+        "Behzat Ç."
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who played Bihter in the 1975 film adaptation of the novel?",
+      "choices": [
+        "Türkan Şoray",
+        "Müjde Ar",
+        "Hülya Koçyiğit",
+        "Filiz Akın"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What role does Deniz de Courton have in the Ziyagil household?",
+      "choices": [
+        "The cook",
+        "The driver",
+        "The children's governess",
+        "The accountant"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which two characters are involved in the central forbidden love?",
+      "choices": [
+        "Nihal and Beşir",
+        "Adnan and Deniz",
+        "Peyker and Nihat",
+        "Bihter and Behlül"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    }
+  ]
+}

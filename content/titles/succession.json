@@ -1,0 +1,1279 @@
+{
+  "slug": "succession",
+  "kind": "series",
+  "release_year": 2018,
+  "tmdb_id": null,
+  "poster_url": null,
+  "translations": {
+    "en": {
+      "name": "Succession",
+      "synopsis": "The ageing patriarch of a global media empire pits his ambitious, dysfunctional children against one another as they scramble to succeed him at the head of the company."
+    },
+    "tr": {
+      "name": "Succession",
+      "synopsis": "Küresel bir medya imparatorluğunun yaşlanan patronu, şirketin başına geçmek için birbirine düşen hırslı ve sorunlu çocuklarının mücadelesine tanık olur."
+    }
+  },
+  "episodes": [
+    {
+      "season": 1,
+      "number": 1
+    },
+    {
+      "season": 1,
+      "number": 2
+    },
+    {
+      "season": 1,
+      "number": 3
+    },
+    {
+      "season": 1,
+      "number": 4
+    },
+    {
+      "season": 1,
+      "number": 5
+    },
+    {
+      "season": 1,
+      "number": 6
+    },
+    {
+      "season": 1,
+      "number": 7
+    },
+    {
+      "season": 1,
+      "number": 8
+    },
+    {
+      "season": 1,
+      "number": 9
+    },
+    {
+      "season": 1,
+      "number": 10
+    },
+    {
+      "season": 4,
+      "number": 1
+    },
+    {
+      "season": 4,
+      "number": 2
+    },
+    {
+      "season": 4,
+      "number": 3
+    },
+    {
+      "season": 4,
+      "number": 4
+    },
+    {
+      "season": 4,
+      "number": 5
+    },
+    {
+      "season": 4,
+      "number": 6
+    },
+    {
+      "season": 4,
+      "number": 7
+    },
+    {
+      "season": 4,
+      "number": 8
+    },
+    {
+      "season": 4,
+      "number": 9
+    },
+    {
+      "season": 4,
+      "number": 10
+    }
+  ],
+  "questions": [
+    {
+      "locale": "en",
+      "prompt": "What is the name of the Roy family's media conglomerate?",
+      "choices": [
+        "Pierce Global Media",
+        "GoJo",
+        "Waystar RoyCo",
+        "Vaulter"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who is the patriarch of the Roy family?",
+      "choices": [
+        "Logan Roy",
+        "Ewan Roy",
+        "Connor Roy",
+        "Stewy Hosseini"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Logan Roy?",
+      "choices": [
+        "Jeremy Strong",
+        "James Cromwell",
+        "Matthew Macfadyen",
+        "Brian Cox"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who is Shiv Roy's husband?",
+      "choices": [
+        "Greg Hirsch",
+        "Tom Wambsgans",
+        "Stewy Hosseini",
+        "Frank Vernon"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which Roy sibling is the eldest?",
+      "choices": [
+        "Connor",
+        "Kendall",
+        "Roman",
+        "Shiv"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which cable news network belongs to the Roy empire?",
+      "choices": [
+        "CNN",
+        "Fox News",
+        "ATN",
+        "MSNBC"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which cable channel originally aired Succession?",
+      "choices": [
+        "Showtime",
+        "HBO",
+        "AMC",
+        "FX"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many seasons does Succession have?",
+      "choices": [
+        "3",
+        "5",
+        "6",
+        "4"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who created Succession?",
+      "choices": [
+        "David Simon",
+        "Mike White",
+        "Armando Iannucci",
+        "Jesse Armstrong"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which political office does Connor Roy campaign for?",
+      "choices": [
+        "Governor of New York",
+        "President of the United States",
+        "Mayor of New York",
+        "Senator from New Mexico"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which nickname does Roman give Greg?",
+      "choices": [
+        "Greg the Egg",
+        "Gregory the Great",
+        "Gregor",
+        "Egghead"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which Roy child is seen as Logan's heir apparent at the start of the series?",
+      "choices": [
+        "Roman",
+        "Shiv",
+        "Kendall",
+        "Connor"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays Kendall Roy?",
+      "choices": [
+        "Kieran Culkin",
+        "Jeremy Strong",
+        "Alan Ruck",
+        "Nicholas Braun"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays Roman Roy?",
+      "choices": [
+        "Jeremy Strong",
+        "Alan Ruck",
+        "Matthew Macfadyen",
+        "Kieran Culkin"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays Shiv Roy?",
+      "choices": [
+        "J. Smith-Cameron",
+        "Hiam Abbass",
+        "Sarah Snook",
+        "Dagmara Domińczyk"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays Connor Roy?",
+      "choices": [
+        "Alan Ruck",
+        "Nicholas Braun",
+        "Matthew Macfadyen",
+        "Kieran Culkin"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays Tom Wambsgans?",
+      "choices": [
+        "Nicholas Braun",
+        "Alan Ruck",
+        "Matthew Macfadyen",
+        "Peter Friedman"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who plays Cousin Greg?",
+      "choices": [
+        "Nicholas Braun",
+        "Matthew Macfadyen",
+        "Arian Moayed",
+        "David Rasche"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who is Logan's wife at the start of the series?",
+      "choices": [
+        "Caroline",
+        "Willa",
+        "Rava",
+        "Marcia"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Gerri Kellman's role in the company?",
+      "choices": [
+        "Chief financial officer",
+        "General counsel",
+        "Head of communications",
+        "Chief operating officer"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which country was Logan Roy born?",
+      "choices": [
+        "Scotland",
+        "Ireland",
+        "England",
+        "Canada"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What health crisis kicks off the struggle for succession in season 1?",
+      "choices": [
+        "A heart attack",
+        "A car accident",
+        "A brain hemorrhage",
+        "Poisoning"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who is the investor who often clashes with the Roys, nicknamed 'Stewy'?",
+      "choices": [
+        "Lukas Matsson",
+        "Stewy Hosseini",
+        "Nan Pierce",
+        "Hugo Baker"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which company is led by Lukas Matsson?",
+      "choices": [
+        "Pierce Global Media",
+        "Vaulter",
+        "ATN",
+        "GoJo"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "season": 4,
+      "episode": 3,
+      "prompt": "What is the title of the episode in which Logan dies?",
+      "choices": [
+        "With Open Eyes",
+        "Church and State",
+        "Living+",
+        "Connor's Wedding"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who becomes the U.S. CEO of Waystar at the end of the series?",
+      "choices": [
+        "Kendall Roy",
+        "Tom Wambsgans",
+        "Roman Roy",
+        "Shiv Roy"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "season": 1,
+      "episode": 10,
+      "prompt": "Who dies when Kendall crashes his car at the end of season 1?",
+      "choices": [
+        "A young waiter",
+        "Greg",
+        "Tom",
+        "A bodyguard"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is the name of the song Kendall awkwardly raps at Logan's birthday party?",
+      "choices": [
+        "Boy Don't Cry",
+        "Roy Boys",
+        "L to the OG",
+        "Rich Daddy Rap"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which U.S. state is Connor Roy's ranch located?",
+      "choices": [
+        "Montana",
+        "New Mexico",
+        "Texas",
+        "Colorado"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What was Shiv's job before she returned to the family company?",
+      "choices": [
+        "Lawyer",
+        "Investment banker",
+        "Journalist",
+        "Political consultant"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which humiliating game does Logan make his staff play at the Hungary retreat?",
+      "choices": [
+        "Goat on the Roof",
+        "Dog on the Table",
+        "Boar on the Floor",
+        "Pig in the Mud"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actress plays Gerri Kellman?",
+      "choices": [
+        "J. Smith-Cameron",
+        "Hiam Abbass",
+        "Dagmara Domińczyk",
+        "Sarah Snook"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actress plays Marcia Roy?",
+      "choices": [
+        "J. Smith-Cameron",
+        "Dagmara Domińczyk",
+        "Hiam Abbass",
+        "Sarah Snook"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Stewy Hosseini?",
+      "choices": [
+        "Arian Moayed",
+        "Peter Friedman",
+        "David Rasche",
+        "Fisher Stevens"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Lukas Matsson?",
+      "choices": [
+        "James Cromwell",
+        "Fisher Stevens",
+        "Arian Moayed",
+        "Alexander Skarsgård"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Ewan Roy, Logan's brother?",
+      "choices": [
+        "Brian Cox",
+        "James Cromwell",
+        "David Rasche",
+        "Peter Friedman"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Karl Muller?",
+      "choices": [
+        "David Rasche",
+        "Peter Friedman",
+        "Fisher Stevens",
+        "Arian Moayed"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which actor plays Frank Vernon?",
+      "choices": [
+        "David Rasche",
+        "Fisher Stevens",
+        "Peter Friedman",
+        "Alexander Skarsgård"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Hugo Baker's role at Waystar?",
+      "choices": [
+        "General counsel",
+        "Head of communications",
+        "Chief financial officer",
+        "Chief operating officer"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "What is Karl Muller's role at Waystar?",
+      "choices": [
+        "General counsel",
+        "Head of communications",
+        "Chief operating officer",
+        "Chief financial officer"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which rival media company is led by the Pierce family?",
+      "choices": [
+        "GoJo",
+        "Vaulter",
+        "ATN",
+        "Pierce Global Media"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "How many times did Succession win the Emmy for Outstanding Drama Series?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "1"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Which composer wrote the show's famous theme music?",
+      "choices": [
+        "Nicholas Britell",
+        "Hans Zimmer",
+        "Ludwig Göransson",
+        "Trent Reznor"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "In which year did Succession premiere?",
+      "choices": [
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "en",
+      "prompt": "Who is the mother of Kendall, Roman and Shiv?",
+      "choices": [
+        "Marcia Roy",
+        "Caroline Collingwood",
+        "Rava Roy",
+        "Willa Ferreyra"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Roy ailesinin medya şirketinin adı nedir?",
+      "choices": [
+        "Pierce Global Media",
+        "GoJo",
+        "Waystar RoyCo",
+        "Vaulter"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Roy ailesinin patriarkı kimdir?",
+      "choices": [
+        "Ewan Roy",
+        "Logan Roy",
+        "Connor Roy",
+        "Stewy Hosseini"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Logan Roy'u hangi oyuncu canlandırır?",
+      "choices": [
+        "Jeremy Strong",
+        "James Cromwell",
+        "Matthew Macfadyen",
+        "Brian Cox"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Shiv Roy'un kocası kimdir?",
+      "choices": [
+        "Greg Hirsch",
+        "Stewy Hosseini",
+        "Frank Vernon",
+        "Tom Wambsgans"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Roy kardeşlerin en büyüğü hangisidir?",
+      "choices": [
+        "Kendall",
+        "Connor",
+        "Roman",
+        "Shiv"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Roy imparatorluğuna ait haber kanalı hangisidir?",
+      "choices": [
+        "ATN",
+        "CNN",
+        "Fox News",
+        "MSNBC"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Succession hangi kanalda yayımlandı?",
+      "choices": [
+        "Showtime",
+        "AMC",
+        "HBO",
+        "FX"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Succession kaç sezon sürdü?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct_index": 1,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Succession'ı kim yarattı?",
+      "choices": [
+        "David Simon",
+        "Mike White",
+        "Armando Iannucci",
+        "Jesse Armstrong"
+      ],
+      "correct_index": 3,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Connor Roy hangi makam için aday olur?",
+      "choices": [
+        "New York Valiliği",
+        "New York Belediye Başkanlığı",
+        "ABD Başkanlığı",
+        "New Mexico Senatörlüğü"
+      ],
+      "correct_index": 2,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Roman, Greg'e hangi lakabı takar?",
+      "choices": [
+        "Greg the Egg",
+        "Gregory the Great",
+        "Gregor",
+        "Egghead"
+      ],
+      "correct_index": 0,
+      "difficulty": 1,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dizinin başında Logan'ın doğal halefi olarak görülen Roy çocuğu hangisidir?",
+      "choices": [
+        "Roman",
+        "Shiv",
+        "Kendall",
+        "Connor"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Kendall Roy'u hangi oyuncu canlandırır?",
+      "choices": [
+        "Jeremy Strong",
+        "Kieran Culkin",
+        "Alan Ruck",
+        "Nicholas Braun"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Roman Roy'u hangi oyuncu canlandırır?",
+      "choices": [
+        "Jeremy Strong",
+        "Alan Ruck",
+        "Matthew Macfadyen",
+        "Kieran Culkin"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Shiv Roy'u hangi oyuncu canlandırır?",
+      "choices": [
+        "J. Smith-Cameron",
+        "Sarah Snook",
+        "Hiam Abbass",
+        "Dagmara Domińczyk"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Connor Roy'u hangi oyuncu canlandırır?",
+      "choices": [
+        "Alan Ruck",
+        "Nicholas Braun",
+        "Matthew Macfadyen",
+        "Kieran Culkin"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Tom Wambsgans'ı hangi oyuncu canlandırır?",
+      "choices": [
+        "Nicholas Braun",
+        "Alan Ruck",
+        "Matthew Macfadyen",
+        "Peter Friedman"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Cousin Greg'i hangi oyuncu canlandırır?",
+      "choices": [
+        "Matthew Macfadyen",
+        "Nicholas Braun",
+        "Arian Moayed",
+        "David Rasche"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dizinin başında Logan'ın eşi kimdir?",
+      "choices": [
+        "Caroline",
+        "Willa",
+        "Rava",
+        "Marcia"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Gerri Kellman şirkette hangi görevi yürütür?",
+      "choices": [
+        "Mali işler direktörü",
+        "İletişim sorumlusu",
+        "Operasyon direktörü",
+        "Hukuk müşaviri"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Logan Roy hangi ülkede doğmuştur?",
+      "choices": [
+        "İrlanda",
+        "İskoçya",
+        "İngiltere",
+        "Kanada"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Birinci sezonda halefiyet mücadelesini başlatan sağlık sorunu nedir?",
+      "choices": [
+        "Beyin kanaması",
+        "Kalp krizi",
+        "Araba kazası",
+        "Zehirlenme"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Roy'larla sürekli çatışan, 'Stewy' diye anılan yatırımcı kimdir?",
+      "choices": [
+        "Lukas Matsson",
+        "Nan Pierce",
+        "Stewy Hosseini",
+        "Hugo Baker"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Lukas Matsson'ın yönettiği şirket hangisidir?",
+      "choices": [
+        "Pierce Global Media",
+        "GoJo",
+        "Vaulter",
+        "ATN"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "season": 4,
+      "episode": 3,
+      "prompt": "Logan'ın öldüğü bölümün adı nedir?",
+      "choices": [
+        "With Open Eyes",
+        "Church and State",
+        "Living+",
+        "Connor's Wedding"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dizinin sonunda Waystar'ın ABD CEO'su kim olur?",
+      "choices": [
+        "Kendall Roy",
+        "Roman Roy",
+        "Tom Wambsgans",
+        "Shiv Roy"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "season": 1,
+      "episode": 10,
+      "prompt": "Birinci sezonun sonunda Kendall'ın arabayı kaza yaptığı olayda kim ölür?",
+      "choices": [
+        "Genç bir garson",
+        "Greg",
+        "Tom",
+        "Bir koruma"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Kendall, Logan'ın doğum gününde utandırıcı biçimde hangi şarkıyı rap yapar?",
+      "choices": [
+        "Boy Don't Cry",
+        "Roy Boys",
+        "L to the OG",
+        "Rich Daddy Rap"
+      ],
+      "correct_index": 2,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Connor Roy'un çiftliği hangi ABD eyaletindedir?",
+      "choices": [
+        "New Mexico",
+        "Montana",
+        "Teksas",
+        "Colorado"
+      ],
+      "correct_index": 0,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Shiv aile şirketine dönmeden önce ne iş yapıyordu?",
+      "choices": [
+        "Avukat",
+        "Yatırım bankacısı",
+        "Gazeteci",
+        "Siyasi danışman"
+      ],
+      "correct_index": 3,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Logan, Macaristan'daki toplantıda çalışanlarına hangi aşağılayıcı oyunu oynatır?",
+      "choices": [
+        "Goat on the Roof",
+        "Boar on the Floor",
+        "Dog on the Table",
+        "Pig in the Mud"
+      ],
+      "correct_index": 1,
+      "difficulty": 2,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Gerri Kellman'ı hangi oyuncu canlandırır?",
+      "choices": [
+        "J. Smith-Cameron",
+        "Hiam Abbass",
+        "Dagmara Domińczyk",
+        "Sarah Snook"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Marcia Roy'u hangi oyuncu canlandırır?",
+      "choices": [
+        "J. Smith-Cameron",
+        "Dagmara Domińczyk",
+        "Hiam Abbass",
+        "Sarah Snook"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Stewy Hosseini'yi hangi oyuncu canlandırır?",
+      "choices": [
+        "Peter Friedman",
+        "Arian Moayed",
+        "David Rasche",
+        "Fisher Stevens"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Lukas Matsson'ı hangi oyuncu canlandırır?",
+      "choices": [
+        "James Cromwell",
+        "Fisher Stevens",
+        "Arian Moayed",
+        "Alexander Skarsgård"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Logan'ın kardeşi Ewan Roy'u hangi oyuncu canlandırır?",
+      "choices": [
+        "Brian Cox",
+        "David Rasche",
+        "Peter Friedman",
+        "James Cromwell"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Karl Muller'i hangi oyuncu canlandırır?",
+      "choices": [
+        "Peter Friedman",
+        "David Rasche",
+        "Fisher Stevens",
+        "Arian Moayed"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Frank Vernon'u hangi oyuncu canlandırır?",
+      "choices": [
+        "Peter Friedman",
+        "David Rasche",
+        "Fisher Stevens",
+        "Alexander Skarsgård"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Hugo Baker'ın Waystar'daki görevi nedir?",
+      "choices": [
+        "Hukuk müşaviri",
+        "Mali işler direktörü",
+        "İletişim sorumlusu",
+        "Operasyon direktörü"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Karl Muller'in Waystar'daki görevi nedir?",
+      "choices": [
+        "Hukuk müşaviri",
+        "Mali işler direktörü",
+        "İletişim sorumlusu",
+        "Operasyon direktörü"
+      ],
+      "correct_index": 1,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Pierce ailesinin yönettiği rakip medya şirketi hangisidir?",
+      "choices": [
+        "GoJo",
+        "Vaulter",
+        "ATN",
+        "Pierce Global Media"
+      ],
+      "correct_index": 3,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Succession, En İyi Dram Dizisi Emmy'sini kaç kez kazandı?",
+      "choices": [
+        "2",
+        "4",
+        "3",
+        "1"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Dizinin ünlü müziklerini hangi besteci yazdı?",
+      "choices": [
+        "Nicholas Britell",
+        "Hans Zimmer",
+        "Ludwig Göransson",
+        "Trent Reznor"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Succession hangi yıl yayına başladı?",
+      "choices": [
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "correct_index": 2,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    },
+    {
+      "locale": "tr",
+      "prompt": "Kendall, Roman ve Shiv'in annesi kimdir?",
+      "choices": [
+        "Caroline Collingwood",
+        "Marcia Roy",
+        "Rava Roy",
+        "Willa Ferreyra"
+      ],
+      "correct_index": 0,
+      "difficulty": 3,
+      "source_ref": "ai:claude-sonnet-5-5:2026-10-03"
+    }
+  ]
+}
