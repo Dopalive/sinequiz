@@ -76,6 +76,7 @@ create or replace function handle_new_user() returns trigger
 language plpgsql security definer set search_path = public as $$
 begin
   insert into profiles (id) values (new.id);
+  -- 100 = COINS.WELCOME in packages/shared/src/coins.ts; keep in sync
   insert into coin_ledger (user_id, delta, reason) values (new.id, 100, 'welcome');
   return new;
 end $$;

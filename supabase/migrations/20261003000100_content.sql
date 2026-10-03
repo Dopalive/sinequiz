@@ -1,5 +1,4 @@
 -- Content tables: written by the pipeline (service role), read by clients through questions_public.
-create extension if not exists "pgcrypto";
 
 create type title_kind as enum ('series', 'movie');
 
